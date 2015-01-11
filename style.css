@@ -1,0 +1,11 @@
+.divPrevNext {
+    float:right;
+    padding-top:8px;
+}
+.page-header {
+    margin: 82px 0px 0px 0px !important;
+}
+.breadcrumb {
+    background: none !important;
+    margin-left: -30px;
+}
