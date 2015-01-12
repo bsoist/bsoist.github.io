@@ -1,3 +1,6 @@
+.divBlogHomeItem:first {
+    margin: 82px 0px 0px 0px !important;
+}
 .divPrevNext {
     float:right;
     padding-top:8px;
