@@ -1,11 +1,8 @@
-div.container:first-child.divBlogHomeItem {
-    margin: 82px 0px 0px 0px !important;
-}
 .divPrevNext {
     float:right;
     padding-top:8px;
 }
-.page-header {
+.pageContainer {
     margin: 82px 0px 0px 0px !important;
 }
 .breadcrumb {
