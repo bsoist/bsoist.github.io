@@ -2,8 +2,15 @@
     float:right;
     padding-top:8px;
 }
-#pageContainer {
+
+.page-header {
 }
+
+#pageContainer {
+    margin-top: 40px;
+    width: 80%;
+}
+
 .breadcrumb {
     background: none !important;
     margin-left: -30px;
