@@ -1,6 +1,6 @@
-{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-{% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-{% capture this_day %}{{ post.date | date: "%d" }}{% endcapture %}
+{% capture this_year %}{{ page.date | date: "%Y" }}{% endcapture %}
+{% capture this_month %}{{ page.date | date: "%B" }}{% endcapture %}
+{% capture this_day %}{{ page.date | date: "%d" }}{% endcapture %}
 {% include header.html %}
 <div class="page-header">
 <div class="divPrevNext">
@@ -9,7 +9,7 @@
 <div class="divBreadcrumbs" id="idBreadcrumbs">
     <ul id="idBreadcrumbList" class="breadcrumb">
         <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/{{ post.date }}">{{ post.date }}</a></li>
+        <li><a href="{{ site.baseurl }}/{{ this_year }}">{{ this_year }}</a></li>
     </ul>
 </div>
 <h1>{{ page.title }}</h1>
