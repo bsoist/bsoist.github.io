@@ -1,4 +1,4 @@
-.divBlogHomeItem:first {
+div.container:first-child.divBlogHomeItem {
     margin: 82px 0px 0px 0px !important;
 }
 .divPrevNext {
