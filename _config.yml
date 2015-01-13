@@ -48,6 +48,11 @@ baseurl: ""
 # Pagination
 paginate: 5
 
+# Archives
+jekyll-archives:
+  enabled: all
+  layout: default
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
