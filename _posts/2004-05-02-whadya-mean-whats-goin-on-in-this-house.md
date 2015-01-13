@@ -10,4 +10,4 @@ tags:
   - Family
   - Fun
 ---
-We saw the school production of *Arsenic & Old Lace* last night.Hilarious!Â The student&#8217;s did a brilliant job.
+We saw the school production of *Arsenic & Old Lace* last night.Hilarious! The student&#8217;s did a brilliant job.
