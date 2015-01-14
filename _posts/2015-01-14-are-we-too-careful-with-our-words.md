@@ -4,7 +4,7 @@ layout: post
 categories:
   - Freedom
 ---
-I've been using Cyber Dust for a while now. I really like using it for private chats, but I have also enjoyed following #blast messages and meeting new friends. Add me - I'm +bsoist. Mark Cuban uses Cyber Dust, and a few weeks ago he sent out a blast asking for recommendations to use for his quote of the day - something he sends out via #blast every day. I immediately thought of a favorite quote of mine.
+I've been using Cyber Dust for a while now. I really like using it for private chats, but I have also enjoyed following #blast messages and meeting new friends. Add me - I'm [+bsoist](http://cyberdust.com/addme?bsoist). Mark Cuban uses Cyber Dust, and a few weeks ago he sent out a blast asking for recommendations to use for his quote of the day - something he sends out via #blast every day. I immediately thought of a favorite quote of mine.
 
 >It's not the size of the dog in the fight, it's the size of the fight in the dog.
 
