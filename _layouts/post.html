@@ -8,7 +8,18 @@
 {% include header.html %}
 <div class="page-header">
 <div class="divPrevNext">
-    <div class="divPrevNextLinks"><a href="http://oped.bsoist.com/2014/05/04/cantReallyTalkAboutIt.html" title="Can't really talk about it ..." ><i class="fa fa-arrow-left" style="color: black"></i></a>&nbsp;&nbsp;<a href="http://oped.bsoist.com/2014/03/08/howIShortenLinks.html" title="How I shorten links" ><i class="fa fa-arrow-right" style="color: black"></i></a></div>
+
+    <div class="divPrevNextLinks">
+    {% if page.next %} 
+        <a rel="prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}" ><i class="fa fa-arrow-left" style="color: black"></i></a>
+    {% endif %}
+    {% if page.previous %} 
+    <a rel="next" href="{{ page.next.url }}" title="{{ page.next.title }}" ><i class="fa fa-arrow-right" style="color: black"></i></a>
+    {% endif %}
+        
+        
+        &nbsp;&nbsp;
+    </div>
 </div>
 <div class="divBreadcrumbs" id="idBreadcrumbs">
     <ul id="idBreadcrumbList" class="breadcrumb">
