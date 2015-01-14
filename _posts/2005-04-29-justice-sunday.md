@@ -16,6 +16,6 @@ When I heard about &#8220;Justice Sunday&#8221; I didn&#8217;t know what to thin
 
 > I have no objection to Christian leaders expressing their faith in the public arena &#8211; it&#8217;s a good thing that I do all the time. The question is not whether to do so, but how. As I heard more and more about &#8220;Justice Sunday,&#8221; it felt to me like it was crossing an important line &#8211; saying that a political issue was a test of faith.&#8211;Jim Wallis
 
-*Couldn&#8217;t agree more, Jim!*
+Couldn&#8217;t agree more, Jim!
 
  [1]: http://www.sojo.net/index.cfm?action=sojomail.display&issue=050428#3
