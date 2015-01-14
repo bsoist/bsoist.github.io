@@ -11,14 +11,12 @@
 
     <div class="divPrevNextLinks">
     {% if page.next %} 
-        <a rel="prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}" ><i class="fa fa-arrow-left" style="color: black"></i></a>
+    <a rel="next" href="{{ page.next.url }}" title="{{ page.next.title }}" ><i class="fa fa-arrow-leftt" style="color: black"></i></a>
     {% endif %}
+    &nbsp;&nbsp;
     {% if page.previous %} 
-    <a rel="next" href="{{ page.next.url }}" title="{{ page.next.title }}" ><i class="fa fa-arrow-right" style="color: black"></i></a>
+        <a rel="prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}" ><i class="fa fa-arrow-rightt" style="color: black"></i></a>
     {% endif %}
-        
-        
-        &nbsp;&nbsp;
     </div>
 </div>
 <div class="divBreadcrumbs" id="idBreadcrumbs">
