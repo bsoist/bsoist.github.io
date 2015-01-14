@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Fun
 ---
-PHL + US Airways =[nightmare.][1]
+PHL + US Airways = [nightmare.][1]
 
  [1]: http://www.philly.com/mld/philly/10498410.htm
