@@ -16,9 +16,6 @@ This morning my alarm sounded nine minutes before I needed to rise. I always set
 
   * Coincidence [Yahoo! Dictionary][2] defines *coincidence* as follows:
     > NOUN: &#8230;2. A sequence of events that althoughaccidental seems to have been planned orarranged.</p>
-    </li> 
-    
-    </ol> 
     
     So essentially, either this **was** planned or it was **accidental** and simply **seems to have been planned**. I have never been comfortable with these glaringly opposite extremes. On the one hand, if something *seems to have been planned*, why **assume** that it was accidental. On the other, the master plan raises some very difficult quesitons in my mind. Too many questions in fact. I **choose** to believe:
     
@@ -29,7 +26,6 @@ This morning my alarm sounded nine minutes before I needed to rise. I always set
       * There is an Almighty God who actively sustains His creation
     
       * Almighty God is a personal God who cares for and **protects** His people.
-    </ul> 
     
     I thank God for protecting me as I travel to work every day. I am especially grateful for today&#8217;s *coincidence*. <i class="fa fa-smile-o"></i>
     

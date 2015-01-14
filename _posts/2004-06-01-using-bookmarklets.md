@@ -12,24 +12,17 @@ tags:
   - geek
   - tech
 ---
-While doing some research for my next project, I ran into some JavaScript code that intrigued me.Â I don&#8217;t use JavaScript, because a long time ago I was brainwashed into thinking that JS was never to be used for anything. I have always thought it was &#8216;cool&#8217; but thought that it was bad design to use it on the web.Â I remembered vaquely (from [Simon Willison&#8217;s Blog][1] as it turns out), reading about something called bookmarklets.Â After a quick [Google for bookmarklets][2], I decided &#8212; &#8220;this is what JS is best used for!&#8221;Â I added several bookmarklets to my links and now I can use them to navigate websites, analyze website designs, and much more.Â The Google link above will take you to most of these but my favorites are:Â  
+While doing some research for my next project, I ran into some JavaScript code that intrigued me. I don&#8217;t use JavaScript, because a long time ago I was brainwashed into thinking that JS was never to be used for anything. I have always thought it was &#8216;cool&#8217; but thought that it was bad design to use it on the web. I remembered vaquely (from [Simon Willison&#8217;s Blog][1] as it turns out), reading about something called bookmarklets. After a quick [Google for bookmarklets][2], I decided &#8212; &#8220;this is what JS is best used for!&#8221; I added several bookmarklets to my links and now I can use them to navigate websites, analyze website designs, and much more. The Google link above will take you to most of these but my favorites are: 
 
   * [Simon Willison&#8217;s Blog][3]
-Â  
 
   * [Bookmarklets.com][4]
-Â  
 
   * [Site Analysis][5]
-Â  
 
   * [Jesse&#8217;s Bookmarklets Site][6]
-Â  
 
   * [More Bookmarklets][7]
-Â </ul> 
-
-Â 
 
  [1]: http://simon.incutio.com/
  [2]: http://google.com/search?q=bookmarklets
