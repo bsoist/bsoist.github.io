@@ -28,3 +28,4 @@ Becky was enjoying playing in the yard and watching Billy and I have our almost 
 "Praising God is the meaning of life."
 
 Thanks Becky for once again teaching your dad a lesson about life!
+

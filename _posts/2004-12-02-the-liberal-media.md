@@ -19,4 +19,4 @@ After watching two of my favorite Sunday morning talk shows I am astounded at wh
 
 > They were kinda liberal actually. In addition to that they were arrogant and they were unwilling to admit that they were devaluing their own credibility with their biases.<cite>Tucker Carlson on The Chris Matthews Show</cite>
 
-Bill Kristol went on to say that he has always thought that calling the media biased is usually an excuse for conservative failure. I could not agree more, **but, ** I do think all reporters let bias slip into reports. It should be noted that the quote from Ms. O&#8217;Donnell is here &#8216;out of context.&#8217; Her point was that broadcast news is really less biased than cable (or Internet) news.**No arguments from me.**
+Bill Kristol went on to say that he has always thought that calling the media biased is usually an excuse for conservative failure. I could not agree more, **but, ** I do think all reporters let bias slip into reports. It should be noted that the quote from Ms. O&#8217;Donnell is here &#8216;out of context.&#8217; Her point was that broadcast news is really less biased than cable (or Internet) news. **No arguments from me.**
