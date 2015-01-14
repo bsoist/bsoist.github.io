@@ -11,7 +11,7 @@ tags:
   - Fun
   - geek
 ---
-While doing laundry, I noticed that my shorts and tees are wearing out badly. Later, while reading some of my favorite feeds, I found [this][1]. Thanks for the tips. I will absolutely pick up the [SQL shirt][2] and [M.A.D. ][3]I&#8217;m going to shop for more too. Keep an eye out for my wishlist in the sidebar. <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
+While doing laundry, I noticed that my shorts and tees are wearing out badly. Later, while reading some of my favorite feeds, I found [this][1]. Thanks for the tips. I will absolutely pick up the [SQL shirt][2] and [M.A.D. ][3] I&#8217;m going to shop for more too. Keep an eye out for my wishlist in the sidebar. <i class="fa fa-smile-o"></i>
 
  [1]: http://www.wilwheaton.net/mt/archives/003300.php
  [2]: http://www.thinkgeek.com/tshirts/frustrations/595d/
