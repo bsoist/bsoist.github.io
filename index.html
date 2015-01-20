@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-{% assign last_post_num = site.paginate/2 %}
-{% for posti in (0..last_post_num) %}
+{% for posti in (0..site.home_page_posts) %}
 {% assign post = site.posts[posti] %}
 <div class="divBlogHomeItem">
 	<h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
