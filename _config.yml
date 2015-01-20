@@ -46,9 +46,7 @@ url: http://bsoist.github.io
 baseurl: ""
 
 # Pagination
-home_page_posts: 9 # use one less than you want
 paginate: 30
-paginate_path: /archives/page/:num/
 
 # Archives
 jekyll-archives:
