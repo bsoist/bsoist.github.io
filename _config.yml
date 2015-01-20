@@ -46,7 +46,7 @@ url: http://bsoist.github.io
 baseurl: ""
 
 # Pagination
-home_page_posts = 10
+home_page_posts: 10
 paginate: 30
 paginate_path: /archives/page/:num/
 
