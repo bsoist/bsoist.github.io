@@ -1,13 +1,11 @@
 ---
 layout: default
 ---
-{% assign post = site.posts.first %}
+{% assign post = site.posts[2] %}
 <div class="divBlogHomeItem">
 	<h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 	<div class="entry-content">
 		{{ post.excerpt }}
 	</div>
 </div>
-{% if post.next %}
 <div><a href="/archives/">Archives</a></div>
-{% endif %}
