@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<p>Hello</p>
-{{paginator.total_pages}}
+<p>foo - {{paginator.total_pages}} </p>
 {% for post in paginator.posts %}
 <div class="divBlogHomeItem">
     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
