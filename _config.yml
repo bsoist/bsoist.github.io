@@ -47,6 +47,7 @@ baseurl: ""
 
 # Pagination
 paginate: 30
+paginate_path: /archives/page/:num/
 
 # Archives
 jekyll-archives:
