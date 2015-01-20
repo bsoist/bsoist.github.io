@@ -3,6 +3,7 @@ layout: default
 ---
 {% assign post = site.posts.first %}
 {% for posti in (1..30) %}
+{% assign post = page.next %}
 <p>{{ posti }}</p>
 <div class="divBlogHomeItem">
 	<h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -10,6 +11,5 @@ layout: default
 		{{ post.excerpt }}
 	</div>
 </div>
-{% assign post = page.next %}
 {% endfor %}
 <div><a href="/archives/">Archives</a></div>
