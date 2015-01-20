@@ -3,8 +3,11 @@ layout: page
 title: Archives
 ---
 {% for post in paginator.posts %}
+{% capture this_year %}{{ page.date | date: "%Y" }}{% endcapture %}
+{% capture this_month %}{{ page.date | date: "%B" }}{% endcapture %}
+{% capture this_day %}{{ page.date | date: "%e" }}{% endcapture %}
 <div class="divBlogHomeItem">
-	<li class="postlist"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	<li class="postlist">{{ this_month }} {{ this_day }}, {{ this_year }} - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 </div>
 {% endfor %}
 {% if paginator.total_pages > 1 %}
