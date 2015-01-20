@@ -16,7 +16,7 @@ layout: default
 		      {% endif %}
 			{% start_page = paginator.page - 4 %}
 			{% end_page = paginator.page + 4 %}
-		        {% for page in (start_page..end_page) %}
+		        {% for page in (page.start_page..page.end_page) %}
 			    {% if page == paginator.page %}
 			          <em>{{ page }}</em>
 				      {% elsif page == 1 %}
