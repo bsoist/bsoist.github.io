@@ -3,9 +3,9 @@ layout: page
 title: Archives
 ---
 {% for post in paginator.posts %}
-{% capture this_year %}{{ page.date | date: "%Y" }}{% endcapture %}
-{% capture this_month %}{{ page.date | date: "%B" }}{% endcapture %}
-{% capture this_day %}{{ page.date | date: "%e" }}{% endcapture %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+{% capture this_day %}{{ post.date | date: "%e" }}{% endcapture %}
 <div class="divBlogHomeItem">
 	<li class="postlist">{{ this_month }} {{ this_day }}, {{ this_year }} - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 </div>
