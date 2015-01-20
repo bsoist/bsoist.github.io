@@ -1,9 +1,10 @@
 ---
 layout: default
+title: Archives
 ---
 {% for post in paginator.posts %}
 <div class="divBlogHomeItem">
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+	<li class="postlist"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 </div>
 {% endfor %}
 {% if paginator.total_pages > 1 %}

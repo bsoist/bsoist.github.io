@@ -17,3 +17,6 @@ p { font-size: 1.5em; }
     background: none !important;
     margin-left: -30px;
 }
+.postlist {
+    list-style: none;
+}
