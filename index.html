@@ -3,6 +3,7 @@ layout: default
 ---
 {% assign post = site.posts.first %}
 {% for posti in (1..30) %}
+<p>{{ posti }}</p>
 <div class="divBlogHomeItem">
 	<h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 	<div class="entry-content">
