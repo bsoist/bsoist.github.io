@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-{% for post in paginator.posts %}
+{% assign post = site.posts.first %}
 <div class="divBlogHomeItem">
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-    {{ post.content }}
+	<h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+	<div class="entry-content">
+		{{ post.excerpt }}
+	</div>
 </div>
-{% endfor %}
-{% if paginator.total_pages > 1 %}
+{% if post.next %}
 <div><a href="/archives/">Archives</a></div>
 {% endif %}
