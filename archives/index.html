@@ -1,36 +1,11 @@
 ---
-Title: Archives
 layout: default
 ---
-<section class="previous-posts-container sec-container archives-layout">
-    <div class="previous-posts clearfix">
-        <div class="previous-posts-inner clearfix">
-            <h1 class="previous-posts-title">Archives</h1>
-            <hr class="blog">
-            <ul class="ppd">
-                {% for post in paginator.posts %}
-                <li>
-                    <time datetime="{{ post.date | date: " %Y-%m-%d " }}" pubdate="pubdate">
-                        <span itemprop="datePublished" content="{{ post.date | date: " %Y-%m-%d " }}">
-                            {{ post.date | date_to_string }}
-                        </span>
-                </li>
-                {% endfor %}
-            </ul>
-            <ul class="ppt">
-                {% for post in paginator.posts %}
-                <li>
-                    <a href="{{ post.url }}">
-                        </time>
-                        <span itemprop="name headline">
-                            {{ post.title }}
-                        </span>
-                    </a>
-                </li>
-                {% endfor %}
-            </ul>
-        </div>
-    </div>
+{% for post in paginator.posts %}
+<div class="divBlogHomeItem">
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+</div>
+{% endfor %}
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
