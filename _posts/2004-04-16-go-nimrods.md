@@ -6,7 +6,7 @@ permalink: /2004/04/16/go-nimrods/
 dsq_thread_id:
   - 48111987
 categories:
-  - Freedom
+  - freedom
   - Fun
 tags:
   - baseball
