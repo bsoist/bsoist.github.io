@@ -7,6 +7,7 @@ dsq_thread_id:
   - 48111987
 categories:
   - fun
+  - freedom
 tags:
   - baseball
 ---
