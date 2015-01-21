@@ -1,4 +1,4 @@
-{% capture tags_content %}Posted in {% endcapture %}
+{% capture cats_content %} Posted in {% endcapture %}
 {% for post_cat in page.categories %}
     {% for data_cat in site.data.cats %}
         {% if data_cat.slug == post_cat %}
