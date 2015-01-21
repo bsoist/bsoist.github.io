@@ -1,17 +1,17 @@
-{% if page.tags.size > 0 %}
-{% capture tags_content %} Posted in 
     {% for post_cat in page.categories %}
         {% for data_cat in site.data.cats %}
             {% if data_cat.slug == post_cat %}
-                {% assign cat = data_cat %}
+                {% assign this_cat = data_cat %}
             {% endif %}
         {% endfor %}
-        {% if cat %}
-            {% capture cats_content_temp %}{{ cats_content }}<a href="/category/{{ cat.slug }}/">{{ cat.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+        {% if this_cat %}
+            {% capture cats_content_temp %}{{ cats_content }}<a href="/category/{{ this_cat.slug }}/">{{ this_cat.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
             {% assign cats_content = cats_content_temp %}
         {% endif %}
     {% endfor %}
-with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+
+{% if page.tags.size > 0 %}
+{% capture tags_content %} with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
     {% for post_tag in page.tags %}
         {% for data_tag in site.data.tags %}
             {% if data_tag.slug == post_tag %}
@@ -62,7 +62,7 @@ with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa
 </div>
 <div class="entry-content">
 {{ content }}
-<p id="post-meta">{{ tags_content }}</p>
+<p id="post-meta">{{ cats_content }}{{ tags_content }}</p>
 </div>
 {% include disqus.html %}
 {% include analytics.html %}
