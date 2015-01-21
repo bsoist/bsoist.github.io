@@ -1,8 +1,8 @@
-- cat: faith
+- slug: faith
   name: Faith
-- cat: family
+- slug: family
   name: Family
-- cat: freedom
+- slug: freedom
   name: Freedom
-- cat: fun
+- slug: fun
   name: Fun
