@@ -1,14 +1,15 @@
-    {% for post_cat in page.categories %}
-        {% for data_cat in site.data.cats %}
-            {% if data_cat.slug == post_cat %}
-                {% assign this_cat = data_cat %}
-            {% endif %}
-        {% endfor %}
-        {% if this_cat %}
-            {% capture cats_content_temp %}{{ cats_content }}<a href="/category/{{ this_cat.slug }}/">{{ this_cat.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
-            {% assign cats_content = cats_content_temp %}
+{% capture tags_content %}Posted in {% endcapture %}
+{% for post_cat in page.categories %}
+    {% for data_cat in site.data.cats %}
+        {% if data_cat.slug == post_cat %}
+            {% assign this_cat = data_cat %}
         {% endif %}
     {% endfor %}
+    {% if this_cat %}
+        {% capture cats_content_temp %}{{ cats_content }}<a href="/category/{{ this_cat.slug }}/">{{ this_cat.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+        {% assign cats_content = cats_content_temp %}
+    {% endif %}
+{% endfor %}
 
 {% if page.tags.size > 0 %}
 {% capture tags_content %} with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
