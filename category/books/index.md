@@ -1,5 +1,5 @@
 ---
 layout: cat
-cat: movies
-catname: Movie Reviews
+cat: books
+catname: Book Reviews
 ---
