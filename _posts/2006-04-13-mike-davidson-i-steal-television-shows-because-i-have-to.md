@@ -7,7 +7,7 @@ categories:
   - Freedom
 tags:
   - dtv
-  - Freedom
+  - freedom
   - tivo
   - tv
 ---

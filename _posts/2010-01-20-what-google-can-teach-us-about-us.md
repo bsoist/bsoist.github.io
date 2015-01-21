@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Faith
 tags:
-  - Faith
+  - faith
   - halloween
   - music
   - peace
