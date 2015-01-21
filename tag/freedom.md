@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Posts by tag: freedom
+title: Posts by tag
 tag: freedom
 permalink: freedom/
 ---
