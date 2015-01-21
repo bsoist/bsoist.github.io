@@ -1,6 +1,6 @@
-{% if post.tags.size > 0 %}
-    {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
-    {% for post_tag in post.tags %}
+{% if page.tags.size > 0 %}
+    {% capture tags_content %}Posted with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+    {% for post_tag in page.tags %}
         {% for data_tag in site.data.tags %}
             {% if data_tag.slug == post_tag %}
                 {% assign tag = data_tag %}
@@ -12,7 +12,7 @@
         {% endif %}
     {% endfor %}
 {% else %}
-    {% assign tags_content = 'no tags' %}
+    {% assign tags_content = '' %}
 {% endif %}
 
 
