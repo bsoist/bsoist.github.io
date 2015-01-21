@@ -3,6 +3,8 @@
 <h1>Browsing {{ page.catname }} Category</h1>
 </div>
 <div class="entry-content">
+    <p>page.cat = {{ page.cat }}</p>
+    <p>site.cats = {{ site.cats }}</p>
     {% if site.cats[page.cat] %}
         {% for post in site.cats[page.cat] %}
         <li class="postlist"><a href="{{ post.url }}/">{{ post.title }}</a></li>
