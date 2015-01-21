@@ -1,5 +1,5 @@
 ---
-layout: blog_by_tag
+layout: tag
 title: Posts by tag: freedom
 tag: freedom
 permalink: freedom/
