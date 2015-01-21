@@ -1,3 +1,13 @@
 - slug: freedom
   name: Freedom
+- slug: health
+  name: Health
+- slug: healthcare
+  name: Healthcare
+- slug: liberty
+  name: Liberty
+- slug: money
+  name: Money
+- slug: politics
+  name: Politics
 
