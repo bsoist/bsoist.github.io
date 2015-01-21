@@ -38,8 +38,21 @@
           <ul class="nav navbar-nav">
               <li><a href="{{ site.baseurl }}/about/" title="about"><i class="fa fa-user"></i></a></li>
 					<li><a href="http://radio3.io/users/bsoist/" title="links" target="_blank"><i class="fa fa-link"></i></a></li>
-					<li><a href="/movies/" title="Movies"><i class="fa fa-film"></i></a></li>
-					<li><a href="/books/" title="Books"><i class="fa fa-book"></i></a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" title="OpEd"><i class="fa fa-comment-o"></i></a></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="/category/faith/">faith</a></li>
+                            <li><a href="/category/family/">Family</a></li>
+                            <li><a href="/category/freedom/">Freedom</a></li>
+                            <li><a href="/category/fun/">Fun</a></li>
+                            <li class="divider"></li>
+                            <li class="dropdown-header">Reviews</li>
+                            <li><a href="/category/books/">Books</a></li>
+                            <li><a href="/category/movies/">Movies</a></li>
+                        </ul>
+                    </li>
+					<li><a href="/category/books/" title="Books"><i class="fa fa-book"></i></a></li>
+					<li><a href="/category/movies/" title="Movies"><i class="fa fa-film"></i></a></li>
 					<li><a href="http://github.com/bsoist" target="_blank" title="Github"><i class="fa fa-github-alt"></i></a></li>
 					<li><a href="http://stackoverflow.com/users/882145/bsoist" target="_blank" title="Stack Overflow"><i class="fa fa-stack-overflow"></i></a></li>
 					<li><a href="http://twitter.com/bsoist" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -55,10 +68,6 @@
                 <li><a href="#">Action</a></li>
                 <li><a href="#">Another action</a></li>
                 <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
               </ul>
             </li>
           </ul>
