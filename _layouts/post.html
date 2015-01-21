@@ -1,5 +1,5 @@
 {% if page.tags.size > 0 %}
-    {% capture tags_content %}{% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+    {% capture tags_content %} Posted in ? with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
     {% for post_tag in page.tags %}
         {% for data_tag in site.data.tags %}
             {% if data_tag.slug == post_tag %}
