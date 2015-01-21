@@ -1,3 +1,4 @@
+{% include header.html %}
 <h1>Posts by tag :{{ page.tag }}</h1>
 <div>
     {% if site.tags[page.tag] %}
@@ -8,4 +9,4 @@
         <p>There are no posts for this tag.</p>
     {% endif %}
 </div>
-
+{% include footer.html %}
