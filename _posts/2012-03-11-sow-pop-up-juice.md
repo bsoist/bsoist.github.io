@@ -1,5 +1,5 @@
 ---
-title: SÅW Pop-Up Juice
+title: SoW Pop-Up Juice
 author: bsoist
 layout: post
 permalink: /2012/03/11/sow-pop-up-juice/
