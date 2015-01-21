@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Freedom
 tags:
-  - Freedom
+  - freedom
   - health
   - healthcare
   - liberty
