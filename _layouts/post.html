@@ -1,3 +1,4 @@
+<p>foo - {{ post.tags.size }} </p>
 {% if post.tags.size > 0 %}
     {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
     {% for post_tag in post.tags %}
@@ -12,7 +13,7 @@
         {% endif %}
     {% endfor %}
 {% else %}
-    {% assign tags_content = '' %}
+    {% assign tags_content = 'no tags' %}
 {% endif %}
 
 
