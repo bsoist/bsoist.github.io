@@ -19,3 +19,6 @@ p { font-size: 1.5em; }
 .postlist {
     list-style: none;
 }
+.nav2 {
+    float: left !important;
+}
