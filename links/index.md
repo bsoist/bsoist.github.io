@@ -13,6 +13,6 @@ I used [Radio3][3] for a short while.
 Before that I used [delicious][4].
 
 [1]: http://www.bsoi.st/2014/03/08/how-i-shorten-links/
-[2]: http://feeds.feedburner.com/BsoistsLinkBlog
+[2]: http://feeds.feedburner.com/BsoistsLinkBlogFeed
 [3]: http://radio3.io/users/bsoist/
 [4]: https://delicious.com/bsoist
