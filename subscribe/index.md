@@ -18,6 +18,6 @@ If you prefer to subscribe via RSS, these are the feeds you can choose from.
   * [Well, if you ask me...][2] - my blog posts
   * [linkblog][3] - every link I share
 
- [1]: http://feeds.feedburner.com/WellIfYouAskMe
+ [1]: http://feeds.feedburner.com/BsoistsNotes
  [2]: http://feeds.feedburner.com/WellIfYouAskMe
- [3]: http://feeds.feedburner.com/WellIfYouAskMe
+ [3]: http://feeds.feedburner.com/BsoistsLinkBlogFeed
