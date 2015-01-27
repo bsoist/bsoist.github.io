@@ -3,6 +3,9 @@ title: Bill Soistmann
 description: programmer, educator, trouble maker
 author: bsoist
 layout: page
+redirects:
+    /contact/
+    /contact-me/
 ---
 ## About Me
 My name is Bill. I am a programmer, educator, and trouble maker.
