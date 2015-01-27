@@ -18,6 +18,8 @@ You can also call me at 302.645.0506
 
 ## About www.bsoi.st
 
-This website is simply a place for me to express my opinions. I post my thoughts on [faith][/category/faith/], [family][/category/family/], [freedom][/category/freedom/], and [fun][/category/fun/]. I also comment on what I [read][/category/books/] and [watch][/category/movies/]. 
+This website is simply a place for me to express my opinions. I post my thoughts on {{ site.data.links["faith"] }}, {{ site.data.links["family"] }}, {{ site.data.links["freedom"] }}, and {{ site.data.links["fun"] }}.
 
-Feel free to browse the [archives][/archives] and [subscribe][/subscribe/] to these posts and to some of the other stuff I share online.
+I also comment on what I [read](/category/books/) and [watch](/category/movies/).
+
+Feel free to browse the {{ site.data.links["archives"] }} and {{ site.data.links["subscribe"] }} to these posts and to some of the other stuff I share online.
