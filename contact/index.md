@@ -1,4 +1,4 @@
 ---
 layout: redirect
-source-url: /about/
+source_url: /about/
 ---
