@@ -17,5 +17,5 @@ By the way, you can visit [this page][2] to manage your subscriptions at any tim
   Thanks again and enjoy!<br /> Bill
 </address>
 
- [1]: http://whsjr.soistmann.com/oped/
+ [1]: http://www.bsoi.st/
  [2]: https://www.feedblitz.com/f/f.fbz?
