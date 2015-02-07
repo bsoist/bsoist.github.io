@@ -1,6 +1,7 @@
 ---
 title: I know things that you do not know
 author: bsoist
+layout: post
 categories:
     Fun
     Family
