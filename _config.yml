@@ -47,6 +47,8 @@ baseurl: ""
 
 feedurl: "http://feeds.feedburner.com/WellIfYouAskMe"
 
+namedrop: "http://notes.bsoi.st/notes/#a1423426606"
+
 # Pagination
 paginate: 30
 
