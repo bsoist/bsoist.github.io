@@ -29,9 +29,7 @@ There is one blog that pulled me back into blog comments Generally, the comment 
 and that place should be, if you ask me, your own blog.
 
 <hr/>
-<div class="footnote">
-My thoughts on the subject were heavily influenced by Jeffrey Zeldman and Dave Winer. Just one post on the subject - [<em>Scoble, your blog still loves you</em>][yourblog] by Dave Winer - sums up very nicely one of the benefits of having your own blog.
-</div>
+<div class="footnote">My thoughts on the subject were heavily influenced by Jeffrey Zeldman and Dave Winer. Just one post on the subject - <a href="http://scripting.com/stories/2009/08/10/scobleYourBlogStillLovesYo.html"><em>Scoble, your blog still loves you</em></a> by Dave Winer - sums up very nicely one of the benefits of having your own blog.</div>
 
 [insane]: http://calacanis.com/2015/01/20/if-you-want-to-optimize-your-twitter-experience-do-what-you-do-in-real-life-mute-insane-people/
 [dave]: http://scripting.com/
@@ -46,6 +44,5 @@ My thoughts on the subject were heavily influenced by Jeffrey Zeldman and Dave W
 [avc]: http://avc.com/
 [brad]: http://feld.com/
 [seth]: http://www.sethgodin.com/sg/
-[yourblog]: http://scripting.com/stories/2009/08/10/scobleYourBlogStillLovesYo.html
 
 
