@@ -29,7 +29,7 @@ There is one blog that pulled me back into blog comments Generally, the comment 
 and that place should be, if you ask me, your own blog.
 
 <hr/>
-<div style="font-size:0.8em;">
+<div class="footnote">
 My thoughts on the subject were heavily influenced by Jeffrey Zeldman and Dave Winer. Just one post on the subject - [<em>Scoble, your blog still loves you</em>][yourblog] by Dave Winer - sums up very nicely one of the benefits of having your own blog.
 </div>
 
