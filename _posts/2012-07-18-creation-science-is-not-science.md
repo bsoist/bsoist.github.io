@@ -31,4 +31,4 @@ You might believe that, and I take no issue with that &#8211; [but it's not scie
   <strong> <a href="http://www.slideshare.net/darwinsbulldog/in-darwins-own-words-creationist-quotemining-exposed" title="In Darwin&#39;s Own Words: Creationist Quote-Mining Exposed" target="_blank">In Darwin's Own Words: Creationist Quote-Mining Exposed</a> </strong> from <strong><a href="http://www.slideshare.net/darwinsbulldog" target="_blank">darwinsbulldog</a></strong>
 
 [1]: http://whsjr.soistmann.com/oped/category/faith/science-and-religion/creation-evolutoin/
-[2]: { % post_url 2012-07-what-is-the-meaning-of-science % }
+[2]: {% post_url 2012-07-11-what-is-the-meaning-of-science %}
