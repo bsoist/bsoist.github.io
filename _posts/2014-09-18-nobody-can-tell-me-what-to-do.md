@@ -6,7 +6,7 @@ categories:
 ---
 Almost every conversation I have with a conservative about a political issue comes down to "you can't make me!"
 
-Honestly, I get it. As a real libertarian, I understand the argument for a smaller, less powerful government. I really do. That itself is an important issue. I also understand that <a href="http://en.wikipedia.org/wiki/Libertarian_socialism">oppression comes from sources other than goverment.</a>
+Honestly, I get it. As a real libertarian, I understand the argument for a smaller, less powerful government. I really do. That itself is an important issue. I also understand that <a href="http://en.wikipedia.org/wiki/Libertarian_socialism">oppression comes from sources other than goverment</a>.
 
 But I am tired of every other issue coming down to that one.
 
