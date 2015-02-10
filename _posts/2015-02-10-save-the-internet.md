@@ -27,6 +27,7 @@ rabbit trail<a href="#2"><sup>2</sup></a> for a bit, and I finished by telling h
 And I've been thinking more about it ever since.
 
 I understand better why some conservatives might be skeptical, and I agree in principle that...
+
 >nothing good ever comes from allowing the government to enact regulations in secret, without public debate, at the hands of lobbyists and to impose new taxes. <cite>[Big Red Car][redcar]</cite>
 
 but I don't like the way others are framing this debate.
