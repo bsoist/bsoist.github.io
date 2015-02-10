@@ -45,7 +45,9 @@ In the end, there is a lot at stake and I think [what's being proposed now][spee
 <br/>
 <br/>
 <br/>
+
 ---------------------
+
 <a href="stakes">1</a>Brad Burnham does a great job of explaining the stakes [here][history] and [here][testimony] (both videos).
 
 <a name="tangent">2</a>I told him I sold my stock back when it was tanking and I needed the cash for NYU. He told me he sold then too, but bought a bunch back. He also told me going to NYU is crazy.
