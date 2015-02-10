@@ -27,26 +27,31 @@ rabbit trail<a href="#2"><sup>2</sup></a> for a bit, and I finished by telling h
 And I've been thinking more about it ever since.
 
 I understand better why some conservatives might be skeptical, and I agree in principle that...
-<cite>[Big Red Car][redcar]</cite>
+>nothing good ever comes from allowing the government to enact regulations in secret, without public debate, at the hands of lobbyists and to impose new taxes. <cite>[Big Red Car][redcar]</cite>
 
 but I don't like the way others are framing this debate.
 
-<cite>[reason.com][reason]</cite>
-<cite>[arstechnica.com][obama]</cite>
+>Spearheaded by President Obama and reluctantly embraced by FCC chief Tom Wheeler, this plan is undoubtedly the U.S. government's most brazen effort yet to police the Internet—which, until now, has thrived thanks to the absence heavy-handed federal mandates. <cite>[reason.com][reason]</cite>
+
+>If the FCC's Democratic majority approves Obama's rules <cite>[reason.com][reason]</cite>
+
+>In practice, therefore, net neutrality means that content companies can't partner with Internet providers to fund improvements to the last mile <cite>[reason.com][reason]</cite>
+
+>This week, Wheeler issued his proposal to reclassify broadband as Obama suggested. <cite>[arstechnica.com][obama]</cite>
 
 In the end, there is a lot at stake and I think [what's being proposed now][speech] is a [sensible approach][sensible] to protect a free and open Internet.
 
 
 
 ---------------------
-<a href="stakes">1</a><address>Brad Burnham does a great job of explaining the stakes [here][history] and [here][testimony] (both videos).</address>
-<a name="tangent">2</a><address>I told him I sold my stock back when it was tanking and I needed the cash for NYU. He told me he sold then too, but bought a bunch back. He also told me going to NYU is crazy.</address>
+<a href="stakes">1</a>Brad Burnham does a great job of explaining the stakes [here][history] and [here][testimony] (both videos).
+<a name="tangent">2</a>I told him I sold my stock back when it was tanking and I needed the cash for NYU. He told me he sold then too, but bought a bunch back. He also told me going to NYU is crazy.
 
 [namedrop]: {{ site.namedrop }}
 [oppression]: {% post_url 2010-10-26-why-i-call-myself-a-libertarian-socialist-part-one %}
 [netflix]: {% post_url 2009-02-02-links-for-2009-02-02 %}
 [dad]: http://www.feld.com/archives/2015/02/explaining-net-neutrality-dad.html
-[redcar]: http://themusingsofthebigredcar.com/net-neutrality-madness/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=net-neutrality-madness
+[redcar]: http://themusingsofthebigredcar.com/net-neutrality-madness/
 [reason]: http://reason.com/archives/2015/02/08/dont-extend-the-dead-hand-of-the-fcc-to
 [obama]: http://arstechnica.com/tech-policy/2015/02/republicans-claim-obama-had-improper-influence-over-net-neutrality/
 [speech]: http://www.pakman.com/2015/02/04/a-sensible-approach-to-net-neutrality-by-the-fcc/
