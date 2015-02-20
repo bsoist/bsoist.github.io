@@ -1,5 +1,5 @@
 ---
-title: 
+title: Einstein: His Life and Universe
 layout: post
 categories:
     Fun
