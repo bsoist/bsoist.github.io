@@ -21,4 +21,4 @@ What I enjoyed most about the story, though, was Einstein's way of living by his
 
 Highly recommended.
 
-{% post_url 2015-02-12-heroes %}
+[heroes]: {% post_url 2015-02-12-heroes %}
