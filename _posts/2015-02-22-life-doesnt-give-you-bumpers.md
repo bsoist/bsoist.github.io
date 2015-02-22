@@ -11,7 +11,7 @@ It's no secret we're huge movies fan at our house. Every year, we try to see all
 
 This year I saw 19 of the 50 which represents 56.2% of the nominations. I usually do a little better, but that's not bad.
 
-My predictions - in order based on categories I care most about and am more qualified to judge.
+My predictions - in order based on categories I care most about and am more qualified to judge. The fractions represent who many of the nominated films I've seen.
 
 ## Best Picture 6/8
 
