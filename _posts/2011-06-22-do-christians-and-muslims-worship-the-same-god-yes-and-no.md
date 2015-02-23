@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Faith
 ---
-Yesterday [I wrote][1] that my answer to this question is &#8220;yes AND no&#8221; &#8211; today I&#8217;d like to try and explain. I can think of two ways to determine who or what someone worships &#8211; what they say and what they do. These lead us to three questions.
+Yesterday [I wrote][{% post_url 2011-06-21-do-christians-and-muslims-worship-the-same-god %}] that my answer to this question is &#8220;yes AND no&#8221; &#8211; today I&#8217;d like to try and explain. I can think of two ways to determine who or what someone worships &#8211; what they say and what they do. These lead us to three questions.
 
 ## Do Christians and Muslims say they worship the same God? {#do_christians_and_muslims_say_they_worship_the_same_god}
 
@@ -72,5 +72,4 @@ Ever think much about that?
   <em>I will post all of these links over the next few days but if you&#8217;d like to sample some of the reading I&#8217;ve done recently on the subject, <a href="http://delicious.com/bsoist/samegod">here is a list of links</a>.</p>
 
 
-[1]: {% post_url 2011-06-21-do-christians-and-muslims-worship-the-same-god %}
 
