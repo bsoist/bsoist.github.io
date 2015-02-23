@@ -34,7 +34,7 @@ Since I answered two of the questions above with &#8220;no,&#8221; you might won
 
 ### There is only one God {#there_is_only_one_god}
 
-I firmly believe there is one God &#8211; omnipotent, omnipresent, and omniscient. I also believe that God created all of the universe ([though I don&#8217;t call myself a &#8220;creationist&#8221;][2]). I also firmly believe that God redeems whom he wills. Though I understand the method of redemption, I don&#8217;t claim to know exactly how redemption &#8220;looks&#8221; from the outside for everyone. 
+I firmly believe there is one God &#8211; omnipotent, omnipresent, and omniscient. I also believe that God created all of the universe (though I don&#8217;t call myself a &#8220;creationist&#8221;). I also firmly believe that God redeems whom he wills. Though I understand the method of redemption, I don&#8217;t claim to know exactly how redemption &#8220;looks&#8221; from the outside for everyone. 
 
 ### Providence {#providence}
 
@@ -71,5 +71,5 @@ Ever think much about that?
 <p style="margin-top:50px;">
   <em>I will post all of these links over the next few days but if you&#8217;d like to sample some of the reading I&#8217;ve done recently on the subject, <a href="http://delicious.com/bsoist/samegod">here is a list of links</a>.</p>
 
- [1]: http://whsjr.soistmann.com/oped/2011/06/21/do-christians-and-muslims-worship-the-same-god/
- [2]: http://whsjr.soistmann.com/oped/?s=creation+evolution
+ [1]: {% post_url 2011-06-21-do-christians-and-muslims-worship-the-same-god %}
+
