@@ -71,5 +71,6 @@ Ever think much about that?
 <p style="margin-top:50px;">
   <em>I will post all of these links over the next few days but if you&#8217;d like to sample some of the reading I&#8217;ve done recently on the subject, <a href="http://delicious.com/bsoist/samegod">here is a list of links</a>.</p>
 
- [1]: {% post_url 2011-06-21-do-christians-and-muslims-worship-the-same-god %}
+
+[1]: {% post_url 2011-06-21-do-christians-and-muslims-worship-the-same-god %}
 
