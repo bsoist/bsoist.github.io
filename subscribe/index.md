@@ -14,10 +14,10 @@ To subscribe via email, enter your email address below and click the button. You
 ## RSS
 If you prefer to subscribe via RSS, these are the feeds you can choose from.
 
-  * [Evertying][1] - blog posts, shorter notes, and links
-  * [Well, if you ask me...][2] - my blog posts
-  * [linkblog][3] - every link I share
+  * [Almost Everything][notes] - links to my blog posts, shorter notes, and a subset of links
+  * [Well, if you ask me...][www] - my blog posts ( full text of each post )
+  * [Links][links] - every link I shorten
 
- [1]: http://feeds.feedburner.com/BsoistsNotes
- [2]: http://feeds.feedburner.com/WellIfYouAskMe
- [3]: http://feeds.feedburner.com/BsoistsLinkBlogFeed
+[links]: http://links.bsoi.st/feed.xml
+[notes]: http://notes.bsoi.st/feed.xml
+[www]: http://www.bsoi.st/feed.xml
