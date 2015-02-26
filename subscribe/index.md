@@ -12,8 +12,9 @@ Enter your email address to receive updates in your inbox.
 <div id="mc_embed_signup">
 <form action="//bsoist.us1.list-manage.com/subscribe/post?u=741ec46b06846685b53c0d730&amp;id=0444919c79" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-<div class="indicates-required">
-<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+
+<div class="mc-field-group">
+    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
     <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
