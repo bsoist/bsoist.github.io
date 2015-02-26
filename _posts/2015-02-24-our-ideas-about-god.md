@@ -3,7 +3,7 @@ title: Our ideas about God
 layout: post
 categories:
     Faith
-redirct-from: /2015/02/24/our-ideas-about-god
+redirct_from: /2015/02/24/our-ideas-about-god
 ---
 I saw a [nakedpastor drawing][np] a while back that reminded me of a couple of posts I wrote almost four years ago - [here][one] and [here][two].
 
