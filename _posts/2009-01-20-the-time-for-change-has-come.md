@@ -6,9 +6,7 @@ permalink: /2009/01/20/the-time-for-change-has-come/
 categories:
   - Freedom
 tags:
-  - change
   - election
-  - Freedom
   - obama
   - politics
 ---

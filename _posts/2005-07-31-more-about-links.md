@@ -8,9 +8,8 @@ dsq_thread_id:
 categories:
   - Fun
 tags:
-  - Fun
   - geek
-  - Links
+  - links
   - tech
 ---
 I haven&#8217;t posted too many links the last couple days. I have a bunch of guitar links to post &#8211; like I said [before][1], my links come in waves, but I&#8217;m not sure I want to post them all. Some of them generate popups. I have nothing against the [responsible use of popups][2], mind you. Some sites rely on them for revenue. I used them myself on the first two web projects I created ([here][3] and [here][4] &#8211; Both are under different management now.), but I don&#8217;t like the way some publishers use them.

@@ -7,6 +7,9 @@ dsq_thread_id:
   - 50148821
 categories:
   - Fun
+tags:
+  - movies
+  - oscars
 ---
 First of all, I loved this movie. I had not read the book and I fully expected it to have an ending that strayed from the typical &#8220;feel good&#8221; Hollywood movie. I&#8217;m okay with that &#8211; I don&#8217;t particularly care for &#8220;everything turns out in the end&#8221; films.Â 
 

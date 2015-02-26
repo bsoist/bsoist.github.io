@@ -6,10 +6,9 @@ permalink: /2009/01/25/rhetoric-rhythm/
 dsq_thread_id:
   - 50820963
 categories:
-  - Movies
-tags:
   - Fun
-  - Movies
+tags:
+  - movies
   - oscars
 ---
 I&#8217;d have to say I agree that something is amiss here. I enjoy the non-mass-appeal movies myself, but there was a time when there were more mainstream movies represented. I think this started about the time of American Beauty. Since then movies have not only been of the more independent variety, many of them have dealt with topics that certainly don&#8217;t have mainstream appeal.

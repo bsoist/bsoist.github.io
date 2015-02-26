@@ -15,9 +15,8 @@ categories:
   - Books
   - Reviews
 tags:
-  - Books
+  - books
   - fantasy
-  - Fun
 ---
 > and plunge the planet into a cross-species war.
 

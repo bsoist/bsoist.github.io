@@ -7,6 +7,7 @@ dsq_thread_id:
   - 48465261
 categories:
   - Fun
+  - Freedom
 ---
 I am looking forward to the movie on Friday and I thought this was appropriate topic for today.
 

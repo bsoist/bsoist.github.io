@@ -10,7 +10,6 @@ categories:
 tags:
   - creation
   - evolution
-  - Faith
   - id
 ---
 I remember seeing [this debate][1] on PBS in 1997. I taped it and watched it with my students. Mr. William F. Buckley, Mr. Philip Johnson, Dr. Micheal Behe, and Dr. David Berlinski argued that schools should point out that Darwinian evolution is not the only plausible theory for explaining the origin of life. We enjoyed the debate, but decided the solution was not clear. It is obvious to me that Darwinian evolution does a poor job of explaining the origin of life, but whether public school should present &#8216;alternate&#8217; theories is not clear to me.One of my favorite parts of the debate was when a presenter from the con side began to confront Mr. Johnson about books written by ICR. In either case, Mr. Johnson was noticeably conflicted. No doubt, he wanted to distance himself from a radical &#8216;creationist&#8217; organization without compromising his strong faith. When challenged to respond to questions on the &#8216;silliness&#8217; of books depicting dinosaurs roaming the earth with men, he finally responded by saying  

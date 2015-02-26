@@ -6,3 +6,7 @@
   name: Freedom
 - slug: fun
   name: Fun
+- slug: movies
+  name: Movie Reviews
+- slug: books
+  name: Book Reviews

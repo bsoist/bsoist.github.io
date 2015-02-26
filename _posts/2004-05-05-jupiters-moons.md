@@ -9,7 +9,6 @@ categories:
   - Family
   - Fun
 tags:
-  - Family
-  - Fun
+  - science
 ---
 Tonight we got an excellent look at four of Jupiter&#8217;s moons. Billy & Becky both saw them. It was the first time for both of them so this was an exciting night.

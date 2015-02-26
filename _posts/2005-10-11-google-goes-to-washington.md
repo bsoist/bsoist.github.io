@@ -6,7 +6,6 @@ permalink: /2005/10/11/google-goes-to-washington/
 categories:
   - Freedom
 tags:
-  - Freedom
   - google
   - tech
 ---

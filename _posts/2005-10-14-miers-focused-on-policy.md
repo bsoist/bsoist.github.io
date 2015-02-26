@@ -6,8 +6,6 @@ permalink: /2005/10/14/miers-focused-on-policy/
 categories:
   - Freedom
 tags:
-  - bush
-  - Freedom
   - politics
 ---
 Everything I read convinces me she is a good lawyer, and will probably make a good judge.  

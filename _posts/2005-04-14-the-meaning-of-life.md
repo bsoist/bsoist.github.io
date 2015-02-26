@@ -9,9 +9,8 @@ categories:
   - Faith
   - Family
 tags:
-  - Faith
-  - Family
   - life
+  - baseball
 ---
 "See, this is the meaning of life," I said to Becky.
 

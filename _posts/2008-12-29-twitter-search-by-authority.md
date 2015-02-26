@@ -8,7 +8,6 @@ dsq_thread_id:
 categories:
   - Fun
 tags:
-  - Fun
   - geek
   - tech
   - twitter

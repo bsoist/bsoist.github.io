@@ -6,8 +6,7 @@ permalink: /2009/02/15/update-on-my-oscar-hunt/
 categories:
   - Fun
 tags:
-  - Fun
-  - Movies
+  - movies
   - oscars
 ---
 I posted a while back about [my hunt][1] to see many of the Oscar nominated films and I wanted to post an update. 

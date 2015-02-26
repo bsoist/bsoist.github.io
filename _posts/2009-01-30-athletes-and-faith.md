@@ -9,9 +9,7 @@ categories:
   - Faith
   - Fun
 tags:
-  - Faith
-  - Fun
-  - sports
+  - football
 ---
 The NFL is a private organization and can essentially do what it wants, but some people have suggested that it doesn&#8217;t do enough to tone down the religious overtones. 
 

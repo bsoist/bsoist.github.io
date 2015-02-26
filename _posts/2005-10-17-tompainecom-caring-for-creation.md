@@ -9,8 +9,6 @@ categories:
 tags:
   - creation
   - environment
-  - Faith
-  - Freedom
 ---
 [TomPaine.com &#8211; Caring For Creation][1]
 

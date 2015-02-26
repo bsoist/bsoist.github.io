@@ -15,10 +15,8 @@ categories:
   - Books
   - Reviews
 tags:
-  - Books
+  - books
   - dad
-  - Family
-  - Fun
 ---
 I picked up *The Vanished Man* at a hospital reading room when I desperately needed a way to escape the reality of what was happening. It would have been difficult to have chosen a more fitting tale. Deaver&#8217;s mix of forensic crime solving and the world of magic, gave me just the kind of engrossing escape from reality I was hoping for.
 

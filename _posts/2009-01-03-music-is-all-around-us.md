@@ -15,9 +15,7 @@ categories:
   - Movies
   - Reviews
 tags:
-  - Family
-  - Fun
-  - Movies
+  - movies
   - music
 ---
 All we have to do is listen.

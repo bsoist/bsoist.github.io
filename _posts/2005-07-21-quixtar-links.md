@@ -9,7 +9,6 @@ categories:
   - Fun
 tags:
   - amway
-  - Fun
   - mlm
   - quixtar
 ---

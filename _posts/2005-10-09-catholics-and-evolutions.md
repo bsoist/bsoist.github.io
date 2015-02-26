@@ -10,7 +10,6 @@ categories:
 tags:
   - creation
   - evolution
-  - Freedom
   - id
 ---
 I am very tired of the evolution/creation debate for a lot of reasons, but here is quick glimpse at my real problem. [This post][1] was written in reaction to [this post][2]. I have read both of these posts and I cannot help think that the authors actually agree. You should read both posts and see for yourself, but the following quotes illustrate what I mean.  

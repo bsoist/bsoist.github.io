@@ -9,9 +9,6 @@ categories:
   - Family
   - Fun
 tags:
-  - Family
-  - football
-  - Fun
   - jets
 ---
 When Doug Brien missed two field goals to blow our game against the Steelers this year I was quick to defend him. After all, you can&#8217;t blame a whole game on the kicker. Can you? It is his job to kick that ball between the posts, right? Anyway, my daughter got me this great Jets desk calendar for Christmas. It&#8217;s the kind with a little rip-off page for each day. I love it, but&#8230;I am officially sick of Doug Brien. 

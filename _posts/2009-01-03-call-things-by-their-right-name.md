@@ -15,9 +15,7 @@ categories:
   - Movies
   - Reviews
 tags:
-  - Freedom
-  - Fun
-  - Movies
+  - movies
 ---
 *Into the Wild *is an intriguing look into the mostly unknown life of Christopher McCandless and Alexander Supertramp, the adventurer he becomes.Â 
 

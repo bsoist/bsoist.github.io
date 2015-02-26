@@ -9,7 +9,6 @@ categories:
   - Fun
 tags:
   - football
-  - Fun
   - jets
   - usc
 ---

@@ -9,8 +9,6 @@ categories:
   - Faith
   - Freedom
 tags:
-  - Faith
-  - Freedom
   - mlm
 ---
 Today we celebrate the life of one of my heroes &#8211; the Reverend Dr. Martin Luther King Jr. In his memory, the family and I listened to his most famous speech and I re-read his masterful writing in [Letter from a Birmingham Jail][1]. After reading this again, I&#8217;ve decided there is a lot I want to say about Dr. King. Perhaps I will write more on the anniversary of his death or next year on this holiday, but today I wanted to defend his reputation as an American and Christian. Bear with me &#8211; I am going to get there the long way today. 

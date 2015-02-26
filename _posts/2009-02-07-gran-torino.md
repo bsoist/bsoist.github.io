@@ -12,11 +12,9 @@ AIMG:
 dsq_thread_id:
   - 50778485
 categories:
-  - Movies
-  - Reviews
+  - Movie Reviews
 tags:
-  - Fun
-  - Movies
+  - movies
   - oscars
 ---
 In a strange twist of circumstances, I ended up seeing this film twice. After the second viewing I am even more disappointed that Clint Eastwood was not nominated for acting (directing too probably). The academy nominated the same films for directing and best picture which I think is a lazy call to begin with, but that is not something I want to rant about now.

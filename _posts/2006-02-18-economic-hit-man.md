@@ -9,8 +9,7 @@ categories:
   - Books
   - Fun
 tags:
-  - Books
-  - Freedom
+  - books
   - politics
 ---
 I&#8217;ve joined a book club.

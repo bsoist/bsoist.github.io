@@ -12,14 +12,11 @@ ASIN:
 dsq_thread_id:
   - 48052418
 categories:
-  - Books
-  - Reviews
-  - Work Books
+  - Book Reviews
 tags:
-  - Books
+  - books
   - culture
   - evolution
-  - Fun
 ---
 This is a fascinating book. I&#8217;ve been working on it for some time because I keep restarting it and marking it up.
 

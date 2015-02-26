@@ -9,7 +9,6 @@ categories:
   - Fun
 tags:
   - code
-  - Fun
   - geek
   - tech
 ---

@@ -10,9 +10,8 @@ categories:
 tags:
   - creation
   - evolution
-  - Faith
-  - Fun
   - id
+  - science
 ---
 President Bush has been in the news lately for making these comments about the teaching of intelligent design in public school:
 

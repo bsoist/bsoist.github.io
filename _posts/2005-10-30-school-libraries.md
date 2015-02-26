@@ -9,7 +9,6 @@ categories:
   - Freedom
 tags:
   - education
-  - Freedom
 ---
 Laurie Taylor, a mother of two young teenage girls, complained to the board of education inFayetteville, Arkansas about three library books that contained explicit descriptions and depictions of sexual activity. The controversy that erupted shortly after is a great example of why I do not support public schools. Before you judge me as the kind of parent that chooses private school as a &#8216;shelter&#8217; for my children, please read on.Albert Mohler chimes in on the debate on his blog and echoes what I think is a common sentiment among Christian parents:  
 

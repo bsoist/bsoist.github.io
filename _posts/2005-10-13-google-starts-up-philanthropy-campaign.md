@@ -6,7 +6,6 @@ permalink: /2005/10/13/google-starts-up-philanthropy-campaign/
 categories:
   - Freedom
 tags:
-  - Freedom
   - geek
   - giving
   - google

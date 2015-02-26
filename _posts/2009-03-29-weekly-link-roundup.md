@@ -7,6 +7,8 @@ dsq_thread_id:
   - 47856664
 categories:
   - Fun
+tags:
+  - links
 ---
 <a href="http://online.wsj.com/article/SB123731266862258869.html" tags="fun,economics,games,culture,scrabble,words">Scrabble and Other Games Have Overvalued Points &#8211; WSJ.com</a>
 :   Scrabble is a great game and should be left alone. 

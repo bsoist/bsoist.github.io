@@ -7,7 +7,9 @@ dsq_thread_id:
   - 49980981
   - 49980981
 categories:
-  - Links
+  - Fun
+tags:
+  - links
 ---
 <ul class="delicious">
   <li>

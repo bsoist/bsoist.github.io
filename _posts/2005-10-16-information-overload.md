@@ -6,7 +6,6 @@ permalink: /2005/10/16/information-overload/
 categories:
   - Fun
 tags:
-  - Fun
   - geek
   - rss
   - tech

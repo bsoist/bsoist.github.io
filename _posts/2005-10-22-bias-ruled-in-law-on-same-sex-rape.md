@@ -7,8 +7,6 @@ dsq_thread_id:
   - 53604182
 categories:
   - Freedom
-tags:
-  - Freedom
 ---
 I may not like what these teens did, but I certainly don&#8217;t think the punishment shoud have been 17 years in prison!  
 

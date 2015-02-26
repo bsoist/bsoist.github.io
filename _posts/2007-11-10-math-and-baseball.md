@@ -9,7 +9,6 @@ categories:
   - Fun
 tags:
   - baseball
-  - Fun
   - math
   - mets
 ---

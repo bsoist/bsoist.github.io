@@ -12,12 +12,10 @@ AIMG:
 dsq_thread_id:
   - 49878317
 categories:
-  - Movies
-  - Reviews
+  - Movie Reviews
 tags:
   - football
-  - Fun
-  - Movies
+  - movies
 ---
 In trying to stay with this week&#8217;s Super Bowl theme I was going to post a review of *Invincible* earlier today. Then I was distracted by Google&#8217;s wild and wacky behavior.
 

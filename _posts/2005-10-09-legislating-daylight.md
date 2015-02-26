@@ -8,9 +8,6 @@ dsq_thread_id:
 categories:
   - Freedom
 tags:
-  - bush
-  - Freedom
-  - Fun
   - law
   - math
 ---

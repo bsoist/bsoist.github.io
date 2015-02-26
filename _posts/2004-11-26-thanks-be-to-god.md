@@ -9,8 +9,6 @@ categories:
   - Faith
   - Family
 tags:
-  - Faith
-  - Family
   - thanks
 ---
 There is no denying this was a dificult Thanksgiving, but&#8230;I still have **so much** to be thankful for: 

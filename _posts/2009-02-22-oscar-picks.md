@@ -5,6 +5,9 @@ layout: post
 permalink: /2009/02/22/oscar-picks/
 categories:
   - Fun
+tags:
+  - oscars
+  - movies
 ---
 I forgot to post these before the show started. Oops!
 

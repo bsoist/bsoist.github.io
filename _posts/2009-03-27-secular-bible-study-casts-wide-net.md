@@ -7,6 +7,8 @@ dsq_thread_id:
   - 47856607
 categories:
   - Faith
+tags:
+  - bible
 ---
 The Minnesota Atheists and a United Methodist church in Minnesota are teaming up to sponsor a [secular bible study][1]. The study will focus on the will focus on the the Bible&#8217;s historical and cultural context and aims to &#8220;foster and nurture relationships between folks who would otherwise avoid each other,&#8221; according to Chester O&#8217;Gorman, community outreach director for the church.
 

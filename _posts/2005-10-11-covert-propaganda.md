@@ -8,8 +8,6 @@ dsq_thread_id:
 categories:
   - Freedom
 tags:
-  - bush
-  - Freedom
   - politics
 ---
 > In a blistering report, the investigators, from the Government Accountability Office, said the administration had disseminated &#8220;covert propaganda&#8221; in the United States, in violation of a statutory ban.

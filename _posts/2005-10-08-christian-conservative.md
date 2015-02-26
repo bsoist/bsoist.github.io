@@ -9,9 +9,7 @@ categories:
   - Faith
   - Freedom
 tags:
-  - bush
-  - Faith
-  - Freedom
+  - politics
   - war
 ---
 Late in July, I caught [this post][1] at Christian Conservative. My first reaction was anger. I thought it was inappropriate and very much out of context. My plan was to re-read and thoughfully mark it up with comments, but when I returned to it I was upset once again. Now that I return to my blog after a brief vacation, I would like to get this finished. Problem is &#8211; I no longer feel like expending the effort. I read through it again, but all I have to say is the obvious. President Truman&#8217;s comments were not in reference to our current war and I find it disrespectful to presume what Truman would say about this &#8216;war.&#8217; One of the comments to this post is worth quoting too:  

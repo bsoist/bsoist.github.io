@@ -9,7 +9,6 @@ categories:
   - Fun
 tags:
   - basketball
-  - Fun
   - geek
   - math
 ---

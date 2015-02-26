@@ -8,8 +8,6 @@ dsq_thread_id:
 categories:
   - Freedom
 tags:
-  - change
-  - Freedom
   - obama
 ---
 By now, most people have probably seen the [new White House website][1]. 

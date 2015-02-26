@@ -9,7 +9,6 @@ categories:
   - Freedom
 tags:
   - election
-  - Freedom
   - obama
   - politics
 ---

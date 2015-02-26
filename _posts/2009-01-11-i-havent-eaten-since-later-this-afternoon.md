@@ -13,12 +13,10 @@ dsq_thread_id:
   - 49378024
 categories:
   - Fun
-  - Movies
-  - Reviews
+  - Movie Reviews
 tags:
-  - Fun
   - geek
-  - Movies
+  - movies
 ---
 I love the idea of time travel and am fascinated by the paradoxes it may or may not cause. Primer is a movie that addresses these paradoxes head-on. It&#8217;s a must see movie for anyone who likes time travel. Hang on, it&#8217;s a wild ride. 
 

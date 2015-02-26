@@ -6,6 +6,8 @@ permalink: /2009/02/26/daily-links-5/
 dsq_thread_id:
   - 53587879
 categories:
+  - Fun
+tags:
   - Links
 ---
 <ul class="delicious">

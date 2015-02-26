@@ -6,6 +6,8 @@ permalink: /2009/03/23/a-new-crop-of-scientists-are-using-their-children-as-rese
 categories:
   - Family
   - Freedom
+tags:
+  - science
 ---
 Apparently, some scientists use their own children as test subjects in the name of science.
 

@@ -7,7 +7,8 @@ dsq_thread_id:
   - 53136275
 categories:
   - Fun
-  - Links
+tags:
+  - links
 ---
 [Steve Rubel][1] thinks Twitter is peaking and I agree with him. When I signed up in 2006 I did not update a lot but I loved following lots of my favorite geeks. I still enjoy Twitter but it seems like more work now and there is too much noise.
 

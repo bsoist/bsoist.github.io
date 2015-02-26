@@ -12,12 +12,10 @@ ATITLE:
 dsq_thread_id:
   - 48112948
 categories:
-  - Books
-  - Reviews
+  - Book Reviews
 tags:
-  - book
+  - books
   - economics
-  - Freedom
   - politics
 ---
 When I first picked up Confessions of an Economic Hit Man,I found myself having a hard time believing the story being told. It certainly read much more like a work of fiction. It is a story of the American Empire and the quest to protect U.S. interests at all costs &#8211; even in the face of dire consequences for much poorer nations.

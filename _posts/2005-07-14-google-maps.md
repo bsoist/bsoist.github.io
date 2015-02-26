@@ -9,7 +9,6 @@ categories:
   - Family
   - Fun
 tags:
-  - Fun
   - geek
   - google
   - maps

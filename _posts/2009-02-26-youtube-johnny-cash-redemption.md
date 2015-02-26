@@ -8,5 +8,7 @@ dsq_thread_id:
 categories:
   - Faith
   - Fun
+tags:
+  - music
 ---
 Today would have been Johnny Cash&#8217;s 77th birthday

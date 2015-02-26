@@ -4,7 +4,9 @@ author: bsoist
 layout: post
 permalink: /2009/02/19/daily-links/
 categories:
-  - Links
+  - Fun
+tags:
+  - links
 ---
 <ul class="delicious">
   <li>

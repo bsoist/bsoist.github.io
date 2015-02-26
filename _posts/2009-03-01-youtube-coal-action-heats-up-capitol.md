@@ -8,4 +8,3 @@ categories:
 ---
 Young people standing up for our planet on Monday.
 
-Â 

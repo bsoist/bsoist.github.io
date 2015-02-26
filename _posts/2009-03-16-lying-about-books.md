@@ -6,8 +6,9 @@ permalink: /2009/03/16/lying-about-books/
 dsq_thread_id:
   - 48596739
 categories:
-  - Books
   - Fun
+tags:
+  - books
 ---
 [Kottke][1] points out [an interesting list][2] of books people lie about having read.
 

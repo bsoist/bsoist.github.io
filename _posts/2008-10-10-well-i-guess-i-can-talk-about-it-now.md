@@ -9,8 +9,6 @@ categories:
   - Fun
 tags:
   - baseball
-  - Family
-  - Fun
   - mets
 ---
 The Mets really let us down this year. 

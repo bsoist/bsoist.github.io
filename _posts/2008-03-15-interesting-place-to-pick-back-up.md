@@ -9,7 +9,6 @@ categories:
   - Fun
 tags:
   - baseball
-  - Fun
   - mets
 ---
 I decided to start my new blogging routine today and I noted a link in my [last post][1] &#8211; &#8220;[How much will the Mets miss Tom Glavine?&#8221; ][2]

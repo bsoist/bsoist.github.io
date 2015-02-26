@@ -9,7 +9,6 @@ categories:
   - Fun
 tags:
   - football
-  - fun
 ---
 I&#8217;ve always preferred college football to the NFL. Teams always seemed to take chances in order to earn points in the eyes of voters. I understand that this may take away from the strategy necessary to win a game in some cases, but it gives the game a level of excitement that is not present in a more conservative gameplan. 
 

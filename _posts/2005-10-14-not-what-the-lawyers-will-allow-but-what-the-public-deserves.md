@@ -8,8 +8,6 @@ dsq_thread_id:
 categories:
   - Freedom
 tags:
-  - bush
-  - Freedom
   - politics
 ---
 President Bush promised to give us what we deserve.I guess now we know what he thinks of us, don&#8217;t we.

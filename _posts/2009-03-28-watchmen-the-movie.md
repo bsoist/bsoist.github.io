@@ -13,8 +13,9 @@ dsq_thread_id:
   - 47856634
 categories:
   - Fun
-  - Movies
-  - Reviews
+  - Movie Reviews
+tags:
+  - movies
 ---
 On Thursday, I [reviewed][1] the special edition graphic novel which I loved.
 

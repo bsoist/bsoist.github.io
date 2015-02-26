@@ -9,7 +9,6 @@ categories:
   - Fun
 tags:
   - football
-  - Fun
 ---
 People are saying this is a sign of the decay of our educational system.
 

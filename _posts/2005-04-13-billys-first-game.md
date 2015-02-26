@@ -10,7 +10,5 @@ categories:
   - Fun
 tags:
   - baseball
-  - Family
-  - Fun
 ---
 Billy had his first game for the middle school baseball team. He is the youngest one on the team, but he did very well. He made a nice play in center field that impressed the coach (and everyone else). Tough game. We lost 23 to 3, but the 6th graders are still learning.

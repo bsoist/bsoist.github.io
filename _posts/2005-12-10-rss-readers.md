@@ -6,7 +6,6 @@ permalink: /2005/12/10/rss-readers/
 categories:
   - Fun
 tags:
-  - Fun
   - geek
   - rss
   - tech

@@ -9,8 +9,7 @@ categories:
   - Faith
   - Freedom
 tags:
-  - Faith
-  - Freedom
+  - politics
 ---
 I just finished the Sunday morning shows. Running a little late this week <i class="fa fa-smile-o"></i>
 

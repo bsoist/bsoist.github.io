@@ -11,8 +11,6 @@ categories:
 tags:
   - election
   - football
-  - Freedom
-  - Fun
   - obama
 ---
 My posts over the next week will be mostly Super Bowl related and I thought the following video would be an interesting transition from my previous posts. 

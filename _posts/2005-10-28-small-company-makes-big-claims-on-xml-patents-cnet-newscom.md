@@ -8,7 +8,6 @@ dsq_thread_id:
 categories:
   - Freedom
 tags:
-  - Freedom
   - patents
 ---
 > Charlotte, N.C.-based Scientigo owns two patents (No. 5,842,213 and No. 6,393,426) covering the transfer of &#8220;data in neutral forms.&#8221; These patents, one of which was applied for in 1997, are infringed upon by the data-formatting standard XML, Scientigo executives assert.<cite><a href="http://news.com.com/Small%20company%20makes%20big%20claims%20on%20XML%20patents/2100-1014_3-5905949.html">link</a> </cite>

@@ -7,6 +7,8 @@ dsq_thread_id:
   - 47874063
 categories:
   - Fun
+tags:
+  - links
 ---
 I&#8217;ve just stumbled upon two sites which provide a simple but very handy service. You can use each to turn a list of links into one link.
 

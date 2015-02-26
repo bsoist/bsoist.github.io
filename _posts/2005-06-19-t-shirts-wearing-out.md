@@ -8,7 +8,6 @@ dsq_thread_id:
 categories:
   - Fun
 tags:
-  - Fun
   - geek
 ---
 While doing laundry, I noticed that my shorts and tees are wearing out badly. Later, while reading some of my favorite feeds, I found [this][1]. Thanks for the tips. I will absolutely pick up the [SQL shirt][2] and [M.A.D. ][3] I&#8217;m going to shop for more too. Keep an eye out for my wishlist in the sidebar. <i class="fa fa-smile-o"></i>

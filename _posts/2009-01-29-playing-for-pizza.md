@@ -12,12 +12,10 @@ AIMG:
 dsq_thread_id:
   - 48628751
 categories:
-  - Books
-  - Reviews
+  - Book Reviews
 tags:
-  - Books
+  - books
   - football
-  - Fun
 ---
 *Playing for Pizza* is a departure from Grisham&#8217;s normal fare, but it&#8217;s a fun story about a washed up NFL quarterback who heads to Italy to play for a team that even Italy doesn&#8217;t care about. 
 

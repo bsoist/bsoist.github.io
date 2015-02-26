@@ -6,8 +6,7 @@ permalink: /2005/08/07/lord-of-the-rings/
 categories:
   - Fun
 tags:
-  - Fun
-  - Movies
+  - movies
 ---
 <p class="goalentry">Some time ago Billy and I tried to watch all three <span class="caps">LOTR</span> extended editions in one sitting. If you caught my post last time you'll remember that a carpet cleaning interrupted us. We are starting again. About 2 p.m. ET.I'll let you know if we make it.</p>
   

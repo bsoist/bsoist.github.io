@@ -8,7 +8,6 @@ dsq_thread_id:
 categories:
   - Freedom
 tags:
-  - Freedom
   - media
 ---
 After watching two of my favorite Sunday morning talk shows I am astounded at what I heard about bias in the media.

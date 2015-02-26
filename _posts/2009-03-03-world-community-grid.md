@@ -7,6 +7,9 @@ categories:
   - Faith
   - Freedom
   - Fun
+tags:
+  - energy
+  - environment
 ---
 This great site lets you donate your computer&#8217;s processing power to be used for good.
 

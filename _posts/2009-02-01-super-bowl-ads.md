@@ -7,7 +7,6 @@ categories:
   - Fun
 tags:
   - football
-  - Fun
   - tv
 ---
 Super Bowl Sunday is the one day when many people look forward as much to the advertisements as to the game itself. The last few years have been a letdown in my opinion, but there have been some great ones. You can see a collection of them at [superbowl-ads.com][1]. 

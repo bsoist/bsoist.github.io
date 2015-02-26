@@ -7,6 +7,9 @@ dsq_thread_id:
   - 49215649
 categories:
   - Fun
+tags:
+  - baseball
+  - mets
 ---
 My [latest project][1] was not a money making venture at all. It was motivated by my love for baseball and disdain for the outrageous price of attending games.
 

@@ -7,10 +7,8 @@ dsq_thread_id:
   - 47924364
 categories:
   - Fun
-  - Movies
 tags:
-  - Fun
-  - Movies
+  - movies
   - netflix
 ---
 I&#8217;ve said this before &#8211; I love Netflix. 

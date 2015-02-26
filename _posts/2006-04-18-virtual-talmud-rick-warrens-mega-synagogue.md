@@ -6,7 +6,7 @@ permalink: /2006/04/18/virtual-talmud-rick-warrens-mega-synagogue/
 categories:
   - Faith
 tags:
-  - Faith
+  - church
 ---
 I am a little confused by Rick Warren&#8217;s involvement in growing Mega-Synagogues. Not sure what to think actually.  
 
