@@ -178,3 +178,6 @@
   name: Money
 - slug: energy
   name: Energy
+- slug: facebook
+  name: Facebook
+
