@@ -2,7 +2,7 @@
 title: Christian Agnosticism
 author: bsoist
 layout: post
-permalink: /2013/07/09/christian-agnosticism/
+redirect_from: /2013/07/09/christian-agnosticism/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:
