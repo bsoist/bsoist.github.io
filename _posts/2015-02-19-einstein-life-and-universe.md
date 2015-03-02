@@ -6,6 +6,7 @@ categories:
     Freedom
     Faith
     Family
+    Book Reviews
 tags:
     books
 ---
