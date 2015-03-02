@@ -2,7 +2,7 @@
 title: 'What If It Weren&#8217;t Your Kind of Religion'
 author: bsoist
 layout: post
-permalink: /2012/04/10/what-if-it-werent-your-kind-of-religion/
+redirect-from: /2012/04/10/what-if-it-werent-your-kind-of-religion/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

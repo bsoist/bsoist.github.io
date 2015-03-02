@@ -35,9 +35,9 @@ So, I guess I can be an agnostic and a Christian at the same time, right?
 
 NOTE: I know of at least some who use the term agnostic in a sense similar to the way programmers might say something about being “language agnostic” or “tool agnostic” when they mean that one things is just as good as the other. I am not using the term that way (and I’m not sure those examples are legitimate use of the term, but I’m not a linguist ). I mean agnostic in the strict sense that I know that I can’t know that God exists.
 
- [1]: http://whsjr.soistmann.com/oped/2012/07/29/why/
- [2]: http://whsjr.soistmann.com/oped/2012/07/08/a-new-place-to-rejoice/
- [3]: http://whsjr.soistmann.com/oped/2010/04/22/faith-is-about-doing/
- [4]: http://whsjr.soistmann.com/oped/2012/04/10/what-if-it-werent-your-kind-of-religion/
- [5]: http://whsjr.soistmann.com/oped/2012/07/04/thank-god-for-freedom-from-religion/
- [6]: http://whsjr.soistmann.com/oped/2009/03/27/secular-bible-study-casts-wide-net/
+ [1]: {% post_url 2012-07-29-why.md %}
+ [2]: {% post_url 2012-07-08-a-new-place-to-rejoice %}
+ [3]: {% post_url 2010-04-22-faith-is-about-doing %}
+ [4]: {% post_url 2012-04-10-what-if-it-werent-your-kind-of-religion %}
+ [5]: {% post_url 2012-07-04-thank-god-for-freedom-from-religion %}
+ [6]: {% post_url 2009-03-27-secular-bible-study-casts-wide-net %}

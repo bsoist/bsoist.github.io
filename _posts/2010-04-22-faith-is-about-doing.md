@@ -2,7 +2,7 @@
 title: Faith is About Doing
 author: bsoist
 layout: post
-permalink: /2010/04/22/faith-is-about-doing/
+redirect-from: /2010/04/22/faith-is-about-doing/
 ASIN:
   - 0786868724
 AIMG:

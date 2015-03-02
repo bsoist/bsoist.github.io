@@ -2,7 +2,7 @@
 title: A New Place to Rejoice
 author: bsoist
 layout: post
-permalink: /2012/07/08/a-new-place-to-rejoice/
+redirect-from: /2012/07/08/a-new-place-to-rejoice/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:
