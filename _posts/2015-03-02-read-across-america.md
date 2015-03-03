@@ -5,9 +5,9 @@ categories:
     Fun
     Family
 tags:
-    Books
+    books
 ---
-Today is read across America. I can't think of a better way to honor Dr. Seuss.
+Today is Read Across America Day which falls on the birthday of Dr. Seuss.
 
 I love to [read][books] - and I love [books][tag]. I love "real" books. I love e-books. I love audiobooks.
 

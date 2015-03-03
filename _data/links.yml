@@ -6,5 +6,3 @@ books: <a href="/category/books/">books</a>
 movies: <a href="/category/movies/">movies</a>
 archives: <a href="/archives/">archives</a>
 subscribe: <a href="/subscribe/">subscribe</a>
-agnostic: {% post_url 2013-07-09-christian-agnosticism %}
-unite: {% post_url 2010-04-22-faith-is-about-doing %}
