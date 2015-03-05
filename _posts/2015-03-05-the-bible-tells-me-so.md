@@ -3,7 +3,6 @@ title: The Bible Tells Me So
 layout: post
 categories:
     Faith
-    Book Reviews
 tags:
     bible
     books
