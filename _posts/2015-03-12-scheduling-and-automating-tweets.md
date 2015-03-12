@@ -1,3 +1,12 @@
+---
+title: Scheduling and automating tweets
+layout: post
+categories:
+    Fun
+tags:
+    social
+    twitter
+---
 Yesterday, I had a quick Twitter discussion with [Calvin Lee][mayhem] and [Donna White][donna] and this tweet...
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/donnawhite">@donnawhite</a> <a href="https://twitter.com/bsoist">@bsoist</a> <a href="https://twitter.com/twtrland">@twtrland</a> Hootsuite, buffer, etc killed being social. People used it wrong, as a RSS feed.</p>&mdash; Calvin Lee (@mayhemstudios) <a href="https://twitter.com/mayhemstudios/status/575716002719100929">March 11, 2015</a></blockquote>
