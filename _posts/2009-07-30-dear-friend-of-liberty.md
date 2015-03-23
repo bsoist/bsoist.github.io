@@ -2,7 +2,7 @@
 title: Dear Friend of Liberty
 author: bsoist
 layout: post
-permalink: /2009/07/30/dear-friend-of-liberty/
+redirect-from: /2009/07/30/dear-friend-of-liberty/
 dsq_thread_id:
   - 47959998
 categories:
