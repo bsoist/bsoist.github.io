@@ -92,7 +92,7 @@ In closing, I must say that this whole episode bothers me as a Christian as much
 > 
 > Jerry Falwell Jr.
 
- [1]: http://whsjr.soistmann.com/oped/2009/07/22/friend-of-liberty/
+ [1]: {% post_url 2009-07-22-friend-of-liberty %}
  [2]: http://www.liberty.edu/
- [3]: http://whsjr.soistmann.com/oped/2006/05/24/aclu-may-block-criticism-by-its-board-new-york-times/
+ [3]: {% post_url 2006-05-24-aclu-may-block-criticism-by-its-board-new-york-times %}
  [4]: http://www.greenpeace.org/
