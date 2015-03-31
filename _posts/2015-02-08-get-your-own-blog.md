@@ -24,7 +24,7 @@ The experience was fantastic, but the sense of community was even better.
 
 >If you want to be an anomaly, you've gotta act like one. -Gary Vaynerchuck
 
-There is one blog that pulled me back into blog comments Generally, the comment section there is an anomaly. I learn as much - or more - from the comments than I do from the posts. But it's not always fun and games. Every once in a while, I can tell from the topic of the post that I will want to avoid the comments. One such discussion left me so aggravated that I reached out to the author to encourage him to keep at it, but I also reminded him of that it was not his responsibility to host a place where I can say whatever I want. I'm glad some bloggers give readers the option to share their opinions, but at a certain point, it becomes clear that the discussion should move elsewhere.
+There is one blog that pulled me back into blog comments. Generally, the comment section there is an anomaly. I learn as much - or more - from the comments than I do from the posts. But it's not always fun and games. Every once in a while, I can tell from the topic of the post that I will want to avoid the comments. One such discussion left me so aggravated that I reached out to the author to encourage him to keep at it, but I also reminded him of that it was not his responsibility to host a place where I can say whatever I want. I'm glad some bloggers give readers the option to share their opinions, but at a certain point, it becomes clear that the discussion should move elsewhere.
 
 and that place should be, if you ask me, your own blog.
 
