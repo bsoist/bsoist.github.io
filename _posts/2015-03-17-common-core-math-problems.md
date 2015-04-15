@@ -29,13 +29,13 @@ Teching math is a hard. The teacher is trying to teach students how to solve pro
  
 When I was in fourth grade, we were told to just "do it this way" whether we understood it or not. I'm a math and numbers nut, so I understood what was going on, but I can tell you that not every student understood when to divide, when to subtract, etc. My experience teaching math tells me that many students simply guess at which operation to use, or use those "short cuts" their teachers or parents show them, but those invariably leads to poorer thinking - not better.
 
-It if much better for students to learn by experience.
+It is much better for students to learn by experience.
 
 If a teacher is telling students who already know what to do that they are "getting it wrong," that's a sign of an ineffective teacher and/or a bad textbook.
 
 What amuses me about all this too is that all of a sudden parents have an issue with solutions that don't make sense because it's not how they learned it - but teaching math ineffectively has always been an issue. Common Core did not cause this problem.
 
-Both of my children are very good at math. My daughter, especially, thinks in numbers and really gets how numbers work. When she was in second grade we had a lot of issues because her teacher insisted that subtraction had 18 steps. Becky did not get that and neither do I. Subtraction has one step - you subtract one number from another. The teacher was confusing one algorithm for figuring a subtraction problem - not everyone needs to use paper and pencil to solve a sub problem. No doubt learning how to do that algorithm **MIGHT** be helpful to some students - maybe even all - but it's not subtraction!
+Both of my children are very good at math. My daughter, especially, thinks in numbers and really gets how numbers work. When she was in second grade we had a lot of issues because her teacher insisted that subtraction had 18 steps. Becky did not get that and neither do I. Subtraction has one step - you subtract one number from another. The teacher was confusing one algorithm for figuring a subtraction problem - not everyone needs to use paper and pencil to solve a subtraction problem. No doubt learning how to do that algorithm **MIGHT** be helpful to some students - maybe even all - but it's not subtraction!
 
 Teaching strategies is a good thing. Teaching them as the ends - instead of the means - is the problem.
 
