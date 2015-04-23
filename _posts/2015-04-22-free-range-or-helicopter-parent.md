@@ -1,3 +1,10 @@
+---
+title: Free Range or Helicopter Parent
+layout: post
+categories:
+    Family
+    Freedom
+---
 Over the last few weeks, I've read a lot of opinions about "free range" vs. "helicopter" parenting. The issue is not a new one, but a [recent story][story] about two young children who were picked up by the police because they were walking home "unsupervised" from a park about a mile from their home.
 This topic came up on a recent episode of _Real Time_ and I think it was Bill or Dave Barry who said his parents used to say...
 > Go outside and play. Be back by September.
