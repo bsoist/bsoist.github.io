@@ -28,4 +28,4 @@ Over the next few years, I learned a few things about life and politics:
 
 As a result, I have a much different view on American politics. I&#8217;m sure you can&#8217;t wait to learn more. Stay tuned.
 
- [1]: http://whsjr.soistmann.com/oped/2010/10/05/why-i-changed-my-political-views-on-facebook/
+ [1]: http://www.bsoi.st/2010/10/05/why-i-changed-my-political-views-on-facebook/
