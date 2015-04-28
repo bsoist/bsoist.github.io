@@ -49,5 +49,6 @@ At least that’s the way I see it.
   <a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/?px"><img class="zemanta-pixie-img" style="border: none; float: right;" alt="Enhanced by Zemanta" src="http://img.zemanta.com/zemified_h.png?x-id=c597f759-8b53-4c3d-ad7a-5872d0334117" /></a>
 </div>
 
- [1]: http://www.alearningaday.com/2013/02/don-travel-while-you-are-young.html
- [2]: http://whsjr.soistmann.com/oped/2013/01/09/found-money/
+[1]: http://www.alearningaday.com/2013/02/don-travel-while-you-are-young.html
+
+[2]: {% post_url 2013-01-09-found-money %}
