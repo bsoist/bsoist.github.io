@@ -33,5 +33,5 @@ So, that’s how Brad Feld and Pierre Robert made my day last Friday. Thanks a b
 Sometimes [you don&#8217;t know if a good day is a good day][3].
 
  [1]: http://www.feld.com/wp/archives/2013/02/the-winners-of-the-startup-life-win-a-dinner.html
- [2]: http://whsjr.soistmann.com/oped/2013/02/12/hair-metal-mondays-tuesday-edition/
+ [2]: /2013/02/12/hair-metal-mondays-tuesday-edition/
  [3]: http://www.alearningaday.com/2013/02/you-don-know-if-good-day-is-good-day.html
