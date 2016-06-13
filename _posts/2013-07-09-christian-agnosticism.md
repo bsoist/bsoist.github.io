@@ -9,7 +9,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1481530039
 categories:
-  - Faith
+  - faith
 ---
 If you know me, or have read more than a few things I’ve written, you’ll know that I have written about my faith before, and that …
 
