@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1094915784
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Saturday afternoon I retweeted this …
 

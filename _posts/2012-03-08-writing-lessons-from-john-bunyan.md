@@ -6,7 +6,7 @@ permalink: /2012/03/08/writing-lessons-from-john-bunyan/
 dsq_thread_id:
   - 603542511
 categories:
-  - Faith
+  - faith
 ---
 Yesterday I started reading **Pilgrimâ€™s Progress** again for the latest installment of [Reading Classics Together][1] and I stumbled onto something Iâ€™ve never noticed before. I am reading the online version at [CCEL][2] and I was intrigued by the section titled [The Authorâ€™s Apology for His Book][3]. I may have read this before, but I donâ€™t remember it.
 

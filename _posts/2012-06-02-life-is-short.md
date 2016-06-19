@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 712094047
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 The first film on my list this week features the phrase &#8220;life is brief.&#8221; The phrase is uttered several times in word and song throughout the film. I mention it for two reasons. One, because it&#8217;s true &#8211; life is very brief indeed. Second, because it reminds me of our trip to Italy.
 

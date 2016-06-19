@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 663766365
 categories:
-  - Family
+  - family
 ---
 Teaching is hard. There are few things harder &#8211; and I can&#8217;t think of what they are. 
 

@@ -6,7 +6,7 @@ permalink: /2012/03/09/double-fine-adventure/
 dsq_thread_id:
   - 604892221
 categories:
-  - Fun
+  - fun
 ---
 Today&#8217;s project is [Double Fine Adventure][1], an interesting project that involves both video game development and a documentary film.
 

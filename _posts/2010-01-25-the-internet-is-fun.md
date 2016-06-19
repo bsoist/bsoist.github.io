@@ -6,7 +6,7 @@ permalink: /2010/01/25/the-internet-is-fun/
 dsq_thread_id:
   - 61333023
 categories:
-  - Fun
+  - fun
 ---
 I know the Internet is a tremendous resource for any number of constructive pursuits, but every once in a while I am reminded of how much fun it is. I&#8217;m not talking about blatantly useless time wasting activities we&#8217;ve all engaged in &#8211; watching drunk animals or people getting injured on YouTube and things like that. I&#8217;m talking about something else.  
 <!--more-->

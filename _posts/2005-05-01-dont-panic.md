@@ -6,8 +6,8 @@ permalink: /2005/05/01/dont-panic/
 dsq_thread_id:
   - 49942631
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 tags:
   - movies
   - geek

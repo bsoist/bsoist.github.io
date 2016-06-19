@@ -12,8 +12,7 @@ ATITLE:
 dsq_thread_id:
   - 88829461
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 Like most of Kubrick&#8217;s films, [The Shining][1] is a masterpiece. The film is classic Kubrick &#8211; wide symetrical shots, vivid colors, contorted faces of our main characters &#8211; and I could watch it over and over again.
 

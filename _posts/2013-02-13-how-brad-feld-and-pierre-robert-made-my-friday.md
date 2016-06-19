@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1081348943
 categories:
-  - Fun
+  - fun
 ---
 I wasn’t having a particularly good day last Friday, which is a bad sign because Friday is one of my favorite days. Not for the reasons you might think &#8211; Monday is another favorite. I typically use Fridays to wrap up lose ends, catch up with people who’ve been waiting on me, etc. But this Friday was different. I had some unpleasant “running around” to do.
 

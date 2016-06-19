@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1033102318
 categories:
-  - Freedom
+  - freedom
 ---
 In a discussion I was having the other day, we talked about how George Carlin seems to have it all figured out. I had a quote of his in mind, but couldn’t remember enough of it to find it. Eventually, after having given up, I found it.
 

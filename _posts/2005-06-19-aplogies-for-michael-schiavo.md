@@ -4,8 +4,8 @@ author: bsoist
 layout: post
 permalink: /2005/06/19/aplogies-for-michael-schiavo/
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 tags:
   - life
 ---

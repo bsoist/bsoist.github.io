@@ -10,11 +10,10 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Faith
-  - Family
-  - Freedom
-  - Movies
-  - Reviews
+  - faith
+  - family
+  - freedom
+  - movies
 ---
 A few months ago our son was in Philadelphia with a couple of his buddies and they decided to stop and see [Of Gods and Men][1]<img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=B004LWZVWU&camp=217145&creative=399373" width="1" height="1" border="0" /> before returning home. He raved about the movie and insisted we go to see it as a family. It would only be available on Mothers’ Day so we set the idea aside until we made definite plans.
 

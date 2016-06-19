@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 957922755
 categories:
-  - Fun
+  - fun
 ---
 I think I&#8217;m a pretty smart guy. My mom always said so.
 

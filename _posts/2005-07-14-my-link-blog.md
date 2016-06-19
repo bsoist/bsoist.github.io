@@ -6,7 +6,7 @@ permalink: /2005/07/14/my-link-blog/
 dsq_thread_id:
   - 48016765
 categories:
-  - Fun
+  - fun
 tags:
   - geek
   - links

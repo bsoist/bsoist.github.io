@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 722843795
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;m disappointed the Devils season ended the way it did, but they really made it exciting there at the end. I really thought they might pull it out and come back from being down three games to none. It was not to be.
 

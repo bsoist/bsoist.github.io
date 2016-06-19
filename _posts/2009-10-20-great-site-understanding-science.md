@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/10/20/great-site-understanding-science/
 categories:
-  - Family
+  - family
 ---
 I&#8217;ve been planning to share this site whenever I was in the mood to talk about science.
 

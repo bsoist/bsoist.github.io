@@ -8,9 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1079252630
 categories:
-  - Family
-  - Fun
-  - Hair Metal Mondays
+  - fun
 ---
 I haven’t been very faithful with my Heavy Metal Mondays posts. The plan was to queue them up over the weekend, but I’ve not done that. I intentionally skipped one yesterday, because I have a few posts I want to get out into the wild.
 

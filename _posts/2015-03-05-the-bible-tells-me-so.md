@@ -2,7 +2,7 @@
 title: The Bible Tells Me So
 layout: post
 categories:
-    Faith
+    faith
 tags:
     bible
     books

@@ -6,8 +6,8 @@ permalink: /2004/05/30/america-loves-a-longshot/
 dsq_thread_id:
   - 52621956
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
   - Movie Reviews
 tags:
   - movies

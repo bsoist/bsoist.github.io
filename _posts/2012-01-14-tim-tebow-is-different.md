@@ -6,8 +6,8 @@ permalink: /2012/01/14/tim-tebow-is-different/
 dsq_thread_id:
   - 539498957
 categories:
-  - Faith
-  - Fun
+  - faith
+  - fun
 ---
 Anybody who knows me, even casually, probably knows that I am suspicious of athletes thanking God after a game. I liken it to taking God&#8217;s name in vain. In my opinion, some athletes just use Jesus as a good luck charm.
 

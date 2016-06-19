@@ -6,7 +6,7 @@ permalink: /2012/01/25/my-response-to-the-gop-response/
 dsq_thread_id:
   - 552402144
 categories:
-  - Freedom
+  - freedom
 ---
 Some of you will think I am cherry picking from the response only comments that make my point.
 

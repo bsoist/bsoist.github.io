@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1013233198
 categories:
-  - Fun
+  - fun
 ---
 And it&#8217;s about to get stranger.
 

@@ -12,7 +12,7 @@ AIMG:
 dsq_thread_id:
   - 49878317
 categories:
-  - Movie Reviews
+  - movies
 tags:
   - football
   - movies

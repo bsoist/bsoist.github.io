@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 993703581
 categories:
-  - Fun
+  - fun
 ---
 A [post I read this morning][1] reminded me of my high school art classes.
 

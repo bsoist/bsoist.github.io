@@ -6,9 +6,8 @@ permalink: /2012/02/26/2012-oscar-nominated-shorts/
 dsq_thread_id:
   - 590060883
 categories:
-  - Fun
-  - Movies
-  - Reviews
+  - fun
+  - movies
 ---
 I didn&#8217;t see the documentaries this year, but I did get a chance to see the others
 

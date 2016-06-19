@@ -14,9 +14,8 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Fun
-  - Movies
-  - Reviews
+  - fun
+  - movies
 ---
 March 23, 2010 marked the 100<sup>th</sup> anniversary of [Akira Kurosawa][1] &#8211; a brilliant filmmaker.
 

@@ -6,7 +6,7 @@ permalink: /2011/07/13/leftover-movie-reviews/
 dsq_thread_id:
   - 357641981
 categories:
-  - Movies
+  - movies
 ---
 I&#8217;ve seen a few movies lately that I may not have time to review but I wanted to share a few thoughts anyway.
 

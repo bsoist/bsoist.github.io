@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 767400742
 categories:
-  - Fun
-  - Hair Metal Mondays
+  - fun
 ---
 &#8220;We&#8217;re Not Gonna Take It&#8221; is a 1984 hit song by the American glam metal/heavy metal band Twisted Sister from their album Stay Hungry. I was never a huge fan of Twisted Sister, but they&#8217;ve recorded some decent work and this song is a classic from the 80s to be sure. I remember the video was a big hit. I don&#8217;t particularly care for it, but since a lot of people do I thought I&#8217;d use it here.
 

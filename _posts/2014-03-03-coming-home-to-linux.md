@@ -2,7 +2,7 @@
 title: Coming Home to Linux
 layout: post
 categories:
-    Fun
+    - fun
 ---
 Title inspired by the excellent <a href="http://stevelosh.com/blog/2010/09/coming-home-to-vim/">Coming Home to Vim</a> by Steve Losh.
 Sometime in 2002 I switched to OS X as my main OS. Until then I had used Linux as my OS but I had some exposure to Windows and OS X. 

@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 982848741
 categories:
-  - Fun
+  - fun
 ---
 Many have accused politicians of using this tragedy as an &#8220;opportunity&#8221; and I take issue with that.
 

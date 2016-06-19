@@ -2,7 +2,7 @@
 title: How I Shorten Links
 layout: post
 categories:
-    Fun
+    - fun
 ---
 One of the things I've obsessed about the most over the years is how I share links. I've always wanted a way to shorten links but have a way to control the whole thing myself and/or move to other systems when necessary. 
 

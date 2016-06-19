@@ -6,8 +6,8 @@ permalink: /2009/01/30/athletes-and-faith/
 dsq_thread_id:
   - 50630550
 categories:
-  - Faith
-  - Fun
+  - faith
+  - fun
 tags:
   - football
 ---

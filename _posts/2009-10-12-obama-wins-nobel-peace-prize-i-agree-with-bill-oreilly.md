@@ -6,7 +6,7 @@ permalink: /2009/10/12/obama-wins-nobel-peace-prize-i-agree-with-bill-oreilly/
 dsq_thread_id:
   - 47868240
 categories:
-  - Freedom
+  - freedom
 tags:
   - limbaugh
   - nobel

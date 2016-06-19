@@ -6,8 +6,8 @@ permalink: /2005/10/08/christian-conservative/
 dsq_thread_id:
   - 48195092
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 tags:
   - politics
   - war

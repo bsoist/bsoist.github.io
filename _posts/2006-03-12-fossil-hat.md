@@ -6,7 +6,7 @@ permalink: /2006/03/12/fossil-hat/
 dsq_thread_id:
   - 52055070
 categories:
-  - Faith
+  - faith
 tags:
   - creation
   - evolution

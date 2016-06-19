@@ -6,9 +6,9 @@ redirect-from: /2009/07/30/dear-friend-of-liberty/
 dsq_thread_id:
   - 47959998
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 Last week [I mentioned][1] that I&#8217;d received a letter from [Liberty University][2]. Today I&#8217;d like to comment on that letter.
 

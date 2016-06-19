@@ -6,7 +6,7 @@ permalink: /2012/01/07/favorite-films-seen-in-2011/
 dsq_thread_id:
   - 530569259
 categories:
-  - Movies
+  - movies
 ---
 As usual, some of them were not released in 2011. Unfortunately, I suspect I missed many of the best films of 2011 &#8211; even more than 2010 &#8211; so next year&#8217;s list will be whacked again. Links below are to my previous thoughts on the film (however brief they may have been).
 

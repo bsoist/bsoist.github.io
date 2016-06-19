@@ -6,7 +6,7 @@ permalink: /2012/01/26/gop-race-too-close-to-call/
 dsq_thread_id:
   - 553297978
 categories:
-  - Freedom
+  - freedom
 ---
 I&#8217;ve not watched one Republican debate. I&#8217;ve watched a few clips and I&#8217;ve read a lot of commentary on them, but I have not tuned in to one of them yet.
 

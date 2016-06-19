@@ -6,7 +6,7 @@ permalink: /2004/12/01/dangerous-intersetions/
 dsq_thread_id:
   - 48940885
 categories:
-  - Family
+  - family
 tags:
   - dad
   - geek

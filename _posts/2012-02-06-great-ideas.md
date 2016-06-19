@@ -6,9 +6,9 @@ permalink: /2012/02/06/great-ideas/
 dsq_thread_id:
   - 566104951
 categories:
-  - Family
-  - Fun
-  - Links
+  - family
+  - fun
+  - links
 ---
   * iPad Arcade Cabinet ~ Chris Pirillo &#8211; [link][1] 
   * Freakonomics Â» A Solution to Car Accident Rubbernecking: Setting Screens &#8211; [link][2] 

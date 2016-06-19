@@ -2,8 +2,8 @@
 title: My right to believe nonsense
 layout: post
 categories:
-    Freedom
-    Family
+    freedom
+    family
 tags:
     choice
 ---

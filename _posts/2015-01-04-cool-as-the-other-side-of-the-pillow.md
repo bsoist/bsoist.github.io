@@ -2,7 +2,7 @@
 title: Cool as the other side of the pillow
 layout: post
 categories:
-    Family
+    family
 ---
 I woke up in the mood to do some writing.
 When I learned that <a href="http://espn.go.com/espn/story/_/id/12118296/stuart-scott-espn-anchor-dies-age-49">Stuart Scott lost his battle to cancer</a>, I spent a lot of time putting my thoughts in writing. 

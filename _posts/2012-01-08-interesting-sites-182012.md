@@ -6,11 +6,11 @@ permalink: /2012/01/08/interesting-sites-182012/
 dsq_thread_id:
   - 531494553
 categories:
-  - Faith
-  - Family
-  - Freedom
-  - Fun
-  - Links
+  - faith
+  - family
+  - freedom
+  - fun
+  - links
 ---
   * A visualization of US debt (credit card bill) stacked in 100 dollar bills &#8211; [link][1] 
   * Infinite Mario &#8211; HTML5 &#8211; [link][2] 

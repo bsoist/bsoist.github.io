@@ -2,11 +2,11 @@
 title: Einstein - His Life and Universe
 layout: post
 categories:
-    Fun
-    Freedom
-    Faith
-    Family
-    Books
+    fun
+    freedom
+    faith
+    family
+    books
 tags:
     books
 ---

@@ -10,5 +10,5 @@ ASIN:
 AIMG:
   - 41Lk%2B2HTcsL
 categories:
-  - Fun
+  - fun
 ---

@@ -12,5 +12,5 @@ ASIN:
 dsq_thread_id:
   - 79098859
 categories:
-  - Fun
+  - fun
 ---

@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1560784341
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Summer field hockey is finally over for the season and I can finally talk about it. Becky&#8217;s team did finish undefeated!
 

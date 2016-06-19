@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/03/01/youtube-coal-action-heats-up-capitol/
 categories:
-  - Freedom
+  - freedom
 ---
 Young people standing up for our planet on Monday.
 

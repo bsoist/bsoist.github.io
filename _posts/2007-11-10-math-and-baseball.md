@@ -6,7 +6,7 @@ permalink: /2007/11/10/math-and-baseball/
 dsq_thread_id:
   - 50046942
 categories:
-  - Fun
+  - fun
 tags:
   - baseball
   - math

@@ -6,7 +6,7 @@ permalink: /2005/10/22/bias-ruled-in-law-on-same-sex-rape/
 dsq_thread_id:
   - 53604182
 categories:
-  - Freedom
+  - freedom
 ---
 I may not like what these teens did, but I certainly don&#8217;t think the punishment shoud have been 17 years in prison!  
 

@@ -6,7 +6,7 @@ permalink: /2005/05/16/good-to-great/
 dsq_thread_id:
   - 48129398
 categories:
-  - Book Reviews
+  - book
 tags:
   - books
 ---

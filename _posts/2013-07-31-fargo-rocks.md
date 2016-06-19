@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1551265440
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;ve been paying attention to what Small Picture has been working on since Dave first let the cat out of the bag. I&#8217;m a long time fan of Dave&#8217;s work and writing. We don&#8217;t always agree on details, but I think in outlines, I support open protocols, and I like tools that are simple but powerful.
 

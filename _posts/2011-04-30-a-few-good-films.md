@@ -6,8 +6,8 @@ permalink: /2011/04/30/a-few-good-films/
 dsq_thread_id:
   - 292340699
 categories:
-  - Fun
-  - Movies
+  - fun
+  - movies
 ---
 <div>
   <p>

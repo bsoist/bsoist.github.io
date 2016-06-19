@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2006/04/18/virtual-talmud-rick-warrens-mega-synagogue/
 categories:
-  - Faith
+  - faith
 tags:
   - church
 ---

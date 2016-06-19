@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1561168481
 categories:
-  - Fun
+  - fun
 ---
 NOTE: I wrote this over at [Fargo][1], but I cross-posted here so I could tweak the xhtml a little ( still working on templates for my numbering and such). You are reading this on a WordPress powered website. Keep that in mind as you read. I&#8217;m a BIG FAN of WordPress. <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
 

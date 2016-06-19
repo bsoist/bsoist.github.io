@@ -8,8 +8,9 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
+  - movies
 ---
 <div style="float: right; padding-right: 50px;">
   <a href="http://www.amazon.com/gp/product/B0059XTU22/ref=as_li_ss_il?ie=UTF8&tag=weifyoasme-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0059XTU22"><img alt="" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=B0059XTU22&MarketPlace=US&ID=AsinImage&WS=1&tag=weifyoasme-20&ServiceVersion=20070822" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.com/e/ir?t=weifyoasme-20&l=as2&o=1&a=B0059XTU22" width="1" height="1" border="0" />

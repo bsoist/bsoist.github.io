@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 762382034
 categories:
-  - Faith
+  - faith
 ---
 I&#8217;ve heard the story of Jonah many times. I&#8217;ve read and studied it myself and I&#8217;ve considered this lesson before, but it really struck me the other day as I listened to those words during my devotional time. The selection for the day was the book of Jonah. This phrase struck me so much that I listened to the book a second time to get a sense for what Jonah must have been thinking.
 

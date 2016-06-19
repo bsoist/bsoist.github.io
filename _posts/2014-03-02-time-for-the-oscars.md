@@ -2,7 +2,7 @@
 title: Time for the Oscars!
 layout: post
 categories:
-    Fun
+    - fun
 ---
 It's time once again for the Oscars and, as usual, I am going to share my opinions on the nominations, my projections for the winners, and our menu for viewing.
 First, the menu ...

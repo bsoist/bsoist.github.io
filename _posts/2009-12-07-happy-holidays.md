@@ -6,9 +6,9 @@ permalink: /2009/12/07/happy-holidays/
 dsq_thread_id:
   - 50315779
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 Are you offended that I didn&#8217;t say Merry Christmas?
 

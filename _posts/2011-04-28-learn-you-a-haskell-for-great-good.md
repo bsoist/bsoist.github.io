@@ -12,8 +12,7 @@ AIMG:
 dsq_thread_id:
   - 290720850
 categories:
-  - Books
-  - Work Books
+  - books
 ---
 I just finished this book and I recommend it highly.
 

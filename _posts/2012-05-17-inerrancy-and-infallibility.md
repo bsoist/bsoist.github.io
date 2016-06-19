@@ -14,8 +14,9 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 693488589
 categories:
+  - faith
+tags:
   - Creation
-  - Faith
   - Science and Religion
 ---
 Inerrancy and infallibility are difficult topics to address in a single blog post, but it is a necessary place to begin the weekly posts I promised [last week][1] on the intersection of faith and science. Fortunately, my intent is not to provide an exhaustive treatment on the subject. I simply want to state my position on the issue, not because my view is what is important, but as a foundation for future posts. 

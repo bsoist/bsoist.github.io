@@ -8,8 +8,8 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 I enjoy spectator sports. I wouldn&#8217;t call myself a sport nut &#8211; because I&#8217;m not one &#8211; but I do enjoy rooting for my teams, and I enjoy watching certain sports very much.
 

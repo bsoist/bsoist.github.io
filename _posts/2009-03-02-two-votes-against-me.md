@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/03/02/two-votes-against-me/
 categories:
-  - Freedom
+  - freedom
 ---
 This is [one of those stories][1] I just can&#8217;t believe.
 

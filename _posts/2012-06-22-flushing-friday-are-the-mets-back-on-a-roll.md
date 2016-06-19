@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 736729450
 categories:
-  - Fun
+  - fun
 ---
 The last time I posted about the Mets I was starting to wonder if the good news was over. Since then, we swept the Rays, were swept by the Reds, and then swept the Os. 
 

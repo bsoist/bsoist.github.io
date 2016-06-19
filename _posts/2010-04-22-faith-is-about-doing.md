@@ -12,9 +12,8 @@ ATITLE:
 dsq_thread_id:
   - 88865128
 categories:
-  - Books
-  - Faith
-  - Reviews
+  - books
+  - faith
 ---
 I discovered [Have A Little Faith][1] quite accidentally and I enjoyed it very much. It is not the kind of book I would normally read and certainly not the kind I would buy &#8211; but I did both.
 

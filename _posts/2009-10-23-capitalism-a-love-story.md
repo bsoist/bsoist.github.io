@@ -10,6 +10,6 @@ ATITLE:
 AIMG:
   - HOSTED
 categories:
-  - Fun
+  - fun
 ---
 Haven&#8217;t had time to review this yet, but it was an excellent film. Typical Michael Moore (more sensationalism than documentary) but it is his best work yet.

@@ -14,9 +14,9 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 682414131
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 I try to ignore National Review Online, I really do!
 

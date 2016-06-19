@@ -12,8 +12,7 @@ AIMG:
 dsq_thread_id:
   - 232931023
 categories:
-  - Books
-  - Reviews
+  - books
 ---
 As I&#8217;ve [written before][1], I haven&#8217;t read a lot of comic books, or [graphic novels][2] as they&#8217;ve come to be called, in recent years, but my interest has increased now that I&#8217;ve experimented with comics on my iPad.
 

@@ -6,8 +6,8 @@ permalink: /2010/04/20/texting-is-a-distraction/
 dsq_thread_id:
   - 87949163
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 tags:
   - chat
   - im

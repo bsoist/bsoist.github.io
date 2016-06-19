@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 635096785
 categories:
-  - Fun
+  - fun
 ---
 Not long ago I noticed how frustrated I&#8217;d become with Google&#8217;s search results. I&#8217;d been frustrated with Google for some time, but still relied heavily on the search page. Now it dawned on me that the search results had been growing less relevant for quite some time.
 

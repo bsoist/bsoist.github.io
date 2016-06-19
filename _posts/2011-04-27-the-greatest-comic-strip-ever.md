@@ -6,8 +6,8 @@ permalink: /2011/04/27/the-greatest-comic-strip-ever/
 dsq_thread_id:
   - 290109449
 categories:
-  - Fun
-  - Links
+  - fun
+  - links
 ---
 I am sure it will come as no surprise to anyone that I love to read Dilbert. I laugh out loud at more than half of them and some of them are just classic.
 

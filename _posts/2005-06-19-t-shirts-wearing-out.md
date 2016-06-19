@@ -6,7 +6,7 @@ permalink: /2005/06/19/t-shirts-wearing-out/
 dsq_thread_id:
   - 53593472
 categories:
-  - Fun
+  - fun
 tags:
   - geek
 ---

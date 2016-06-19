@@ -2,8 +2,8 @@
 title: Get Your Own Blog
 layout: post
 categories:
-    Freedom
-    Fun
+    freedom
+    fun
 tags:
     blogging
     conversation

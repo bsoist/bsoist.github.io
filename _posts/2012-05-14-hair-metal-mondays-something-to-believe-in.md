@@ -14,9 +14,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 688936906
 categories:
-  - Faith
-  - Fun
-  - Hair Metal Mondays
+  - fun
 ---
 On Friday, I posted that I would start doing some fun stuff on Fridays on my blog. One of the things I mentioned was Hair Metal Friday. The idea was inspired by my favorite room at TurntableFM &#8211; [hair metal fridays @ bracketlabs][1]
 

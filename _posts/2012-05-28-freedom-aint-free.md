@@ -8,7 +8,7 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Freedom
+  - freedom
 ---
 <div class="wp-caption aligncenter" style="width: 586px">
   <img class="  " title="costoffreedom" src="http://farm4.staticflickr.com/3393/5778597850_fc72609938_o.jpg" alt="Freedom Ain't Free" width="576" height="864" />

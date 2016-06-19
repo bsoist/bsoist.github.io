@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2006/02/08/truthiness/
 categories:
-  - Fun
+  - fun
 tags:
   - ethics
   - truth

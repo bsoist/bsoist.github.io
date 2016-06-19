@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/10/13/google-starts-up-philanthropy-campaign/
 categories:
-  - Freedom
+  - freedom
 tags:
   - geek
   - giving

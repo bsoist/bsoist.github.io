@@ -2,8 +2,8 @@
 title: Read Across America
 layout: post
 categories:
-    Fun
-    Family
+    fun
+    family
 tags:
     books
 ---

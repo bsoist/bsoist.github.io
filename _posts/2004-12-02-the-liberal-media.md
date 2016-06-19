@@ -6,7 +6,7 @@ permalink: /2004/12/02/the-liberal-media/
 dsq_thread_id:
   - 50063241
 categories:
-  - Freedom
+  - freedom
 tags:
   - media
 ---

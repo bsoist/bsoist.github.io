@@ -2,8 +2,8 @@
 title: Follow your effort
 layout: post
 categories:
-    Family
-    Fun
+    family
+    fun
 tags:
     work
 ---

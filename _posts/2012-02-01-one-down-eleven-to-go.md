@@ -6,7 +6,7 @@ permalink: /2012/02/01/one-down-eleven-to-go/
 dsq_thread_id:
   - 560004050
 categories:
-  - Family
+  - family
 ---
 New Year&#8217;s Day is not just the first day of the year, it&#8217;s my birthday, so it&#8217;s a great time to reflect on my life and my goals. But I don&#8217;t do &#8220;official&#8221; resolutions. Long term goals are one thing, but a year long committment to a new and better habit seems counterproductive to me. When I do make promises to myself, and I fall short, I do what I think most people do. I start over at a later date. Hitching my self improvement habits to the first of the year makes it too tempting to start over at the beginning of the next year &#8211; even when I give up on a habit in February.
 

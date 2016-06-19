@@ -12,6 +12,6 @@ ASIN:
 dsq_thread_id:
   - 48784659
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;ve been telling Billy about Fargo, so I watched it with him. I&#8217;ve seen this several times and I&#8217;m always entertained.

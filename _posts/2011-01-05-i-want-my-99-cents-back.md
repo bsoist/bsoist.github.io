@@ -6,7 +6,7 @@ permalink: /2011/01/05/i-want-my-99-cents-back/
 dsq_thread_id:
   - 203310995
 categories:
-  - Faith
+  - faith
 ---
 I am a theist but I believe wholeheartedly that our universe was created in a big bang and has evolved over billions of years. I also have no reason to question the current scientific consensus that all life on this planet evolved from a common ancestor over the last several billion years. As a matter of fact, I find the whole idea of evolution to be an incredible example of our Creator&#8217;s omnipotence. 
 

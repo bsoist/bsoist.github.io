@@ -6,7 +6,7 @@ permalink: /2009/03/30/texas-considers-allowing-guns-on-campuses-nytimescom/
 dsq_thread_id:
   - 47856675
 categories:
-  - Freedom
+  - freedom
 ---
 The NY Times [is reporting][1] that the state legislature in Texas is considering a bill which would allow properly licensed persons to carry concealed weapons on a college campus.
 

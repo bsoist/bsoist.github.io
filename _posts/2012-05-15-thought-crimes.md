@@ -14,8 +14,8 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 690147686
 categories:
-  - Family
-  - Freedom
+  - family
+  - freedom
 ---
 I&#8217;ve never really thought about this before, but hate crime penalties really amount to punishments for thoughts. Shouldn&#8217;t the law be concerned with actions and deeds, not with thoughts?
 

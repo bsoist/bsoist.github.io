@@ -14,9 +14,10 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 679677666
 categories:
-  - Creation
-  - Faith
+  - faith
+tags:
   - Science and Religion
+  - Creation
 ---
 I recently found myself in another debate about the age of the earth, and it occurred to me that I should write a series of blog posts on the subject.
 

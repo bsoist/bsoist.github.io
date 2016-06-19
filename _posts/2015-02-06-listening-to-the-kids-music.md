@@ -2,8 +2,8 @@
 title: Listening to the kids music
 layout: post
 categories:
-    Family
-    Fun
+    family
+    fun
 tags:
     music
 ---

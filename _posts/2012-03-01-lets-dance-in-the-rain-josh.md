@@ -6,7 +6,7 @@ permalink: /2012/03/01/lets-dance-in-the-rain-josh/
 dsq_thread_id:
   - 594953441
 categories:
-  - Family
+  - family
 ---
 I&#8217;ve decided on my first Kickstarter project for March.
 

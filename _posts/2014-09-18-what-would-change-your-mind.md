@@ -2,7 +2,7 @@
 title: What would change your mind?
 layout: post
 categories:
-    Faith
+    - faith
 ---
 I sometimes have a hard time explaining to people why creationism is not science. 
 This video is the best demonstration I have ever seen of what I'm trying to explain to them.

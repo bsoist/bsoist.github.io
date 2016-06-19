@@ -2,7 +2,7 @@
 title: Something new to obsess over - This
 layout: post
 categories:
-    Fun
+    fun
 tags:
     links
 ---

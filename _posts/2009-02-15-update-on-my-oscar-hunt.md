@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/02/15/update-on-my-oscar-hunt/
 categories:
-  - Fun
+  - fun
 tags:
   - movies
   - oscars

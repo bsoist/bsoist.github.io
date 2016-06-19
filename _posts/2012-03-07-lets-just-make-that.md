@@ -6,7 +6,7 @@ permalink: /2012/03/07/lets-just-make-that/
 dsq_thread_id:
   - 602110479
 categories:
-  - Freedom
+  - freedom
 ---
 The Kickstarter project for today is [Let&#8217;s Just Make That! Tv Show and Workshops][1].
 

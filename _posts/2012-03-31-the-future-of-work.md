@@ -10,8 +10,8 @@ pdrp_attributionLocation:
 pdrp_attributionExtended:
   - 1
 categories:
-  - Freedom
-  - Fun
+  - freedom
+  - fun
 ---
 [As promised][1], today I am backing a project backed by a friend.
 

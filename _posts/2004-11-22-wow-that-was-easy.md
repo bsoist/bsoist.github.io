@@ -6,7 +6,7 @@ permalink: /2004/11/22/wow-that-was-easy/
 dsq_thread_id:
   - 53591520
 categories:
-  - Fun
+  - fun
 tags:
   - geek
   - tech

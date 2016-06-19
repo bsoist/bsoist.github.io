@@ -8,9 +8,9 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1020281800
 categories:
-  - Family
-  - Fun
-  - Movies
+  - family
+  - fun
+  - movies
 ---
 A while back [I decided to start a Friday feature][1], and then I got away from regular blogging for a while. Over the past few weeks, I have been meaning to catch up.
 

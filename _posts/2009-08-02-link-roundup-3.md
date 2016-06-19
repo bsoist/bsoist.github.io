@@ -6,7 +6,7 @@ permalink: /2009/08/02/link-roundup-3/
 dsq_thread_id:
   - 47839692
 categories:
-  - Fun
+  - fun
 ---
 <a href="http://www.latimes.com/news/opinion/commentary/la-oe-maher31-2009jul31,0,622151.story" tags="politics,conspiracy,gop,birthers,obama">'Birthers' must be stopped &#8211; Los Angeles Times</a>
 :   I am not a huge fan of Maher but I usually agree with about half of what he says. This is a funny read. 

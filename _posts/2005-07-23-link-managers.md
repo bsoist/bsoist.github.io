@@ -6,7 +6,7 @@ permalink: /2005/07/23/link-managers/
 dsq_thread_id:
   - 48135342
 categories:
-  - Fun
+  - fun
 tags:
   - geek
   - links

@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1085265964
 categories:
-  - Faith
+  - faith
 ---
 More than six months ago, I told C. C. Chapman that a post of his inspired, and I quote, “my next post.”
 

@@ -14,10 +14,10 @@ Hide SexyBookmarks:
 Hide OgTags:
   - 0
 categories:
-  - Faith
-  - Family
-  - Freedom
-  - Fun
+  - faith
+  - family
+  - freedom
+  - fun
 ---
 I know it&#8217;s not a good idea to announce my goal before I&#8217;ve accomplished it, but I wanted to blog about this one every day so I guess I have to.
 

@@ -12,7 +12,7 @@ ASIN:
 dsq_thread_id:
   - 48052418
 categories:
-  - Book Reviews
+  - books
 tags:
   - books
   - culture

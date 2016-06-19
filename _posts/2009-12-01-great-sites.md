@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/12/01/great-sites/
 categories:
-  - Fun
+  - fun
 ---
 [Confusing Words][1]
 [Project Censored &#8211; Media Democracy in Action][2]

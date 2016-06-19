@@ -2,7 +2,7 @@
 title: The "fine line" between discipline and abuse
 layout: post
 categories:
-    Family
+    - family
 ---
 When I first learned of the charge facing Adrian Peterson, my first concern was for child involved, but I was worried too about the reaction we might get from those who choose to use corporal punishment on their own children. I rub shoulders with many who believe "the liberal media" or "society today" is on a quest to outlaw their way of life. I stayed away from the story afraid I would lose my temper with someone over someone over all of this. 
 I'm tired of the "everyone is out to get us" mentality.

@@ -6,9 +6,9 @@ permalink: /2012/01/23/the-right-to-choose/
 dsq_thread_id:
   - 549830142
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 The Right to Choose
 

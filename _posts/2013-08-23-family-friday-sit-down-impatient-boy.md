@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1633992080
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 <blockquote class="twitter-tweet">
   <p>

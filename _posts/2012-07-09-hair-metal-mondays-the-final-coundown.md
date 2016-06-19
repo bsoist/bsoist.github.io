@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 757532835
 categories:
-  - Fun
-  - Hair Metal Mondays
+  - fun
 ---
 This week&#8217;s selection is another classic that I think of every time I hear the phrase &#8220;hair metal.&#8221; 
 

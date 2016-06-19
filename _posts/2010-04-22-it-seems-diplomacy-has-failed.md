@@ -10,6 +10,6 @@ ATITLE:
 ASIN:
   - B002VPE1B6
 categories:
-  - Fun
+  - fun
 ---
 A much better film than I expected but not worth my time to review.

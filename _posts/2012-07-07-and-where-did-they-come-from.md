@@ -8,9 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 757534162
 categories:
-  - Fun
-  - Movies
-  - Reviews
+  - fun
+  - movies
 ---
 ## *Prometheus*
 

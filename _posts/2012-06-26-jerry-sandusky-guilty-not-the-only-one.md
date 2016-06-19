@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 741397269
 categories:
-  - Family
+  - family
 ---
 I am sick over the case of Jerry Sandusky. I am pleased by the jury&#8217;s verdict. Sandusky is a sick man who needs to be locked up for the rest of his life.
 

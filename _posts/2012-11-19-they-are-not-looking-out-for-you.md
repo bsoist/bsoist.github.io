@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 934746911
 categories:
-  - Blogroll
-  - Reviews
+  - links
 ---
 More than twenty years ago, I was injured on the job. My employer acted as though they were worried about me, but I learned later that everything they did &#8211; including paying for my treatment &#8211; was motivated by self interest. I was not seriously injured, but many others are not as lucky as I was. 
 

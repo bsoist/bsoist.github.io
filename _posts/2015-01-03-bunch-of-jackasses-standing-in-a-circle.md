@@ -2,8 +2,7 @@
 title: Bunch of jackasses standing in a circle
 layout: post
 categories:
-    Fun
-    Movie Reviews
+    fun
 tags:
     movies
 ---

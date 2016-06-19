@@ -6,10 +6,10 @@ permalink: /2010/01/12/two-cents-each/
 dsq_thread_id:
   - 57415307
 categories:
-  - Books
-  - Family
-  - Freedom
-  - Fun
+  - books
+  - family
+  - freedom
+  - fun
 tags:
   - cs
   - education

@@ -6,7 +6,7 @@ permalink: /2010/07/06/the-best-fragging-deal-on-iphone-and-ipod-touch/
 dsq_thread_id:
   - 114647047
 categories:
-  - Fun
+  - fun
 tags:
   - games
   - ipad

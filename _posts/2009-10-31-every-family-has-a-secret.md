@@ -14,7 +14,7 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Movies
+  - movies
 ---
 Last weekend we went for a showing of the film Tetro which included free lunch, free [Coppola wine][1], and a Q&#038;A with the director himself via Skype. 
 

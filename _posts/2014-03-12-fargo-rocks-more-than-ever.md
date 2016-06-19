@@ -2,7 +2,7 @@
 title: Fargo rocks more than ever
 layout: post
 categories:
-    Fun
+    - fun
 ---
 I am very excited the work being done on <a href="http://fargo.io/blog/">Fargo</a> and <a href="https://github.com/scripting/fargoPublisher">Fargo Publisher</a>. I'm keeping my eye on those developments, and I'll probably set up my own server to run it very soon - for myself and others hopefully.
 But I am still using my own homegrown system to render and upload my outlines to S3. 

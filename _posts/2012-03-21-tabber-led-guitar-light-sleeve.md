@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 619901631
 categories:
-  - Fun
+  - fun
 ---
 Today&#8217;s project is [Tabber, an open-source LED guitar teacher][1]. 
 

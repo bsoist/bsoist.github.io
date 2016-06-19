@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 766153674
 categories:
-  - Family
-  - Featured
+  - family
 ---
 Twenty-three years ago today I married the girl of my dreams. We&#8217;ve lived happily ever after since then. The title of this post is a running joke at our house. It&#8217;s what my dad would have on his 23rd wedding anniversary. Actually, I&#8217;m sure he did say it just like he did every other year. 
 

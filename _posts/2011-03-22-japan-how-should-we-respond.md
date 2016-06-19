@@ -6,7 +6,7 @@ permalink: /2011/03/22/japan-how-should-we-respond/
 dsq_thread_id:
   - 260272276
 categories:
-  - Faith
+  - faith
 ---
 The suffering caused by the earthquake and tsunami in Japan is difficult to comprehend.
 

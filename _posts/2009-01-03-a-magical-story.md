@@ -12,8 +12,7 @@ ATITLE:
 dsq_thread_id:
   - 52812744
 categories:
-  - Books
-  - Reviews
+  - books
 tags:
   - books
   - dad

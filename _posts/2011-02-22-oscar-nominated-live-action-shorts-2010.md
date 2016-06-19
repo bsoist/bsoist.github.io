@@ -6,8 +6,7 @@ permalink: /2011/02/22/oscar-nominated-live-action-shorts-2010/
 dsq_thread_id:
   - 237436478
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 I thought this year&#8217;s batch of nominees were all very good.
 

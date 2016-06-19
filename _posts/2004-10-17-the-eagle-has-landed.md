@@ -6,8 +6,8 @@ permalink: /2004/10/17/the-eagle-has-landed/
 dsq_thread_id:
   - 48982375
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Billy became a [Young Eagle ][1] today. Check out the pics on the [photoblog,][2] or check to see if he has finished his <a href="http://soistmann.com/?billy/eaa.html" target="_top">slide show</a> of the event.
 

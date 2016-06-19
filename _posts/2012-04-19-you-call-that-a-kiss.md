@@ -10,11 +10,10 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 656210924
 categories:
-  - Books
-  - Family
-  - Freedom
-  - Fun
-  - Reviews
+  - books
+  - family
+  - freedom
+  - fun
 ---
 <div style="float:right;padding:10px;">
   <a href="http://www.amazon.com/gp/product/0439023521/ref=as_li_ss_il?ie=UTF8&#038;tag=weifyoasme-20&#038;linkCode=as2&#038;camp=1789&#038;creative=390957&#038;creativeASIN=0439023521"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&#038;Format=_SL110_&#038;ASIN=0439023521&#038;MarketPlace=US&#038;ID=AsinImage&#038;WS=1&#038;tag=weifyoasme-20&#038;ServiceVersion=20070822" /></a><img src="http://www.assoc-amazon.com/e/ir?t=weifyoasme-20&#038;l=as2&#038;o=1&#038;a=0439023521" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

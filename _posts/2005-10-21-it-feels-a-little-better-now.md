@@ -6,7 +6,7 @@ permalink: /2005/10/21/it-feels-a-little-better-now/
 dsq_thread_id:
   - 53600567
 categories:
-  - Fun
+  - fun
 tags:
   - football
   - jets

@@ -6,7 +6,7 @@ permalink: /2012/03/15/celebration-preservation/
 dsq_thread_id:
   - 612623408
 categories:
-  - Fun
+  - fun
 ---
 Today&#8217;s project is [Celebration & Preservation][1].
 

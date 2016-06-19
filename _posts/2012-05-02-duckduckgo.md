@@ -14,7 +14,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 672873482
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;ve been using [DuckDuckGo][1] as my default search engine for several weeks now and I am very happy with it. 
 

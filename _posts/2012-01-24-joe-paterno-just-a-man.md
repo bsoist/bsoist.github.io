@@ -6,8 +6,8 @@ permalink: /2012/01/24/joe-paterno-just-a-man/
 dsq_thread_id:
   - 551140033
 categories:
-  - Faith
-  - Links
+  - faith
+  - links
 ---
 Today, thousands of mourners have descended on State College to pay respects to Joe Paterno, legendary football coach and mentor who died from lung cancer just months after being fired from Penn State during the height of the Sandusky scandal. The public viewing planned for one p.m. today is the first of several public and private services planned for the next three days.
 

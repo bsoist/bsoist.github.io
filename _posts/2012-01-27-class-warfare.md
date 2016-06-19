@@ -6,7 +6,7 @@ permalink: /2012/01/27/class-warfare/
 dsq_thread_id:
   - 554718869
 categories:
-  - Freedom
+  - freedom
 ---
 > [Mitt Romney is] liv(ing) in a world of Swiss bank accounts and Cayman Island accounts and making $20 million for no work. &#8230; <cite>Newt Gingrich</cite>
 

@@ -8,9 +8,8 @@ ASIN:
 dsq_thread_id:
   - 334264873
 categories:
-  - Books
-  - Faith
-  - Reviews
+  - books
+  - faith
 ---
 I had the opportunity recently to see [Of Gods and Men][1]<img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B004LWZVWU&#038;camp=217145&#038;creative=399373" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, a French film about a community of Trappist monks in Algeria who had a decision to make &#8211; a decision to stay and minister in the face of increasing danger or abandon their Muslim neighbors. I vaguely remember the story from the news but I didn&#8217;t think twice about the men until I saw the film.
 

@@ -6,7 +6,7 @@ permalink: /2009/03/22/trying-to-help-fans/
 dsq_thread_id:
   - 49215649
 categories:
-  - Fun
+  - fun
 tags:
   - baseball
   - mets

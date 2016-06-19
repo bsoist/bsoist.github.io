@@ -6,8 +6,8 @@ permalink: /2011/04/01/april-fools/
 dsq_thread_id:
   - 268424129
 categories:
-  - Fun
-  - Links
+  - fun
+  - links
 ---
 I was never a big fan of April Fools pranks. I know that is a result of deep seated resentment from my childhood, but I don&#8217;t want to get into that. The Internet changed all that. Now, like most geeks, I look forward to April 1<sup>st</sup> every year. This year, Google and ThinkGeek outdid themselves. Here is a list of my favorites so far this year.
 

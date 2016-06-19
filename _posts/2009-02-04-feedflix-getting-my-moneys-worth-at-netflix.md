@@ -6,7 +6,7 @@ permalink: /2009/02/04/feedflix-getting-my-moneys-worth-at-netflix/
 dsq_thread_id:
   - 47924364
 categories:
-  - Fun
+  - fun
 tags:
   - movies
   - netflix

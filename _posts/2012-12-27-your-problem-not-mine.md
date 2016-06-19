@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 995475377
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 I read [this post][1] the other day which features a letter sent in by an employee of a photography company that hosts Santa at the shopping mall every year.
 

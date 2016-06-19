@@ -12,6 +12,6 @@ AIMG:
 dsq_thread_id:
   - 48098497
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;m about 20% through this. It&#8217;s not a great book but the details appear to be accurate &#8211; and Bush appears to have been the most dishonest man ever to participate in American politics.

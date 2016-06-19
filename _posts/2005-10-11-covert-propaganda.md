@@ -6,7 +6,7 @@ permalink: /2005/10/11/covert-propaganda/
 dsq_thread_id:
   - 48205331
 categories:
-  - Freedom
+  - freedom
 tags:
   - politics
 ---

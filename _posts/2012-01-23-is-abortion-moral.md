@@ -6,9 +6,9 @@ permalink: /2012/01/23/is-abortion-moral/
 dsq_thread_id:
   - 549830220
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 I know this might be hard reading for some, but I stumbled onto [this article][1] months ago. It&#8217;s well worth reading. The author presents a case for the morality of abortion by asking, and answering, six questions.
 

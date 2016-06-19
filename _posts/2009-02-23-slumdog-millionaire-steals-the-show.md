@@ -6,7 +6,7 @@ permalink: /2009/02/23/slumdog-millionaire-steals-the-show/
 dsq_thread_id:
   - 50148821
 categories:
-  - Fun
+  - fun
 tags:
   - movies
   - oscars

@@ -6,7 +6,7 @@ permalink: /2005/07/31/more-about-links/
 dsq_thread_id:
   - 48136765
 categories:
-  - Fun
+  - fun
 tags:
   - geek
   - links

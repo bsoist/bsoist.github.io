@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 978256975
 categories:
-  - Fun
+  - fun
 ---
 I was sickened over the news of the tragedy on Friday.
 

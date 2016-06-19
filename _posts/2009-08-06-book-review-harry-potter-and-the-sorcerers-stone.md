@@ -12,8 +12,7 @@ ASIN:
 dsq_thread_id:
   - 47839750
 categories:
-  - Books
-  - Reviews
+  - books
 tags:
   - book
   - harrypotter

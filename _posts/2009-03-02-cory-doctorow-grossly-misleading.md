@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/03/02/cory-doctorow-grossly-misleading/
 categories:
-  - Freedom
+  - freedom
 ---
 On Wednesday, Cory Doctorow wrote [an excellent piece][1] in response to an [Op-Ed piece by Roy Blount Jr.][2] to which I&#8217;ve [linked before][3]
 

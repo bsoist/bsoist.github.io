@@ -6,7 +6,7 @@ permalink: /2009/01/21/obamas-first-100-days/
 dsq_thread_id:
   - 50064855
 categories:
-  - Freedom
+  - freedom
 tags:
   - election
   - obama

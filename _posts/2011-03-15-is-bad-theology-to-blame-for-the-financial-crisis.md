@@ -6,8 +6,8 @@ permalink: /2011/03/15/is-bad-theology-to-blame-for-the-financial-crisis/
 dsq_thread_id:
   - 254982549
 categories:
-  - Faith
-  - Family
+  - faith
+  - family
 ---
 I read an [interesting article][1] some time ago about the relationship between the prosperity gospel and the current economic crisis. I don&#8217;t know why I waited until now to share my thoughts, but here they are. 
 

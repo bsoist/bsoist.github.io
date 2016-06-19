@@ -6,10 +6,10 @@ permalink: /2012/01/04/2011-exciting-and-terrifying/
 dsq_thread_id:
   - 526911655
 categories:
-  - Faith
-  - Family
-  - Freedom
-  - Fun
+  - faith
+  - family
+  - freedom
+  - fun
 ---
 I&#8217;d like to write more tomorrow about lessons from the old year and resolutions for the new, but 2011 brought much change worth reflection. 
 

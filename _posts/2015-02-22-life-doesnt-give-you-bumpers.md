@@ -2,7 +2,7 @@
 title: Life doesn't give you bumpers
 layout: post
 categories:
-    Fun
+    fun
 tags:
     movies
     oscars

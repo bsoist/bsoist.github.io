@@ -6,8 +6,8 @@ permalink: /2012/03/01/stop-stealing-dreams/
 dsq_thread_id:
   - 594907342
 categories:
-  - Family
-  - Freedom
+  - family
+  - freedom
 ---
 I read an amazing book yesterday.
 

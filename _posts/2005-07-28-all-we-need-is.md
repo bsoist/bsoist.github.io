@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/07/28/all-we-need-is/
 categories:
-  - Freedom
+  - freedom
 ---
 [The Entrepreneurial Mind: Washington is Paying Attention to Entrepreneurship][1]  
 

@@ -12,7 +12,7 @@ AIMG:
 dsq_thread_id:
   - 48628751
 categories:
-  - Book Reviews
+  - books
 tags:
   - books
   - football

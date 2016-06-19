@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/06/18/the-bible-online/
 categories:
-  - Faith
+  - faith
 tags:
   - bible
 ---

@@ -6,8 +6,8 @@ permalink: /2004/05/05/jupiters-moons/
 dsq_thread_id:
   - 48577717
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 tags:
   - science
 ---

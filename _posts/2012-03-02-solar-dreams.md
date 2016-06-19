@@ -6,7 +6,7 @@ permalink: /2012/03/02/solar-dreams/
 dsq_thread_id:
   - 596141871
 categories:
-  - Family
+  - family
 ---
 I&#8217;ve decided the next project I back is a documentary film entitled ***[Solar Dreams][1]***. From the project page &#8230;
 

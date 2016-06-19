@@ -12,8 +12,8 @@ AIMG:
 dsq_thread_id:
   - 49378024
 categories:
-  - Fun
-  - Movie Reviews
+  - fun
+  - movies
 tags:
   - geek
   - movies

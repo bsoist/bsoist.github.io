@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 632640794
 categories:
-  - Fun
+  - fun
 ---
 As I wrote [last year][1], I was never a fan of April Fools until the Internet jokes started. Now I look forward to it every year. This is the kind of gag I think this day was made for. [That one above][2] was my favorite April Fools gag this year by a long shot.
 

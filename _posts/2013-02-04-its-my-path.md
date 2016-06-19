@@ -8,9 +8,9 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1065082826
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 I see the path before me. I will follow it, choose my travel companions, decide when to retrace my steps, and pick the right times to rest. It’s my path. It’s not yours.
 

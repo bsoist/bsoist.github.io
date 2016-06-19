@@ -14,8 +14,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 698262651
 categories:
-  - Fun
-  - Hair Metal Mondays
+  - fun
 ---
 *Rainbow in the Dark* was the second single released by one of the greatest metal bands of all time &#8211; Dio &#8211; and is considered by many to be one of the greatest metal anthems of all time.
 

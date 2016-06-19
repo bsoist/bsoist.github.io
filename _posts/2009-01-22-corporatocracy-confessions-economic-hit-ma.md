@@ -12,7 +12,7 @@ ATITLE:
 dsq_thread_id:
   - 48112948
 categories:
-  - Book Reviews
+  - books
 tags:
   - books
   - economics

@@ -6,8 +6,8 @@ permalink: /2009/03/31/the-greatest-band-of-our-time/
 dsq_thread_id:
   - 47872087
 categories:
-  - Faith
-  - Fun
+  - faith
+  - fun
 ---
 I&#8217;ve just read a [great post][1] that reminds me once again why I love U2.
 

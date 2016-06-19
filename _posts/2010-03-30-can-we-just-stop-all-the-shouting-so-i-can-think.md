@@ -6,7 +6,7 @@ permalink: /2010/03/30/can-we-just-stop-all-the-shouting-so-i-can-think/
 dsq_thread_id:
   - 80793936
 categories:
-  - Fun
+  - fun
 ---
 Opponents of health care reform are making so much noise that I find I can&#8217;t even think straight. I am not sure I like all the provisions of the bill that was signed into law, but how am I to carefully consider these things with all the shouting?!
 

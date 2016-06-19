@@ -8,8 +8,8 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 It&#8217;s no secret that I love movies.
 

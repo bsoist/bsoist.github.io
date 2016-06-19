@@ -6,8 +6,8 @@ permalink: /2005/04/11/vacation-pics/
 dsq_thread_id:
   - 48214768
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 tags:
   - pics
   - vacation

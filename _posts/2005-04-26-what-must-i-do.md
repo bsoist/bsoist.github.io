@@ -6,8 +6,8 @@ permalink: /2005/04/26/what-must-i-do/
 dsq_thread_id:
   - 48629519
 categories:
-  - Faith
-  - Family
+  - faith
+  - family
 tags:
   - mom
 ---

@@ -6,8 +6,8 @@ permalink: /2009/01/19/martin-luther-king-freedom-fighter-extremist/
 dsq_thread_id:
   - 48885789
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 tags:
   - mlm
 ---

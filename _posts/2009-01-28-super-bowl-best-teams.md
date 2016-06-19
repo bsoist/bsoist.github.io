@@ -6,7 +6,7 @@ permalink: /2009/01/28/super-bowl-best-teams/
 dsq_thread_id:
   - 49703428
 categories:
-  - Fun
+  - fun
 tags:
   - football
 ---

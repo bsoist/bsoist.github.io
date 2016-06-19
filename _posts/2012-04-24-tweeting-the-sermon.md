@@ -10,8 +10,8 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 662585197
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 ---
 Today I stumbled onto [&#8220;Don&#8217;t Tweet that Sermon!&#8221; by Tim Challies][1]. I have to admit that when I first read the title I thought &#8220;yawn, we&#8217;ve discussed this before&#8221; but the discussion in the comments turned out to be very thought provoking.
 

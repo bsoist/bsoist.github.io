@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/02/01/super-bowl-ads/
 categories:
-  - Fun
+  - fun
 tags:
   - football
   - tv

@@ -6,7 +6,7 @@ permalink: /2009/07/26/link-roundup-2/
 dsq_thread_id:
   - 48257017
 categories:
-  - Fun
+  - fun
 ---
 <a href="http://www.kottke.org/09/07/how-to-be-a-regular-at-a-restaurant" tags="food,dining,advice">How to be a regular at a restaurant</a>
 :   Interesting advice for those of us who like great service. 

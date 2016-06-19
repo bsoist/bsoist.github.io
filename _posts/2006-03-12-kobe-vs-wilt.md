@@ -6,7 +6,7 @@ permalink: /2006/03/12/kobe-vs-wilt/
 dsq_thread_id:
   - 49942744
 categories:
-  - Fun
+  - fun
 tags:
   - basketball
   - geek

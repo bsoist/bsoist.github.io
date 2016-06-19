@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 625055547
 categories:
-  - Fun
+  - fun
 ---
 UPDATE: I actually didn&#8217;t back this one, but I&#8217;m counting it because I did the hard part on the 26th &#8211; I logged in, found the project, decided how much to chip in, and blogged about it. I have since actually backed it. <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
 

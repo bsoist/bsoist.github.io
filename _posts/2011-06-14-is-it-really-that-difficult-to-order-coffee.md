@@ -6,8 +6,8 @@ permalink: /2011/06/14/is-it-really-that-difficult-to-order-coffee/
 dsq_thread_id:
   - 331927958
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 It seems that every few weeks someone I know comments on the confusing process of ordering a drink at Starbucks or some other cafe. This never ceases to amuse me. 
 

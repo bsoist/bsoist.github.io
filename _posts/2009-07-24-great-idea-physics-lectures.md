@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/07/24/great-idea-physics-lectures/
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;ve always believed that the world would be a much better place if more people understood physics and geometry.
 

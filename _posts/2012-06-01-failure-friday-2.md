@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 711032810
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;ve been working on these [12&#215;12 challenges (or 12ers) ][1]every month in 2012.
 

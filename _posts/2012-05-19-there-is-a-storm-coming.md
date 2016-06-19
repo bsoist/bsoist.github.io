@@ -14,8 +14,8 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 696149352
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 ## *Take Shelter*
 

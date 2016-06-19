@@ -12,9 +12,8 @@ ATITLE:
 dsq_thread_id:
   - 264355785
 categories:
-  - Fun
-  - Movies
-  - Reviews
+  - fun
+  - movies
 ---
 The other night I was lucky enough to see <a target="_blank" href="http://www.imdb.com/title/tt0945513/">Source Code</a> and sit in on a short Q&A with the film&#8217;s director, <a target="_blank" href="http://www.imdb.com/name/nm1512910/">Duncan Jones</a>. I enjoyed both very much.
 

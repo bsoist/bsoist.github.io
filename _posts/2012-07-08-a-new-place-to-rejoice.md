@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 756549430
 categories:
-  - Faith
+  - faith
 ---
 After almost nine years at the same church, we&#8217;ve moved to another. I plan to blog about the new church in a couple of weeks, so I thought a little backstory might put things in perspective. 
 

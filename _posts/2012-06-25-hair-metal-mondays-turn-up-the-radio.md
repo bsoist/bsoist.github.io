@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 739611859
 categories:
-  - Fun
-  - Hair Metal Mondays
+  - fun
 ---
 This song is as corny as they come and the video is even worse, but it must be included in my collection of hair metal posts. It is one of a handful of songs almost anyone would shortlist among classic hair metal songs.
 

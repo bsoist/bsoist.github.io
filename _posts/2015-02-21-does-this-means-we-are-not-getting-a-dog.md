@@ -2,8 +2,8 @@
 title: Does this mean we're not getting a dog
 layout: post
 categories:
-    Family
-    Fun
+    family
+    fun
 tags:
     movies
     oscars

@@ -6,9 +6,9 @@ permalink: /2012/01/31/one-more-look-at-the-republican-slate/
 dsq_thread_id:
   - 558980067
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 I&#8217;ve spent a lot of time thinking, talking, and writing about the Republican primary recently, so I decided not to post about the election today as I had originally planned. I did, however, have a bunch of links I wanted to share today, and since I wanted to comment on each one &#8230;
 

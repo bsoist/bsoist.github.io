@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 727499428
 categories:
-  - Family
+  - family
 ---
 Terri and I have had the house to ourselves this week. Billy and Becky are both travelling. 
 

@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 728689751
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 ## *Footnote*
 

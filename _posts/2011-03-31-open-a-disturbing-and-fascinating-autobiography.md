@@ -6,9 +6,8 @@ permalink: /2011/03/31/open-a-disturbing-and-fascinating-autobiography/
 dsq_thread_id:
   - 268225081
 categories:
-  - Books
-  - Family
-  - Reviews
+  - books
+  - family
 ---
 I did not really intend to review this book but I can&#8217;t help myself. It is a book everyone could benefit from reading.
 

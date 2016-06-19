@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 746191254
 categories:
-  - Fun
-  - Movies
+  - fun
+  - movies
 ---
 I love movies. I appreciate great films and excellent filmmaking, but I also enjoy watching mainstream movies. I love everything about the movies. 
 

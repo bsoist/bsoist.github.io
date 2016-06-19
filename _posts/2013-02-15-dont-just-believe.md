@@ -8,9 +8,9 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1085281692
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 We are bombarded with bull all the time. Sometimes we believe it. 
 

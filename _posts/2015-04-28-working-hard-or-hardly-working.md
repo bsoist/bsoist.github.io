@@ -2,9 +2,9 @@
 title: Working hard or hardly working?
 layout: post
 categories:
-  - Family
-  - Freedom
-  - Fun
+  - family
+  - freedom
+  - fun
 ---
 Though I [finally learned it was okay to relax][2] some time ago, I still wonder sometimes which it is.
 

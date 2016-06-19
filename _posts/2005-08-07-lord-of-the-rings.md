@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/08/07/lord-of-the-rings/
 categories:
-  - Fun
+  - fun
 tags:
   - movies
 ---

@@ -6,7 +6,7 @@ permalink: /2011/04/26/my-favorite-cover-songs/
 dsq_thread_id:
   - 288964340
 categories:
-  - Fun
+  - fun
 ---
 Every time I hear a great cover song, I think about putting a list together of my favorites. After months of thinking about it, I&#8217;ve finally done it. 
 

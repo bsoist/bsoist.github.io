@@ -6,8 +6,8 @@ permalink: /2009/10/19/is-intelligent-design-science/
 dsq_thread_id:
   - 48109822
 categories:
-  - Faith
-  - Links
+  - faith
+  - links
 ---
 On Saturday I finished reading an interesting post at *Thinking Christian*. It was the latest in a [seven part series][1] covering Intelligent Design and Creationism. I don&#8217;t agree with everything the author states but he does a great job laying out what he believes to be the difference between the two movements and in some respects he is &#8220;thinking out loud&#8221; (he may even state as much in one of his comments). After reviewing the entire series again and a few other articles on the same topic, I am now more certain than ever that Intelligent Design has no place in a science classroom &#8211; even in a Christian school.
 

@@ -8,8 +8,9 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 770576405
 categories:
-  - Creation
   - Faith
+tags:
+  - Creation
   - Science and Religion
 ---
 This post is the eighth in a series. If you've just stumbled onto this series, you may want to start [here][1].

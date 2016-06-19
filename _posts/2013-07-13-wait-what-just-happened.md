@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1498291957
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 ## Man of Steel
 

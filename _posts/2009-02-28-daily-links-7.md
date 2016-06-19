@@ -7,7 +7,7 @@ dsq_thread_id:
   - 49980981
   - 49980981
 categories:
-  - Fun
+  - fun
 tags:
   - links
 ---

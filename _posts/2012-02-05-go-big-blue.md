@@ -6,8 +6,8 @@ permalink: /2012/02/05/go-big-blue/
 dsq_thread_id:
   - 565084303
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 With the big game on the way, I thought I&#8217;d share some great NFL or Super Bowl posts I&#8217;ve read recently.
 

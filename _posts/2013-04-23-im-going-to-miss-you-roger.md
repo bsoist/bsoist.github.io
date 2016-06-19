@@ -6,7 +6,7 @@ permalink: /2013/04/23/im-going-to-miss-you-roger/
 pdrp_attributionLocation:
   - end
 categories:
-  - Movies
+  - movies
 ---
 I didn&#8217;t have a chance to post my thoughts on the passing of Roger Ebert. I know it&#8217;s old news now, but I must make note of his impact on my life.
 

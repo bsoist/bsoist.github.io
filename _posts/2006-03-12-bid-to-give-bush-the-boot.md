@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2006/03/12/bid-to-give-bush-the-boot/
 categories:
-  - Freedom
+  - freedom
 tags:
   - politics
 ---

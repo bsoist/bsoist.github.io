@@ -2,7 +2,7 @@
 title: Facebook suicide prevention tools
 layout: post
 categories:
-    Family
+    family
 tags:
     tech
     facebook

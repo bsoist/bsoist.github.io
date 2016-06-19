@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1098909196
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 I think my dad ate pretzels every day. He used to keep one of those barrels of pretzels by his chair, and he was almost always munching on them. He also liked cashews. He didn&#8217;t eat them as much &#8211; because of the cost, I assume &#8211; but he loved them quite a bit, as do I. He and I had a conversation years ago about eating healthier foods. He told me he tried salt free cashews and pretzels, which taught him that he liked salt &#8211; not cashews or pretzels.
 

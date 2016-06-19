@@ -6,11 +6,11 @@ permalink: /2011/07/17/interesting-sites-7172011/
 dsq_thread_id:
   - 361296531
 categories:
-  - Faith
-  - Family
-  - Freedom
-  - Fun
-  - Links
+  - faith
+  - family
+  - freedom
+  - fun
+  - links
 ---
   * Digital Resistance to Political and Cultural Manipulation and Indoctrination &#8211; [link][1] 
   * Create floor plans, house plans and home plans online with Floorplanner.com &#8211; [link][2] 

@@ -4,8 +4,8 @@ author: bsoist
 layout: post
 permalink: /2009/10/13/monuments-to-peace/
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 tags:
   - monument
   - nobel

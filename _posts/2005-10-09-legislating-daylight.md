@@ -6,7 +6,7 @@ permalink: /2005/10/09/legislating-daylight/
 dsq_thread_id:
   - 50238710
 categories:
-  - Freedom
+  - freedom
 tags:
   - law
   - math

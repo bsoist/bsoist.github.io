@@ -6,7 +6,7 @@ permalink: /2010/03/24/tea-party-patriots/
 dsq_thread_id:
   - 79094857
 categories:
-  - Freedom
+  - freedom
 tags:
   - freedom
   - health

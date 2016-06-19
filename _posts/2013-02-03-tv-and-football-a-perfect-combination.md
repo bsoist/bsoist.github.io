@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1063279217
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Seth Godin on [why we care about football][1] …
 

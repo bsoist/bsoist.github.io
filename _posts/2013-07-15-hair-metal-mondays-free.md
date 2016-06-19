@@ -8,9 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1501658092
 categories:
-  - Family
-  - Fun
-  - Hair Metal Mondays
+  - family
+  - fun
 ---
 It&#8217;s been a long time since my last HMM post. I had one planned for today, and I almost cancelled it because today is my 24th wedding anniversary. But then I thought this was a great memory of my fun-loving bride.
 

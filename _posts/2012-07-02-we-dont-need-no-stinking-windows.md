@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 748089045
 categories:
-  - Fun
+  - fun
 ---
 Just before the end of last month, I accepted a project that would require I use Windows quite a bit. Since I was looking for another [12in12][1] project, I decided I would make it using Windows every day. I&#8217;ve already been spending a lot of time using Windows 8 every Friday, so I thought it would be fun to give it a shot. Until recently, I would go weeks without using Windows for any real length of time. 
 

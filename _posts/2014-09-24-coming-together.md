@@ -2,7 +2,7 @@
 title: A lot of new stuff coming together here
 layout: post
 categoreis:
-    Fun
+    - fun
 ---
 Something occurred to me yesterday and I am very excited about it - and then today I saw <a href="http://scripting.com/2014/09/24/whatShouldALinkblogLookLikeIn2015.html">What will a linkblog look like in 2015?</a> by Dave Winer. I am not the right person to fit the need expressed in that post, but a quote from the post really stuck with me. 
 <blockquote>There's going to be a lot of new stuff coming together here.</blockquote>

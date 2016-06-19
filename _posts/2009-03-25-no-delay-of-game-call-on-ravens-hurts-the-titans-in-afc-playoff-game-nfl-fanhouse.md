@@ -6,7 +6,7 @@ permalink: /2009/03/25/no-delay-of-game-call-on-ravens-hurts-the-titans-in-afc-p
 dsq_thread_id:
   - 49251668
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;ve been thinking a lot lately about the &#8220;rule of law.&#8221;
 

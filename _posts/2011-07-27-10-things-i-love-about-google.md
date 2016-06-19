@@ -6,7 +6,7 @@ permalink: /2011/07/27/10-things-i-love-about-google/
 dsq_thread_id:
   - 370076842
 categories:
-  - Fun
+  - fun
 ---
 ## 10. Huddle {#10_huddle}
 

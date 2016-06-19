@@ -6,8 +6,8 @@ permalink: /2012/01/16/links-for-mlk-day/
 dsq_thread_id:
   - 541570496
 categories:
-  - Family
-  - Freedom
+  - family
+  - freedom
 ---
 In 2009, I decided to post something in honor of Dr. King every year on the official holiday. 
 

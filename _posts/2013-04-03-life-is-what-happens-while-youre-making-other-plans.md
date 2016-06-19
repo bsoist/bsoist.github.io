@@ -6,8 +6,8 @@ permalink: /2013/04/03/life-is-what-happens-while-youre-making-other-plans/
 dsq_thread_id:
   - 1184237140
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 I see a lot of films. If you know me or have read more than a few posts from this blog, you already know that.
 

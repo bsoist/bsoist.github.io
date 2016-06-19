@@ -6,10 +6,9 @@ permalink: /2011/07/25/harry-potter/
 dsq_thread_id:
   - 368210756
 categories:
-  - Family
-  - Fun
-  - Movies
-  - Reviews
+  - family
+  - fun
+  - movies
 ---
 In 1999, at age 32, I decided to read the first Harry Potter book ([reviewed in 2009 after our last Potter marathon][1]). I was mesmerized. It had been some time since a book transported me to another place the way this one did. I couldn&#8217;t wait to read the others and when the films arrived, I was thrilled.
 

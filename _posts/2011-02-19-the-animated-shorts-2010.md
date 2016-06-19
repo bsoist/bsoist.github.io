@@ -6,8 +6,7 @@ permalink: /2011/02/19/the-animated-shorts-2010/
 dsq_thread_id:
   - 234627471
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 Every year we go as a family to see the Oscar nominated animated short films. Last Saturday we saw the animated films. I didn&rsquo;t think this year&rsquo;s crop was as good as previous years but I enjoyed all of them and thought I&#8217;d share a few thoughts.
 

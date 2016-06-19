@@ -6,7 +6,7 @@ permalink: /2009/08/03/a-lottery-for-smart-people/
 dsq_thread_id:
   - 47839709
 categories:
-  - Fun
+  - fun
 ---
 A group of credit unions in Michigan has come up with Freakonomics dubs a &#8220;[lottery for smart people][1].&#8221;
 

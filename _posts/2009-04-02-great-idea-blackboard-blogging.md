@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/04/02/great-idea-blackboard-blogging/
 categories:
-  - Fun
+  - fun
 ---
 Alfred Sirleaf, a 33-year-old &#8220;information evangelist&#8221; in Liberia, does his part to keep other citizens of his city properly informed by posting all the news that&#8217;s fit to print &#8211; on a chalkboard.
 

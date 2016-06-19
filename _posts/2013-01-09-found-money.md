@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1016503081
 categories:
-  - Fun
+  - fun
 ---
 Chris Brogan posted an excellent piece yesterday about the way &#8220;we&#8221; view money.
 

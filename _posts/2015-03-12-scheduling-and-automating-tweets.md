@@ -2,7 +2,7 @@
 title: Scheduling and automating tweets
 layout: post
 categories:
-    Fun
+    fun
 tags:
     social
     twitter

@@ -12,5 +12,5 @@ AIMG:
 dsq_thread_id:
   - 88831113
 categories:
-  - Fun
+  - fun
 ---

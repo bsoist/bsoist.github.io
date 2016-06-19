@@ -6,8 +6,8 @@ permalink: /2004/11/26/thanks-be-to-god/
 dsq_thread_id:
   - 48593570
 categories:
-  - Faith
-  - Family
+  - faith
+  - family
 tags:
   - thanks
 ---

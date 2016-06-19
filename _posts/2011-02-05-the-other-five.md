@@ -6,7 +6,7 @@ permalink: /2011/02/05/the-other-five/
 dsq_thread_id:
   - 223598184
 categories:
-  - Fun
+  - fun
 ---
 Turns out I saw exactly half of the 2010 best picture nominations in 2010. I commented on those [over here][1]. Now I&#8217;ve seen the other half and I have just a few comments about each below.
 

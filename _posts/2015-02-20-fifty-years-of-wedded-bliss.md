@@ -2,7 +2,7 @@
 title: Fifty Years of Wedded Bliss
 layout: post
 categories:
-    Family
+    family
 ---
  <div style="float:right;padding:10px;">
 <img src="https://farm9.staticflickr.com/8617/16406145050_b623005728_b.jpg" width="384" height="512" />

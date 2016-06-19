@@ -2,7 +2,7 @@
 title: Save the Internet
 layout: post
 categories:
-    Freedom
+    freedom
 tags:
     fcc
     internet

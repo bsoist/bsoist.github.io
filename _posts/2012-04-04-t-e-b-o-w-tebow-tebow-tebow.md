@@ -10,9 +10,9 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 636698889
 categories:
-  - Faith
-  - Freedom
-  - Fun
+  - faith
+  - freedom
+  - fun
 ---
 I&#8217;ve been a Jets fan since the mid 70s and a Gators fan since the early 90s. I&#8217;ve also been a huge fan of Tim Tebow since he started with the Gators. I&#8217;ve followed his career and public work for years. Though I&#8217;m a huge fan, I&#8217;ve always thought he would be a worse than average NFL quarterback at best. Though I&#8217;m a fellow Christian, I have disagreed with Tebow on a few matters of faith and practice. 
 

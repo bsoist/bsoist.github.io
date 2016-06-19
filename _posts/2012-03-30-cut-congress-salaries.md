@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 630474161
 categories:
-  - Freedom
+  - freedom
 ---
 Every once in a while I see the same idea making the rounds on Twitter, Facebook, and the blogosphere. The idea is that we should cut salaries for politicians so that the money can be spent on other, presumably more worthwhile, needs &#8211; like military salaries and social security benefits, for example.
 

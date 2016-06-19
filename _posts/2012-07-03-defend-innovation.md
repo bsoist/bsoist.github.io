@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 749672868
 categories:
-  - Fun
+  - fun
 ---
 In 1787, the framers of the U.S. Constitution decided to include protection for what has come to be known as &#8220;intellectual property rights.&#8221; Philosophers have debated the idea of intellectual property for years, but whether you agree with them or not, they are the law of the land. 
 

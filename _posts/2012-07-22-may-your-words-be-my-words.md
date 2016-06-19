@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 775402808
 categories:
-  - Faith
+  - faith
 ---
 Perhaps itâ€™s not intentional, but I think a lot of pastors manipulate congregations with their prayers.
 

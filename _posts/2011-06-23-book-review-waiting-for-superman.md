@@ -8,10 +8,9 @@ ASIN:
 dsq_thread_id:
   - 340413340
 categories:
-  - Books
-  - Family
-  - Freedom
-  - Reviews
+  - books
+  - family
+  - freedom
 ---
 [*Waiting for &#8220;SUPERMAN&#8221;: How We Can Save America&#8217;s Failing Public Schools*][1]<img src="http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=1586489275&camp=217145&creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, the companion book to the film, was an excellent addition to the film. I was pleased to learn more about the filmmakers, the making of the film, the issues raised in the film, and the people I met watching it.
 

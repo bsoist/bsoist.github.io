@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/01/20/the-time-for-change-has-come/
 categories:
-  - Freedom
+  - freedom
 tags:
   - election
   - obama

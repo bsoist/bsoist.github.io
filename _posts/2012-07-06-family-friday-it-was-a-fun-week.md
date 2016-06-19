@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 753746626
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Becky and I finally found some time to play Guitar Hero together on Sunday. We rocked through about a dozen tunes. That was awesome. Becky actually had a pleasant surprise for me on our way to NYC on Tuesday. She told me she finally decided which instrument to learn &#8211; the guitar. I&#8217;m not sure if our Guitar Hero session had much to do with it, but I was very pleased. I plan to teach her a few things to get her started and then we&#8217;ll find her a real teacher. <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
 

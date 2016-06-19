@@ -6,8 +6,8 @@ permalink: /2005/04/13/billys-first-game/
 dsq_thread_id:
   - 49902793
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 tags:
   - baseball
 ---

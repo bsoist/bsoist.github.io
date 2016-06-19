@@ -12,6 +12,6 @@ AIMG:
 dsq_thread_id:
   - 48178366
 categories:
-  - Fun
+  - fun
 ---
 Wow, this movie surprised me. It was much better than I expected. I will definitely take time to review this one.

@@ -4,8 +4,8 @@ author: bsoist
 layout: post
 permalink: /2009/03/23/a-new-crop-of-scientists-are-using-their-children-as-research-subjects-nytimescom/
 categories:
-  - Family
-  - Freedom
+  - family
+  - freedom
 tags:
   - science
 ---

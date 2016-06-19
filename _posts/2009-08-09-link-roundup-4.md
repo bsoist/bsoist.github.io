@@ -6,7 +6,7 @@ permalink: /2009/08/09/link-roundup-4/
 dsq_thread_id:
   - 47845511
 categories:
-  - Fun
+  - fun
 ---
 <a href="http://calacanis.com/2009/08/08/the-case-against-apple-in-five-parts/" tags="apple,itunes,iphone,stevejobs">The Case Against Appleâ€“in Five Parts</a>
 :   Jason raises some excellent questions &#8211; questions many of us have been talking about for years. 

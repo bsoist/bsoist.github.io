@@ -12,8 +12,7 @@ AIMG:
 dsq_thread_id:
   - 48018323
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 <a href="http://www.imdb.com/title/tt0119217/" rel="nofollow"><em>Good Will Hunting</em></a> is a story about men and their ambitions, dreams, and emotions. I first saw the film in late January 1998 and was mesmerized by the story. I don&#8217;t know that I&#8217;ve seen another film that so eloquently touches on these issues. The film tells this wonderful story in a way that is emotionally honest yet still masculine. It&#8217;s like a <a href="http://en.wikipedia.org/wiki/Chick_flick" rel="nofollow">&#8220;chick-flick&#8221;</a> for men. I can&#8217;t describe it any other way. 
 

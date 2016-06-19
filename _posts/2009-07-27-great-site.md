@@ -6,7 +6,7 @@ permalink: /2009/07/27/great-site/
 dsq_thread_id:
   - 48773080
 categories:
-  - Fun
+  - fun
 ---
 If you are in the mood for some goofiness you can check out [customroadsign.com][1]. I can&#8217;t imagine this being of any real use to anyone but I thought it was funny.
 

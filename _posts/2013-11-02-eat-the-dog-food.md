@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1929792276
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;ve definitely decided to power this website with Fargo and some tool to render xhtml/CSS from it.
 

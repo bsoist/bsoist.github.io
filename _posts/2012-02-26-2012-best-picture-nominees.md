@@ -6,9 +6,8 @@ permalink: /2012/02/26/2012-best-picture-nominees/
 dsq_thread_id:
   - 590047281
 categories:
-  - Fun
-  - Movies
-  - Reviews
+  - fun
+  - movies
 ---
 **My Pick:***<u>The Artist</u>*
 

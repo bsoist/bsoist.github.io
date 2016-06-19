@@ -12,8 +12,7 @@ AIMG:
 dsq_thread_id:
   - 47872114
 categories:
-  - Books
-  - Reviews
+  - books
 ---
 Twenty-one years ago today a masterpiece was published.
 

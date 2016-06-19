@@ -6,7 +6,7 @@ permalink: /2012/03/06/gravity-by-moors-and-mccumber/
 dsq_thread_id:
   - 600721458
 categories:
-  - Fun
+  - fun
 ---
 I didn&#8217;t post about it yesterday, but I did fund another project at Kickstarter &#8211; [Gravity &#8211; The new recording from Moors and McCumber][1].
 

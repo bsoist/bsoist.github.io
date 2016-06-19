@@ -8,9 +8,9 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1068825637
 categories:
-  - Family
-  - Freedom
-  - Fun
+  - family
+  - freedom
+  - fun
 ---
 Rohan’s [post a few days ago][1] got me thinking about this.
 

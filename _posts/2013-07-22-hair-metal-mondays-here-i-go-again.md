@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1513388902
 categories:
-  - Fun
-  - Hair Metal Mondays
+  - fun
 ---
 I thought after last week, I should post at least one more of our shared favorites.
 

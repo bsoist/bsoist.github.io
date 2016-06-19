@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1070211844
 categories:
-  - Faith
-  - Family
+  - faith
+  - family
 ---
 <figure class="quote"> 
 

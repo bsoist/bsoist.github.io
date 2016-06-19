@@ -6,7 +6,7 @@ permalink: /2010/09/28/resistance-is-futile/
 dsq_thread_id:
   - 148180940
 categories:
-  - Fun
+  - fun
 ---
 After years of resistance, I&#8217;ve decided it&#8217;s time to relent. I am now using Gmail&#8217;s web interface for most of my email reading. I&#8217;ve used web based interfaces for email before, of course, but I never thought using one all the time made as much sense as using a desktop client. I&#8217;ve slowly changed my mind.
 

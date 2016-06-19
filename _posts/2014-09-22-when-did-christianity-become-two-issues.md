@@ -2,7 +2,7 @@
 title: When did Christianity become all about one or two political issues?
 layout: post
 categories:
-    Faith
+    - faith
 ---
 I'm a long time fan of RSS feeds. I subscribe to hundreds of feeds. I've taken some time away from it several times to experiment with getting my "news" elsewhere, but I always come back to some kind of feed reader. After the latest break, I went back to poring through my feeds. One of the topic folders I have is called faith. When I started reading the feeds in this folder, I became sad. 
 There were eleven feeds represented. Eight of these feeds are from what most people would call "Christian blogs" ( two are atheist and one is decidedly not typical ). 

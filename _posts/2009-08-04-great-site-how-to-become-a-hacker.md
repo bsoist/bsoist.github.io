@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/08/04/great-site-how-to-become-a-hacker/
 categories:
-  - Fun
+  - fun
 ---
 While digging through my notes looking for a great site to post today I ran into this gem &#8211; [How To Become A Hacker][1]
 

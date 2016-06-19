@@ -2,7 +2,7 @@
 title: No more obsessing
 layout: post
 categories:
-    Fun
+    fun
 ---
 I am learning how to not obsess so much about things.
 

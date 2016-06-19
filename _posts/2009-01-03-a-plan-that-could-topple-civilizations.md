@@ -12,8 +12,7 @@ ATITLE:
 dsq_thread_id:
   - 48350159
 categories:
-  - Books
-  - Reviews
+  - books
 tags:
   - books
   - fantasy

@@ -14,10 +14,10 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 681085710
 categories:
-  - Faith
-  - Family
-  - Freedom
-  - Fun
+  - faith
+  - family
+  - freedom
+  - fun
 ---
 My life has been shaped by many great and important things &#8211; my parents, my siblings, my wife, my kids, my high school economics teacher, the Bible and other great books, etc, but more often than not, the most dramatic **positive** changes to my attitude and behavior have come from the silliest of things. Things that might seem insignificant to others. In some cases, even things I detest.
 

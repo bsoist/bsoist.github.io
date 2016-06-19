@@ -2,7 +2,7 @@
 title: What kind of Christian are you?
 layout: post
 categories:
-    Faith
+    faith
 ---
 I read [something][comingout] yesterday and the timing could not have been more perfect - for two reasons.
 

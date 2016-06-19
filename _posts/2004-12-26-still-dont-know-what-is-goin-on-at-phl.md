@@ -6,7 +6,7 @@ permalink: /2004/12/26/still-dont-know-what-is-goin-on-at-phl/
 dsq_thread_id:
   - 49094593
 categories:
-  - Fun
+  - fun
 ---
 PHL + US Airways = [nightmare.][1]
 

@@ -14,7 +14,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 694628551
 categories:
-  - Fun
+  - fun
 ---
 I was having a conversation with a fellow Mets fan the other day ( they are few and far between here in Phillies territory ) and I mentioned how it really is fun to be a Mets fan again. There is, no doubt, still some trepidation about their performance. It seems every time they lose a game, or even play sloppily, I begin to wonder what might happen next. Worse, when they lose two in a row, I start to wonder if this is the beginning of their certain plunge into last place. Aside from that, it is fun to be a Mets fan.
 

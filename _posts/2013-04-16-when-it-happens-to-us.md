@@ -6,9 +6,9 @@ permalink: /2013/04/16/when-it-happens-to-us/
 dsq_thread_id:
   - 
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 I can&#8217;t really think much about anything other than the tragedy in Boston. It&#8217;s a sad, sad day. A marathon is a prime example of people of all walks of life coming together for a celebration of human achievement. That someone could think there is any good reason to plant bombs at an event like that &#8211; or anywhere &#8211; is impossible to fathom.
 

@@ -8,9 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 743769327
 categories:
-  - Books
-  - Faith
-  - Reviews
+  - books
 ---
 <div style="float:right;padding:10px;">
   <a href="http://www.amazon.com/gp/product/1845505867/ref=as_li_ss_il?ie=UTF8&#038;tag=weifyoasme-20&#038;linkCode=as2&#038;camp=1789&#038;creative=390957&#038;creativeASIN=1845505867"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&#038;Format=_SL110_&#038;ASIN=1845505867&#038;MarketPlace=US&#038;ID=AsinImage&#038;WS=1&#038;tag=weifyoasme-20&#038;ServiceVersion=20070822" /></a><img src="http://www.assoc-amazon.com/e/ir?t=weifyoasme-20&#038;l=as2&#038;o=1&#038;a=1845505867" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

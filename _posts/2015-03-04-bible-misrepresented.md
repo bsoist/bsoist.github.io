@@ -2,7 +2,7 @@
 title: The Bible is misrepresented
 layout: post
 categoreis:
-    Faith
+    faith
 tag:
     bible
 ---

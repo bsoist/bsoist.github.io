@@ -8,8 +8,7 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 ## World War Z
 

@@ -14,7 +14,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 671267068
 categories:
-  - Fun
+  - fun
 ---
 This month&#8217;s [12er challenge][1] was to write 750 words a day at [750words.com][2]. I&#8217;d seen the site a while back and never tried using it. I write almost every day and over the course of the day I certainly compose more than 750 words, but I&#8217;ve never tried to adopt the practice of &#8220;morning pages.&#8221; So, I decided to do it as April&#8217;s [12er][1] &#8211; and I enjoyed it very much.
 

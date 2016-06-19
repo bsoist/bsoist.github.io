@@ -6,9 +6,9 @@ permalink: /2012/02/12/interesting-sites-2122012/
 dsq_thread_id:
   - 573180566
 categories:
-  - Faith
-  - Fun
-  - Links
+  - faith
+  - fun
+  - links
 ---
   * â€œInspiredâ€ by Apple &#8211; [link][1] 
   * Cold, Hard Football Facts.com: The Truth Hurts &#8211; [link][2] 

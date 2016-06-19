@@ -6,7 +6,7 @@ permalink: /2009/07/21/great-site-downforeveryoneorjustme/
 dsq_thread_id:
   - 49914502
 categories:
-  - Fun
+  - fun
 ---
 Ever wonder if you are everyone is having trouble with a particular website or if the problem is with you?
 

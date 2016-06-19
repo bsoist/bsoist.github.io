@@ -6,7 +6,7 @@ permalink: /2012/01/25/hate-obama/
 dsq_thread_id:
   - 552395778
 categories:
-  - Freedom
+  - freedom
 ---
 Every time I hear the President speak, I have one simple thought &#8211; why is there so much hate directed toward this man. 
 

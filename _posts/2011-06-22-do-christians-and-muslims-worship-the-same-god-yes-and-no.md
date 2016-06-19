@@ -6,7 +6,7 @@ permalink: /2011/06/22/do-christians-and-muslims-worship-the-same-god-yes-and-no
 dsq_thread_id:
   - 339519251
 categories:
-  - Faith
+  - faith
 ---
 Yesterday <a href="{% post_url 2011-06-21-do-christians-and-muslims-worship-the-same-god %}">I wrote</a> that my answer to this question is &#8220;yes AND no&#8221; &#8211; today I&#8217;d like to try and explain. I can think of two ways to determine who or what someone worships &#8211; what they say and what they do. These lead us to three questions.
 

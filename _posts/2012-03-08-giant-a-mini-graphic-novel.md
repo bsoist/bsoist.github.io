@@ -6,8 +6,8 @@ permalink: /2012/03/08/giant-a-mini-graphic-novel/
 dsq_thread_id:
   - 603735843
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Rough day today. I woke up to a host of issues of my own as well as those of some clients. I was able to get my morning reading done before all of that happened, but I was quickly running out of time to find a project to back today.
 

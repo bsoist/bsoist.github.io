@@ -12,8 +12,7 @@ AIMG:
 dsq_thread_id:
   - 48180475
 categories:
-  - Books
-  - Reviews
+  - books
 ---
 Scripture is filled with admonitions to fight for peace and justice in our world. To care for the elderly, the sick, the captives, and the poor. 
 

@@ -12,7 +12,7 @@ AIMG:
 dsq_thread_id:
   - 48177577
 categories:
-  - Fun
+  - fun
 ---
 The first rule of Fight Club is that you never talk about Fight Club.
 

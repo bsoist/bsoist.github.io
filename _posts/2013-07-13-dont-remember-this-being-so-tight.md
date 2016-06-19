@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1498458926
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 ## Pacific Rim
 

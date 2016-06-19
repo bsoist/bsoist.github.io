@@ -12,8 +12,8 @@ ASIN:
 dsq_thread_id:
   - 47856634
 categories:
-  - Fun
-  - Movie Reviews
+  - fun
+  - movies
 tags:
   - movies
 ---

@@ -8,8 +8,7 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Fun
-  - Hair Metal Mondays
+  - fun
 ---
 When I think of 80s hair metal, I immediately think of Ratt. Everything about Ratt screams the 80s for me. The spandex, the goofy video, the hair!
 

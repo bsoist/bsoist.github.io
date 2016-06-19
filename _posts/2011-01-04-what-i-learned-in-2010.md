@@ -6,8 +6,8 @@ permalink: /2011/01/04/what-i-learned-in-2010/
 dsq_thread_id:
   - 202595481
 categories:
-  - Faith
-  - Family
+  - faith
+  - family
 ---
 I learned a few things during 2010. Here are just four &#8230;
 

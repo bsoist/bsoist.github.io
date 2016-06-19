@@ -6,8 +6,8 @@ permalink: /2009/01/27/nfl-players-players-talk-about-barack-obama/
 dsq_thread_id:
   - 53609030
 categories:
-  - Freedom
-  - Fun
+  - freedom
+  - fun
 tags:
   - election
   - football

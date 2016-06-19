@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1469574201
 categories:
-  - Fun
+  - fun
 ---
 I know of many artists, including writers, actors, etc, who wait tables or wash dishes or do all sorts of other jobs to support themselves so that they can pursue their art. While I admire that kind of dedication to one&#8217;s art, I don&#8217;t understand why some of these artists resist using their art as a craft to support them financially.
 

@@ -6,7 +6,7 @@ permalink: /2008/12/30/twitter-search-ranked-by-retweets/
 dsq_thread_id:
   - 48008011
 categories:
-  - Fun
+  - fun
 tags:
   - geek
   - tech

@@ -14,7 +14,7 @@ pdrp_attributionLocation:
 pdrp_attributionExtended:
   - 1
 categories:
-  - Fun
+  - fun
 ---
 Jeff Atwood, a programmer I respect a great deal, posted a thought provoking piece last week entitled [&#8220;Please Don&#8217;t Learn to Code.&#8221;][1] I&#8217;ve followed Jeff&#8217;s work and writing for many years. I normally agree with almost every word he writes, and I very much enjoy his sense of humor. On this particular point, I found myself agreeing and disagreeing all at the same time. 
 

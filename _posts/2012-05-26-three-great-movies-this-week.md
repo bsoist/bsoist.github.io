@@ -8,10 +8,9 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 704409531
 categories:
-  - Faith
-  - Family
-  - Movies
-  - Reviews
+  - faith
+  - family
+  - movies
 ---
 ## *Rashomon*
 

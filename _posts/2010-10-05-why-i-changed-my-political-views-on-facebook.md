@@ -6,7 +6,7 @@ permalink: /2010/10/05/why-i-changed-my-political-views-on-facebook/
 dsq_thread_id:
   - 151554906
 categories:
-  - Freedom
+  - freedom
 ---
 About six months ago, I decided to change my &#8220;Political Views&#8221; on Facebook from Libertarian to Libertarian Socialist. Watching the social network last week got me thinking about this again &#8211; so I changed it. What follows is my attempt to explain why &#8211; as briefly as I know how.
 

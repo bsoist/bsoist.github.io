@@ -6,7 +6,7 @@ permalink: /2009/03/16/lying-about-books/
 dsq_thread_id:
   - 48596739
 categories:
-  - Fun
+  - fun
 tags:
   - books
 ---

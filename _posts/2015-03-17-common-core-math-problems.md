@@ -2,7 +2,7 @@
 title: Common Core math problems
 layout: post
 categories:
-    Family
+    family
 tags:
     math
     education

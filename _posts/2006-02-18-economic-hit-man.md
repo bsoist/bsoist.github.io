@@ -6,8 +6,8 @@ permalink: /2006/02/18/economic-hit-man/
 dsq_thread_id:
   - 48187342
 categories:
-  - Books
-  - Fun
+  - book
+  - fun
 tags:
   - books
   - politics

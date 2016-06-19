@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 732707545
 categories:
-  - Freedom
+  - freedom
 ---
 I&#8217;m a big fan of what our President has done about immigration. I know a lot of people are upset about it, but it seems like the right thing to do. I wanted to just take a few minutes to address what seem to be the two most frequent objections to the President&#8217;s announcement. 
 

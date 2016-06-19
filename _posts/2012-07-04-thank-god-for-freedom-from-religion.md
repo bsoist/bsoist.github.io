@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 751155073
 categories:
-  - Faith
+  - faith
 ---
 On a day set aside to celebrate our Independence, I wanted to write about something that has been on my mind for quite some time.
 

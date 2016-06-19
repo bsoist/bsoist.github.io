@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1287646474
 categories:
-  - Fun
+  - fun
 ---
 Last week, Brad Feld shared an email he received from a friend. The email was titled [Hit In The Head With An Apple][1].
 

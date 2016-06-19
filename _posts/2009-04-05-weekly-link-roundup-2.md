@@ -4,10 +4,10 @@ author: bsoist
 layout: post
 permalink: /2009/04/05/weekly-link-roundup-2/
 categories:
-  - Faith
-  - Family
-  - Freedom
-  - Fun
+  - faith
+  - family
+  - freedom
+  - fun
   - Links
 ---
 <a href="http://www.macworld.com/article/139839/stanford_itunesu.htmls" tags="iphone,programming,cs">Stanford offers free downloads of its iPhone development class | Software | iPhone Central | Macworld</a>

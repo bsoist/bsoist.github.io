@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/12/10/rss-readers/
 categories:
-  - Fun
+  - fun
 tags:
   - geek
   - rss

@@ -6,9 +6,9 @@ permalink: /2010/01/19/the-earthquake-in-haiti-an-appropriate-response/
 dsq_thread_id:
   - 59819007
 categories:
-  - Faith
+  - faith
 tags:
-  - Freedom
+  - freedom
   - justice
   - poor
   - theology

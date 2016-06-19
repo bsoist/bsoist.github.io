@@ -6,8 +6,7 @@ permalink: /2012/03/11/a-few-not-so-good-films/
 dsq_thread_id:
   - 607346175
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 I&#8217;m not quite sure how this happened, but I&#8217;ve seen quite a few bad or mediocre movies recently. Here is a rundown of two decent movies and three terrible ones.
 

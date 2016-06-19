@@ -6,7 +6,7 @@ permalink: /2005/10/14/not-what-the-lawyers-will-allow-but-what-the-public-deser
 dsq_thread_id:
   - 48187819
 categories:
-  - Freedom
+  - freedom
 tags:
   - politics
 ---

@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1018716510
 categories:
-  - Fun
+  - fun
 ---
 [<img style="margin:auto;" alt="" src="http://farm9.staticflickr.com/8364/8368554540_edb1f821a5_o.png" width="500" height="200" />][1]
 

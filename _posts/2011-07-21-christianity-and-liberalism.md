@@ -8,9 +8,8 @@ ASIN:
 dsq_thread_id:
   - 364293845
 categories:
-  - Books
-  - Faith
-  - Reviews
+  - books
+  - faith
 ---
 Last week I finished [Christianity and Liberalism][1]<img src="http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0802864996&camp=217145&creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> for a [*Reading Classics Together* series][2]. This was my second reading of the book and what fascinated me was how apropos the book is almost 90 years after it was written. Truly there is nothing new under the sun. The struggle for truth is still the same as it always has been.
 

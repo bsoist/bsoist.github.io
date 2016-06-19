@@ -14,9 +14,9 @@ Hide SexyBookmarks:
 Hide OgTags:
   - 0
 categories:
-  - Family
-  - Freedom
-  - Fun
+  - family
+  - freedom
+  - fun
 ---
 On Thursday we travelled to New York for the day to celebrate Terriâ€™s birthday. We wanted to see the 9/11 memorial, spend some time with Billy, visit a film or TV set, and see a show on Broadway.
 

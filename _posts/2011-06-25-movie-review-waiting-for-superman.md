@@ -8,10 +8,9 @@ ASIN:
 dsq_thread_id:
   - 342303976
 categories:
-  - Family
-  - Freedom
-  - Movies
-  - Reviews
+  - family
+  - freedom
+  - movies
 ---
 Waiting for &#8220;Superman&#8221; is very well done documentary film about a very complex problem which faces our nation and threatens to affect all of us &#8211; even those who do not send their own children to public school. There most certainly is something wrong with our system. This film does an excellent job pointing that out but unfortunately it does not present a real solution. 
 

@@ -6,7 +6,7 @@ permalink: /2011/01/13/political-hate-talk/
 dsq_thread_id:
   - 208486596
 categories:
-  - Freedom
+  - freedom
 ---
 There has been considerable debate about the responsibility right-wing politicians and pundits should bear for the shootings in Tucson. Paul Krugman of the New York Times wrote that [he was not surprised by the shootings][1]
 

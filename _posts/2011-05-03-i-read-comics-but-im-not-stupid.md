@@ -6,7 +6,7 @@ permalink: /2011/05/03/i-read-comics-but-im-not-stupid/
 dsq_thread_id:
   - 294259023
 categories:
-  - Fun
+  - fun
 ---
 I read comic books. I also have a high IQ.
 

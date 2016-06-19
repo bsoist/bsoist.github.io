@@ -6,7 +6,7 @@ permalink: /2011/10/22/remembering-steve-jobs/
 dsq_thread_id:
   - 508870985
 categories:
-  - Fun
+  - fun
 ---
 In memory of Steve Jobs I thought I&#8217;d post here some of my favorite finds from the days just after his death. I did not agree with everything Jobs did but he inspired me a great deal. I don&#8217;t have anything else to add to what has already been said but I wanted to have an archive of all of this stuff somewhere I could find it.
 

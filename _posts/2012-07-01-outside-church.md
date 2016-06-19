@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 746874263
 categories:
-  - Faith
-  - Family
+  - faith
+  - family
 ---
 <div id="attachment_5573" class="wp-caption aligncenter" style="width: 510px">
   <a href="http://www.nakedpastor.com/2012/05/24/outside-church/"><img src="http://media.soistmann.com/oped/wp-content/uploads/2012/06/outside-church.jpeg" alt="" title="Oustide Church" width="500" height="500" class="size-full wp-image-5573" /></a>

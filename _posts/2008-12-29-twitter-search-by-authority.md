@@ -6,7 +6,7 @@ permalink: /2008/12/29/twitter-search-by-authority/
 dsq_thread_id:
   - 48299956
 categories:
-  - Fun
+  - fun
 tags:
   - geek
   - tech

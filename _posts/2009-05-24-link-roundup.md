@@ -6,7 +6,7 @@ permalink: /2009/05/24/link-roundup/
 dsq_thread_id:
   - 47872169
 categories:
-  - Fun
+  - fun
 ---
 I&#8217;ve been gone for a bit. I planned a bunch of interesting topics to post while I was in Italy but I never posted them and I haven&#8217;t posted since I returned. 
 

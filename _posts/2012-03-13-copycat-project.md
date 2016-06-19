@@ -6,7 +6,7 @@ permalink: /2012/03/13/copycat-project/
 dsq_thread_id:
   - 610155555
 categories:
-  - Family
+  - family
 ---
 Today&#8217;s project is [Copycat Project][1].
 

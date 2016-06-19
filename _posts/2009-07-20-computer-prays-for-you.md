@@ -4,9 +4,9 @@ author: bsoist
 layout: post
 permalink: /2009/07/20/computer-prays-for-you/
 categories:
-  - Fun
+  - fun
 tags:
-  - Faith
+  - faith
   - prayer
 ---
 [Information Age Prayer][1] is a website that will say your prayers for you when you wake up late or simply forget to pray.

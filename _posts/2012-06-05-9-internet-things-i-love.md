@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 715020835
 categories:
-  - Fun
+  - fun
 ---
 I woke up with no topic for today&#8217;s post. I went searching for ideas, and two jumped out at me &#8211; *My love affair with &#8230;* and *My five favorite websites*.
 

@@ -8,7 +8,7 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Freedom
+  - freedom
 ---
 Over the course of the last month, many have [Facebook users have proposed pay cuts for Congress][1]. Many believe it&#8217;s the right thing to do in our current economic condition. Others think it is only fair when other sectors of the population are being forced into pay cuts.
 

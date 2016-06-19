@@ -2,8 +2,8 @@
 title: Are you ready for the truth?
 layout: post
 categories:
-    Fun
-    Movie Reviews
+    fun
+    movies
 tags:
     movies
 ---

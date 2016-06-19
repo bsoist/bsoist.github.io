@@ -10,8 +10,8 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 643550289
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 ---
 I was thinking about the [Ahlquist v. Cranston][1] case the other day.
 

@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 763529412
 categories:
-  - Family
+  - family
 ---
 I think I work fairly hard most of the time, I tend to get a lot done, and I&#8217;m happy with the results up to this point (especially in the last five years or so), but I&#8217;ve learned something recently. I get this nagging feeling sometimes that I am working too late into the day, that I should be &#8220;knocking off&#8221; work earlier and spending more time with the family. The problem, however, is that when I do quit for the day I have this urge to get back to it, a feeling that I am not working hard enough, etc. I know I should quit for the day, I know my family is more important than my work. So what is really bothering me? The real truth is &#8211; I&#8217;m not working all the time I think I&#8217;m working. 
 

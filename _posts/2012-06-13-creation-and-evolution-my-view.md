@@ -8,8 +8,9 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 724145116
 categories:
+  - faith
+tags:
   - Creation
-  - Faith
   - Science and Religion
 ---
 About a month ago, [I decided][1] to start a regular post on the topic of science and religion, and I thought it made sense to start with a series about creation and evolution. 

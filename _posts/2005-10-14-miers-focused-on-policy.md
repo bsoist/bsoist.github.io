@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/10/14/miers-focused-on-policy/
 categories:
-  - Freedom
+  - freedom
 tags:
   - politics
 ---

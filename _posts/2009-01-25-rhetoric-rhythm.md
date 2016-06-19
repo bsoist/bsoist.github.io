@@ -6,7 +6,7 @@ permalink: /2009/01/25/rhetoric-rhythm/
 dsq_thread_id:
   - 50820963
 categories:
-  - Fun
+  - fun
 tags:
   - movies
   - oscars

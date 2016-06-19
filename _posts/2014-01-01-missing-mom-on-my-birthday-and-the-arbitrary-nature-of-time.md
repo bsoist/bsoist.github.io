@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1584897301
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Today is my birthday. Having a birthday on New Year&#8217;s Day has it&#8217;s benefits and disadvantages. 
 

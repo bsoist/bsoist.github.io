@@ -4,8 +4,8 @@ author: bsoist
 layout: post
 permalink: /2009/10/16/turn-hope-into-action/
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 ---
 In keeping with this weeks topic, I found this interesting idea -Â [Obama for Peace: Turn Hope into Action][1].
 

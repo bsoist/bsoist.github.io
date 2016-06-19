@@ -6,8 +6,8 @@ permalink: /2012/03/11/sow-pop-up-juice/
 dsq_thread_id:
   - 607226384
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Today&#8217;s project is [SÅW Pop-Up Juice][1].
 

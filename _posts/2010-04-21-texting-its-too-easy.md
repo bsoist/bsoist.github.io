@@ -6,7 +6,7 @@ permalink: /2010/04/21/texting-its-too-easy/
 dsq_thread_id:
   - 88297761
 categories:
-  - Fun
+  - fun
 ---
 [Yesterday][1] I wrote about [new research][2] which reveals some very interesting facts about text messaging among teens in the U.S. 
 

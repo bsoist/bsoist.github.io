@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1059156649
 categories:
-  - Fun
+  - fun
 ---
 I’ve been reading [Drive by Daniel Pink][1] recently, and the author describes something called [flow][2], the mental state when the challenge before us is so exquisitely matched to our abilities that we lose our sense of time and forget ourselves in a function. Some call this being “in the zone” and if you’ve ever been there, you know what it is.
 

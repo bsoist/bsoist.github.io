@@ -12,9 +12,8 @@ AIMG:
 dsq_thread_id:
   - 48439244
 categories:
-  - Faith
-  - Movies
-  - Reviews
+  - faith
+  - movies
 ---
 I was trying to think of a movies I&#8217;ve seen that are related to the topic of peace. I thought of some of the obvious examples, like Ghandi, but the one I remember having a big impact on my thinking was Witness. It was released almost 25 years ago so those of you that haven&#8217;t seen it may not be planning on it, but I&#8217;m not going to spoil the ending for you because you should definitely watch it.
 

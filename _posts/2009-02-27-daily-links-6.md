@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/02/27/daily-links-6/
 categories:
-  - Fun
+  - fun
 tags:
   - links
 ---

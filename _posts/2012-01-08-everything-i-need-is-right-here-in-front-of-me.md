@@ -6,8 +6,7 @@ permalink: /2012/01/08/everything-i-need-is-right-here-in-front-of-me/
 dsq_thread_id:
   - 531755154
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 ## *  
 The Muppets  

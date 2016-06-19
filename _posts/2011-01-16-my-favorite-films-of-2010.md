@@ -6,9 +6,9 @@ permalink: /2011/01/16/my-favorite-films-of-2010/
 dsq_thread_id:
   - 210348698
 categories:
-  - Family
-  - Fun
-  - Movies
+  - family
+  - fun
+  - movies
 ---
 UPDATE: I&#8217;ve now seen all ten best picture nominations. Read my thoughts on [the other five][1] and don&#8217;t forget to predict the Oscar winners for a chance to win a $100 gift card. [Make your picks now.][2] 
 

@@ -6,8 +6,8 @@ permalink: /2009/07/14/great-site-flickchartcom/
 dsq_thread_id:
   - 49079513
 categories:
-  - Fun
-  - Movies
+  - fun
+  - movies
 tags:
   - film
   - flickchart

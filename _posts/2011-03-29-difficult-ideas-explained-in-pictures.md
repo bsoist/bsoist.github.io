@@ -6,10 +6,10 @@ permalink: /2011/03/29/difficult-ideas-explained-in-pictures/
 dsq_thread_id:
   - 265855921
 categories:
-  - Faith
-  - Freedom
-  - Fun
-  - Links
+  - faith
+  - freedom
+  - fun
+  - links
 ---
 I have a habit of browsing the Internet every day for fun and interesting content. While doing so the other day I ran into two pages that very simply explained complex ideas. So I set off on a journey to find more of these.
 

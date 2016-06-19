@@ -6,12 +6,11 @@ permalink: /2011/01/06/best-and-worst-books-i-read-in-2010/
 dsq_thread_id:
   - 203970670
 categories:
-  - Books
-  - Faith
-  - Family
-  - Freedom
-  - Fun
-  - Reviews
+  - books
+  - faith
+  - family
+  - freedom
+  - fun
 ---
 Since I&#8217;ve neglected my blog for so long, I have a list of books queued up that I&#8217;d like to review. I will certainly review some of these in the weeks.
 

@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 620805067
 categories:
-  - Fun
+  - fun
 ---
 Today&#8217;s project is [Duende: Suit of Lights][1], a feature film about a man, presumably a matador, who flees into the desert to elude his demons and ends up joining a troupe of rodeo clowns.
 

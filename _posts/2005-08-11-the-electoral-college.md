@@ -6,7 +6,7 @@ permalink: /2005/08/11/the-electoral-college/
 dsq_thread_id:
   - 52199877
 categories:
-  - Freedom
+  - freedom
 tags:
   - election
   - politics

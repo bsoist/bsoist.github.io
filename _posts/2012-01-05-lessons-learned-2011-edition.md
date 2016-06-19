@@ -6,10 +6,10 @@ permalink: /2012/01/05/lessons-learned-2011-edition/
 dsq_thread_id:
   - 527742811
 categories:
-  - Faith
-  - Family
-  - Freedom
-  - Fun
+  - faith
+  - family
+  - freedom
+  - fun
 ---
 At this time [last year][1], I wrote about four lessons I learned in 2010. This year I thought I&#8217;d look back at those lessons and consider what I might have learned in 2011. 
 

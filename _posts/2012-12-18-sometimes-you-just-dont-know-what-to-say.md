@@ -8,7 +8,7 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Fun
+  - fun
 ---
 WARNING: I&#8217;ve included a link to an article that uses very strong language. If that is going to bother you, you can still read this post &#8211; since I don&#8217;t talk like that &#8211; but don&#8217;t click the link.
 

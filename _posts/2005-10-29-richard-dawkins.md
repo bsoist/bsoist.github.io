@@ -6,7 +6,7 @@ permalink: /2005/10/29/richard-dawkins/
 dsq_thread_id:
   - 49503011
 categories:
-  - Faith
+  - faith
 tags:
   - creation
   - evolution

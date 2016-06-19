@@ -6,7 +6,7 @@ permalink: /2004/11/27/code-monkey/
 dsq_thread_id:
   - 53585827
 categories:
-  - Fun
+  - fun
 tags:
   - code
   - geek

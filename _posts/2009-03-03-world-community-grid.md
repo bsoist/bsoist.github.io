@@ -4,9 +4,9 @@ author: bsoist
 layout: post
 permalink: /2009/03/03/world-community-grid/
 categories:
-  - Faith
-  - Freedom
-  - Fun
+  - faith
+  - freedom
+  - fun
 tags:
   - energy
   - environment

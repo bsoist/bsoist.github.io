@@ -6,8 +6,8 @@ permalink: /2005/04/14/the-meaning-of-life/
 dsq_thread_id:
   - 49897237
 categories:
-  - Faith
-  - Family
+  - faith
+  - family
 tags:
   - life
   - baseball

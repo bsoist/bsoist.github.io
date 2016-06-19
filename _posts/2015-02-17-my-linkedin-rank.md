@@ -2,7 +2,7 @@
 title: My LinkedIn Ranking
 layout: post
 categories:
-    Fun
+    fun
 tags:
     networking
     ego

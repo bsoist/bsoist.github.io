@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2006/04/13/mike-davidson-i-steal-television-shows-because-i-have-to/
 categories:
-  - Freedom
+  - freedom
 tags:
   - dtv
   - tivo

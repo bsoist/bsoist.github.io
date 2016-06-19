@@ -12,8 +12,7 @@ AIMG:
 dsq_thread_id:
   - 262014732
 categories:
-  - Books
-  - Reviews
+  - books
 ---
 In my experience, too many people find too little joy in life. I know life is hard, I&#8217;ve <a target="_blank" href="http://whsjr.soistmann.com/oped/2011/01/04/what-i-learned-in-2010/">mentioned that before</a>, but life is also an exhilarating journey filled with family, friends, and fun. In The Last Lecture, I felt like I met a man, <a target="_blank" href="http://www.cs.cmu.edu/~pausch/">Randy Pausch</a>, who understood how to live. 
 

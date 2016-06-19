@@ -6,8 +6,8 @@ permalink: /2011/05/01/interesting-sites-532011/
 dsq_thread_id:
   - 293755062
 categories:
-  - Fun
-  - Links
+  - fun
+  - links
 ---
   * habitforge &#8211; Getting you to the finish line. &#8211; [link][1] 
   * Prezi &#8211; The zooming presentation editor &#8211; [link][2] 

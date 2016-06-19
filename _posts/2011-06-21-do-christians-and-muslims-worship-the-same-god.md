@@ -6,11 +6,11 @@ permalink: /2011/06/21/do-christians-and-muslims-worship-the-same-god/
 dsq_thread_id:
   - 338643317
 categories:
-  - Books
-  - Faith
-  - Family
-  - Freedom
-  - Movies
+  - books
+  - faith
+  - family
+  - freedom
+  - movies
 ---
 I didn&#8217;t pay much attention to this question until recently. Because I knew the answer
 

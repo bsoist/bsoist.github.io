@@ -6,7 +6,7 @@ permalink: /2012/03/06/instaprint/
 dsq_thread_id:
   - 600721417
 categories:
-  - Fun
+  - fun
 ---
 Today&#8217;s Kickstarter project is [Instaprint &#8211; The location based photo booth for Instagram][1]. 
 

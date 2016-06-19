@@ -2,9 +2,9 @@
 title: The Importance of Written Communication
 layout: post
 categories:
-    Freedom
-    Faith
-    Family
+    freedom
+    faith
+    family
 tags:
     communication
     heroes

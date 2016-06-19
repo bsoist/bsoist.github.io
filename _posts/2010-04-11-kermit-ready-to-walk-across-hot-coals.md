@@ -6,7 +6,7 @@ permalink: /2010/04/11/kermit-ready-to-walk-across-hot-coals/
 dsq_thread_id:
   - 85156594
 categories:
-  - Fun
+  - fun
 ---
 <div class='posterous_autopost'>
   <div class="posterous_bookmarklet_entry">

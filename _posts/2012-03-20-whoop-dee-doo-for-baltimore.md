@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 618387736
 categories:
-  - Fun
+  - fun
 ---
 Today&#8217;s project is [Whoop Dee Doo for Baltimore][1]
 

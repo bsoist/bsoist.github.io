@@ -6,8 +6,8 @@ permalink: /2011/03/28/cool-online-clocks/
 dsq_thread_id:
   - 265175208
 categories:
-  - Fun
-  - Links
+  - fun
+  - links
 ---
 A while back I saved a few links to cool JavaScript clocks. I just ran into them again today and I thought I&#8217;d share.
 

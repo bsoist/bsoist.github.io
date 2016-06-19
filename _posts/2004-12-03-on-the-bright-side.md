@@ -6,7 +6,7 @@ permalink: /2004/12/03/on-the-bright-side/
 dsq_thread_id:
   - 50931553
 categories:
-  - Faith
+  - faith
 tags:
   - politics
 ---

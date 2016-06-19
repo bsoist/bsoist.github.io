@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/11/13/powerpoint/
 categories:
-  - Fun
+  - fun
 tags:
   - powerpoint
   - tech

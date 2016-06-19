@@ -6,7 +6,7 @@ permalink: /2005/10/30/school-libraries/
 dsq_thread_id:
   - 53590612
 categories:
-  - Freedom
+  - freedom
 tags:
   - education
 ---

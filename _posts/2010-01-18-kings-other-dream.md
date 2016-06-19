@@ -6,7 +6,7 @@ permalink: /2010/01/18/kings-other-dream/
 dsq_thread_id:
   - 59527442
 categories:
-  - Fun
+  - fun
 ---
 In a thought provoking piece entitled [Martin Luther King&#8217;s other dream: Economic justice for all][1], John Gehring of the Catholics in Alliance for the Common Good writes:
 

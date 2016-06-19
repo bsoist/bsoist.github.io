@@ -6,9 +6,8 @@ permalink: /2011/02/08/the-oscars-game-2011/
 dsq_thread_id:
   - 225330571
 categories:
-  - Fun
-  - Movies
-  - Reviews
+  - fun
+  - movies
 ---
 Last year I launched a website I thought would be a lot of fun &#8211; [theoscarsgame.com][1].
 

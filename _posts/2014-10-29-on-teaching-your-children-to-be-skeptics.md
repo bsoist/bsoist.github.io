@@ -2,8 +2,8 @@
 title: On teaching your children to be skeptics
 layout: post
 categories:
-    Family
-    Faith
+    - family
+    - faith
 ---
 Yesterday a tweet caught my attention.
 

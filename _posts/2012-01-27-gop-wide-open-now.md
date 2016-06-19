@@ -6,7 +6,7 @@ permalink: /2012/01/27/gop-wide-open-now/
 dsq_thread_id:
   - 554761547
 categories:
-  - Freedom
+  - freedom
 ---
 Last night&#8217;s Republican debate may have made this a much more interesting primary year.
 

@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1077301929
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 ---
 The other day I saw an interesting post on The Friendly Atheist about [A.M][1], a student who was asked to remove a Bible quote from her middle school graduation speech. The post itself and the discussion that followed in the comments got me thinking about the rights of the speaker and the rights of those “coerced” into listening to her speak.
 

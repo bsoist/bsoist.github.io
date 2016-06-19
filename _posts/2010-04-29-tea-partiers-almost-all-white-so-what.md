@@ -6,7 +6,7 @@ permalink: /2010/04/29/tea-partiers-almost-all-white-so-what/
 dsq_thread_id:
   - 90870523
 categories:
-  - Freedom
+  - freedom
 tags:
   - abortion
   - black

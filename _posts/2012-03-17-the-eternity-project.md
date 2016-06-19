@@ -10,7 +10,7 @@ dsq_thread_id:
 pdrp_attributionExtended:
   - 1
 categories:
-  - Fun
+  - fun
 ---
 Today&#8217;s project is [The Eternity Project][1].
 

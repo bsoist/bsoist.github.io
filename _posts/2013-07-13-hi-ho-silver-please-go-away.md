@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1498248858
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 ## The Lone Ranger
 

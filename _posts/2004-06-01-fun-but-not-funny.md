@@ -6,8 +6,8 @@ permalink: /2004/06/01/fun-but-not-funny/
 dsq_thread_id:
   - 52131015
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
   - Movie Reviews
 tags:
   - movies

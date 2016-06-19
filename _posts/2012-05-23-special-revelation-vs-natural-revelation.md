@@ -8,8 +8,9 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 700750061
 categories:
+  - faith
+tags:
   - Creation
-  - Faith
   - Science and Religion
 ---
 God reveals himself in two ways &#8211; special revelation and natural revelation. Most Christians agree that Scripture is a reliable means of learning about God and His will. What we must remember, is that Scripture supports the notion that natural revelation is also reliable. I believe both are infallible, and I am [willing to concede Scripture is inerrant for the purposes of this discussion][1].

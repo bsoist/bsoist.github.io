@@ -2,7 +2,7 @@
 title: Trouble Maker
 layout: post
 categories:
-    Fun
+    fun
 ---
 Anyone who knows me probably understands why I list "trouble maker" in my online bio almost everywhere I am online. I'm writing this for those that have asked.
 

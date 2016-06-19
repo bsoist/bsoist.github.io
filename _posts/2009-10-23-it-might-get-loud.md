@@ -10,7 +10,7 @@ ASIN:
 ATITLE:
   - It Might Get Loud
 categories:
-  - Fun
+  - fun
 ---
 No time to review this one yet, but it was fantastic. 
 

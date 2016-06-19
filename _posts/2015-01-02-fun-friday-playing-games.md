@@ -2,8 +2,8 @@
 title: Fun Friday - Playing Games
 layout: post
 categories:
-    Family
-    Fun
+    - family
+    - fun
 ---
 We like to play games at our house.
 I don't remember exactly when this started, but at some point we started buying one board game for Billy and one for Becky for Christmas every year, and we enjoyed playing the games together on Christmas day. Like most toys you get your kids for Christmas, they would go unused for most of the next year, but every once in a while we hit on one we all really liked. 

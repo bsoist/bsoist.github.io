@@ -2,7 +2,7 @@
 title: Keeping Secrets
 layout: post
 categories:
-    Fun
+    fun
 ---
 When I was in second grade, my friends and I used to use a secret cypher for passing messages to one another. The way I remember it, it was very simple, but only **we** knew how it worked.
 

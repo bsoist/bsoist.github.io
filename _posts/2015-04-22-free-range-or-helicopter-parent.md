@@ -2,8 +2,8 @@
 title: Free Range or Helicopter Parent
 layout: post
 categories:
-    Family
-    Freedom
+    family
+    freedom
 ---
 Over the last few weeks, I've read a lot of opinions about "free range" vs. "helicopter" parenting. The issue is not a new one, but people are talking about a [recent story][story] about two young children who were picked up by the police because they were walking home "unsupervised" from a park about a mile from their home.
 

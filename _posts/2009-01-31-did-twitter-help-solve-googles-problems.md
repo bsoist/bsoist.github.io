@@ -6,7 +6,7 @@ permalink: /2009/01/31/did-twitter-help-solve-googles-problems/
 dsq_thread_id:
   - 52170996
 categories:
-  - Fun
+  - fun
 tags:
   - geek
   - google

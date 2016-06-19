@@ -6,7 +6,7 @@ permalink: /2010/01/20/what-google-can-teach-us-about-us/
 dsq_thread_id:
   - 60058364
 categories:
-  - Faith
+  - faith
 tags:
   - faith
   - halloween

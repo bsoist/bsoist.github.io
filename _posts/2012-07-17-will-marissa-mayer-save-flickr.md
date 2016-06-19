@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 769188162
 categories:
-  - Featured
-  - Fun
+  - fun
 ---
 A couple of months ago, I started thinking about ditching Flickr in favor of some other service. I quickly learned that others had searched in vain for a replacement. Like the author of [this post][1], I decided that alternatives were not much better. Certainly not &#8220;better enough&#8221; for me to switch. 
 

@@ -2,7 +2,7 @@
 title: Nobody can tell me what to do
 layout: post
 categories:
-    Freedom
+    - freedom
 ---
 Almost every conversation I have with a conservative about a political issue comes down to "you can't make me!"
 

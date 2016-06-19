@@ -12,8 +12,7 @@ AIMG:
 dsq_thread_id:
   - 50811602
 categories:
-  - Movies
-  - Reviews
+  - movies
 tags:
   - movies
   - music

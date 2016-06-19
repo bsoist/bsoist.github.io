@@ -6,7 +6,7 @@ permalink: /2005/06/03/happy-birthday-dad/
 dsq_thread_id:
   - 50485781
 categories:
-  - Family
+  - family
 tags:
   - dad
 ---

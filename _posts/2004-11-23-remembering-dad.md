@@ -6,8 +6,8 @@ permalink: /2004/11/23/remembering-dad/
 dsq_thread_id:
   - 53589875
 categories:
-  - Faith
-  - Family
+  - faith
+  - family
 tags:
   - dad
 ---

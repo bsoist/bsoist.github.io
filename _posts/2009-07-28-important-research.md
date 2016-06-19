@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/07/28/important-research/
 categories:
-  - Fun
+  - fun
 ---
 In the last week I&#8217;ve heard of two studies and I&#8217;m confused. Not because I don&#8217;t understand but because I&#8217;m certain we did not need a study to discover these things.
 

@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/10/21/vikings-and-boats/
 categories:
-  - Faith
+  - faith
 tags:
   - football
 ---

@@ -6,7 +6,7 @@ permalink: /2009/02/01/is-pittsburghs-super-bowl-delay-a-bad-sign/
 dsq_thread_id:
   - 53608434
 categories:
-  - Fun
+  - fun
 tags:
   - football
 ---

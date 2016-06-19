@@ -8,7 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1025543091
 categories:
-  - Freedom
+  - freedom
 ---
 I am absolutely sick over the news of the suicide of Aaron Swartz.
 

@@ -6,8 +6,7 @@ permalink: /2012/01/28/january-movie-month/
 dsq_thread_id:
   - 555812991
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 While Billy was home for Christmas break we watched a lot of movies. We watched a few I had already seen ([over here][1]), but we also saw quite a few that I had not seen yet. As always, I&#8217;ve listed them pretty much in the order I enjoyed them.
 

@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2009/02/22/oscar-picks/
 categories:
-  - Fun
+  - fun
 tags:
   - oscars
   - movies

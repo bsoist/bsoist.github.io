@@ -6,7 +6,7 @@ permalink: /2009/04/07/great-site-whats-special-about-this-number/
 dsq_thread_id:
   - 47872149
 categories:
-  - Fun
+  - fun
 ---
 Last week, I stumbled on [this fun site][1]. It&#8217;s a running list of numbers with an indication about what is special about that number.
 

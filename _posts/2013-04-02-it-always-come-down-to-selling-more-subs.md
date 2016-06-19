@@ -6,7 +6,7 @@ permalink: /2013/04/02/it-always-come-down-to-selling-more-subs/
 dsq_thread_id:
   - 1181983579
 categories:
-  - Family
+  - family
 ---
 I had a revelation about myself yesterday. I&#8217;ve seen it coming for months, but yesterday it hit me like a ton of bricks.
 

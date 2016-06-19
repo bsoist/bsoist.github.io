@@ -6,7 +6,7 @@ permalink: /2005/08/11/billy-johns-hopkins/
 dsq_thread_id:
   - 48433838
 categories:
-  - Family
+  - family
 ---
 My son tied for 2nd place on the verbal section of the test given by Johns Hopkins Center for Talented Youth.News in [pdf][1] or check [Google&#8217;s HTML version.][2] Good work Billy!
 

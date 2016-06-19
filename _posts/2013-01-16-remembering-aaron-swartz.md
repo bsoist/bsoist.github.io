@@ -8,7 +8,7 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Freedom
+  - freedom
 ---
 As I’ve [written already][1], I’m very upset about the death of Aaron Swartz. I have been able to think of almost nothing else since I heard the news. I did not know Aaron, but I’ve followed his work since the very beginning and I know and respect many others who have worked with him, and I’ve supported many of the same causes he represented.
 

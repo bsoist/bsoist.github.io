@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 655254734
 categories:
-  - Fun
+  - fun
 ---
 The NFL schedule was published yesterday so I guess Iâ€™m obligated to publish my thoughts on the Jets schedule, but actually I have more to say about the complete schedule. I used what I believe is the official schedule released by the NFL ( you can [download it here][1]). You can also view the schedule at [nfl.com][2] where they also have a nice [printable version][3].
 

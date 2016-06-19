@@ -6,9 +6,8 @@ permalink: /2012/01/28/sharing-a-few-classics-with-billy/
 dsq_thread_id:
   - 555782312
 categories:
-  - Family
-  - Movies
-  - Reviews
+  - family
+  - movies
 ---
 While Billy was home for Christmas break, we watched a lot of movies (more [here][1]). We got a chance to watch a few I&#8217;ve already seen &#8211; some were on his list to watch, some were movies I&#8217;ve wanted to share with him for a while.
 

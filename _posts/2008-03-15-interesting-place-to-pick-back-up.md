@@ -6,7 +6,7 @@ permalink: /2008/03/15/interesting-place-to-pick-back-up/
 dsq_thread_id:
   - 49658307
 categories:
-  - Fun
+  - fun
 tags:
   - baseball
   - mets

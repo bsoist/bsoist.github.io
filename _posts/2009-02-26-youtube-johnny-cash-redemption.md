@@ -6,8 +6,8 @@ permalink: /2009/02/26/youtube-johnny-cash-redemption/
 dsq_thread_id:
   - 48247556
 categories:
-  - Faith
-  - Fun
+  - faith
+  - fun
 tags:
   - music
 ---

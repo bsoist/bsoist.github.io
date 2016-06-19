@@ -10,8 +10,8 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 621826842
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Got an email form Kickstarter yesterday telling me that someone was &#8220;following&#8221; me. Turns out it&#8217;s a new feature.
 

@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1498309848
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 ## Despicable Me 2
 

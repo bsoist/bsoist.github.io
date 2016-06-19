@@ -6,10 +6,10 @@ permalink: /2010/01/11/jesus-junk-i-dont-care-if-its-illegal/
 dsq_thread_id:
   - 57634337
 categories:
-  - Faith
+  - faith
 tags:
   - creativity
-  - Faith
+  - faith
   - parody
 ---
 An [article I read in the USA Today last month][1] reminded me of a topic I&#8217;ve wanted to write about for some time &#8211; the thriving business of spoofing corporate logos in the name of Christ. According to the article,

@@ -6,7 +6,7 @@ permalink: /2011/07/27/10-things-i-hate-about-google/
 dsq_thread_id:
   - 370076846
 categories:
-  - Fun
+  - fun
 ---
 I [love Google+][1] but there are a few things I am not enjoying. The order of this list may not accurately reflect my hatred or annoyance level. I know some of these things will change so I&#8217;ve factored that into the order.
 

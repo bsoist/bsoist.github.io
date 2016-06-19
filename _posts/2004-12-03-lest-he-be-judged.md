@@ -6,8 +6,8 @@ permalink: /2004/12/03/lest-he-be-judged/
 dsq_thread_id:
   - 48595847
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 tags:
   - politics
 ---

@@ -4,8 +4,8 @@ author: bsoist
 layout: post
 permalink: /2005/10/17/tompainecom-caring-for-creation/
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 tags:
   - creation
   - environment

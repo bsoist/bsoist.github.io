@@ -6,7 +6,7 @@ permalink: /2005/10/23/mild-about-harriet-newsweek-national-news-msnbccom/
 dsq_thread_id:
   - 49943511
 categories:
-  - Freedom
+  - freedom
 ---
 This is actually the one quality I really like about Bush &#8211; his &#8220;stubborn confidence in his own judgement.&#8221;  
 

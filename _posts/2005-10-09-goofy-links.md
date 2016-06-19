@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/10/09/goofy-links/
 categories:
-  - Fun
+  - fun
 tags:
   - links
 ---

@@ -6,8 +6,8 @@ permalink: /2009/03/04/who-watches-the-watchmen/
 dsq_thread_id:
   - 48465261
 categories:
-  - Fun
-  - Freedom
+  - fun
+  - freedom
 ---
 I am looking forward to the movie on Friday and I thought this was appropriate topic for today.
 

@@ -10,9 +10,9 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 653097961
 categories:
-  - Faith
-  - Family
-  - Freedom
+  - faith
+  - family
+  - freedom
 ---
 I read a post recently entitled [&#8220;That&#8217;s not Fair&#8221; by Barnabas Piper][1]
 

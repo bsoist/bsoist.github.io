@@ -2,7 +2,7 @@
 title: Updating ShortenLinks
 layout: post
 categories:
-    Fun
+    - fun
 ---
 I've updated [ShortenLinks](https://github.com/bsoist/ShortenLinks) a bit since [my last post][lastpost] on the subject so I thought I'd document it again. If you're more interesting in why I set things up this way, [that post][lastpost] and other past posts on the subject might be more helpful.
 

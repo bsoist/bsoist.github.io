@@ -8,8 +8,7 @@ dsq_thread_id:
 pdrp_attributionLocation:
   - end
 categories:
-  - Books
-  - Reviews
+  - books
 ---
 <div style="float:right;padding:10px;">
   <a href="http://www.amazon.com/gp/product/1118249755/ref=as_li_ss_il?ie=UTF8&tag=weifyoasme-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1118249755"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=1118249755&MarketPlace=US&ID=AsinImage&WS=1&tag=weifyoasme-20&ServiceVersion=20070822" /></a><img src="http://www.assoc-amazon.com/e/ir?t=weifyoasme-20&l=as2&o=1&a=1118249755" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

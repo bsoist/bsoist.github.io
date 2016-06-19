@@ -8,8 +8,7 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1498296100
 categories:
-  - Movies
-  - Reviews
+  - movies
 ---
 ## This is the End
 

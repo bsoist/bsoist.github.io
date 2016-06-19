@@ -2,8 +2,8 @@
 title: I have loved you
 layout: post
 categories:
-    Fun
-    Family
+    fun
+    family
 tags:
     science
 ---

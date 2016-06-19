@@ -6,7 +6,7 @@ permalink: /2011/02/23/gasoline-prices/
 dsq_thread_id:
   - 238589566
 categories:
-  - Freedom
+  - freedom
 ---
 Anytime someone complains about the rising cost of gasoline, two things come to mind.
 

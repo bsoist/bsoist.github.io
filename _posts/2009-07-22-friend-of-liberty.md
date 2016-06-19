@@ -6,8 +6,8 @@ redirect-from: /2009/07/22/friend-of-liberty/
 dsq_thread_id:
   - 47931698
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 ---
 About a month ago we received a letter from <a href="http://en.wikipedia.org/wiki/Jerry_Falwell,_Jr." rel="nofollow">Jerry Falwell, Jr.</a>, the chancellor at <a href="http://www.liberty.edu/" rel="nofollow">Liberty University</a>, an evangelical Christian university founded in 1971 by the late <a href="http://en.wikipedia.org/wiki/Jerry_Falwell" rel="nofollow">Dr. Jerry Falwell, Sr</a>. The letter represents, in so many ways, the frustrations I have with LU in particular and the <a href="http://en.wikipedia.org/wiki/Religious_right" rel="nofollow">religious right</a> in general. I will write more about that letter next week, but I thought it would be good to lay a foundation for my interest in Liberty. 
 

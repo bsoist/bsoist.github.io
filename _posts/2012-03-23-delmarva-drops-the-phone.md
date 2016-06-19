@@ -10,7 +10,7 @@ pdrp_attributionExtended:
 dsq_thread_id:
   - 621626560
 categories:
-  - Family
+  - family
 ---
 This is not about me. It may seem as though I am whining about my Sunday afternoon and how my day was ruined. It really isn&#8217;t about any of that. I just point out all the aggravations to emphasize how much could have been avoided with a phone call.
 

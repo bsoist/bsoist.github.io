@@ -8,8 +8,8 @@ pdrp_attributionLocation:
 dsq_thread_id:
   - 1493796787
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 We&#8217;re having a fun summer.
 

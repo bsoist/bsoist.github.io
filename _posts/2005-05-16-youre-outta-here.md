@@ -6,8 +6,8 @@ permalink: /2005/05/16/youre-outta-here/
 dsq_thread_id:
   - 49942983
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 tags:
   - baseball
 ---

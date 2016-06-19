@@ -14,8 +14,8 @@ Hide OgTags:
 Hide SexyBookmarks:
   - 0
 categories:
-  - Family
-  - Fun
+  - family
+  - fun
 ---
 Well, maybe not &#8230;
 

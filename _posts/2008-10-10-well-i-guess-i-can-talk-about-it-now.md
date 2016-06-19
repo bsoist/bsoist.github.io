@@ -6,7 +6,7 @@ permalink: /2008/10/10/well-i-guess-i-can-talk-about-it-now/
 dsq_thread_id:
   - 51076218
 categories:
-  - Fun
+  - fun
 tags:
   - baseball
   - mets

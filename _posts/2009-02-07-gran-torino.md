@@ -12,7 +12,7 @@ AIMG:
 dsq_thread_id:
   - 50778485
 categories:
-  - Movie Reviews
+  - movies
 tags:
   - movies
   - oscars

@@ -6,8 +6,8 @@ permalink: /2012/01/16/a-day-on-not-a-day-off/
 dsq_thread_id:
   - 541566187
 categories:
-  - Faith
-  - Freedom
+  - faith
+  - freedom
 ---
 In recent years, increasing emphasis has been place on celebrating the work and life of Dr. King by serving others.
 

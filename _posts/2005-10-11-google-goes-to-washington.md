@@ -4,7 +4,7 @@ author: bsoist
 layout: post
 permalink: /2005/10/11/google-goes-to-washington/
 categories:
-  - Freedom
+  - freedom
 tags:
   - google
   - tech
