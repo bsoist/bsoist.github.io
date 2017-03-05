@@ -1,8 +1,8 @@
 ---
 title: Goodbye
 author: bsoist
-layout: default
+layout: hiddenpage
 pdrp_attributionLocation:
   - end
 ---
-Iâm sorry to see you go. If you ever need anything else, let me know.
+IÃ¢ÂÂm sorry to see you go. If you ever need anything else, let me know.
