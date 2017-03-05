@@ -1,9 +1,9 @@
 ---
 title: Check your email to confirm
 author: bsoist
-layout: page
+layout: hiddenpage
 dsq_thread_id:
-  - 
+  -
 pdrp_attributionLocation:
   - end
 ---
@@ -20,15 +20,15 @@ You need to do one more thing before you&#8217;ll start receiving the updates.
       Click the link in that email.
     </li>
     <li>
-      If you don’t see the email in about 10 minutes, check your spam filter.
+      If you donât see the email in about 10 minutes, check your spam filter.
     </li>
     <li>
-      You may want to add <strong>feedblitz@mail.feedblitz.com</strong> to your contacts or list of “safe senders” in your email program. Otherwise, the information you requested might end up in a nasty spam filter.
+      You may want to addÂ <strong>feedblitz@mail.feedblitz.com</strong> to your contacts or list of âsafe sendersâÂ in your email program. Otherwise, the information you requested might end up in a nasty spam filter.
     </li>
   </ol>
-  
+
   <p>
-    Once you do that, I’ll forward you the information you requested.
+    Once you do that, Iâll forward you the information you requested.
   </p>
 </div>
 
