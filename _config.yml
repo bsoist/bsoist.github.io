@@ -2,7 +2,7 @@
 highlighter:      rouge
 
 # Permalinks
-permalink: /:title.html
+permalink: /:title/
 
 # Setup
 title : Well if you ask me...
