@@ -8,7 +8,6 @@ permalink: /:title/
 title : Well if you ask me...
 description: my thoughts on faith, family, freedom, and fun
 url:              http://www.bsoi.st
-baseurl:          /
 
 author:
   name:           'Bill Soistmann'
