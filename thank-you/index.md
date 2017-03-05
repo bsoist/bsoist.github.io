@@ -1,11 +1,11 @@
 ---
 title: Thank you!
 author: bsoist
-layout: page
+layout: hiddenpage
 pdrp_attributionLocation:
   - end
   dsq_thread_id:
-    - 
+    -
     ---
     You&#8217;re all set, and should start to receive daily email updates from my blog.
 

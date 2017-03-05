@@ -1,6 +1,6 @@
 ---
 title: Already Registered
 author: bsoist
-layout: page
+layout: hiddenpage
 ---
 It seems as though you are already registered.

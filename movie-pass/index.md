@@ -1,11 +1,11 @@
 ---
 title: Movie Pass
 author: bsoist
-layout: page
+layout: hiddenpage
 pdrp_attributionLocation:
   - end
 ---
-You may have arrived here following a link from a bad review. 
+You may have arrived here following a link from a bad review.
 
 I see a lot of films in the theater at this point because [my son gave me a short term Movie Pass subscription for Fathers Day][1]. Since I see a lot of films, I end up seeing a lot of bad films. It&#8217;s that simple.
 
