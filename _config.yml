@@ -2,7 +2,7 @@
 highlighter:      rouge
 
 # Permalinks
-permalink: /:title/
+permalink: /:year/:month/:day/:title.html
 
 # Setup
 title : Well if you ask me...
