@@ -19,9 +19,6 @@ paginate:         20
 google_analytics: UA-7456633-7
 disqus: wellifyouaskme
 
-gems:
- - jekyll-archives
-
 # Exclude these files from your production _site
 exclude:
     - Gemfile
@@ -29,12 +26,3 @@ exclude:
     - LICENSE
     - LICENSE.md
     - README.md
-jekyll-archives:
-    enabled: 'all'
-    layout: 'archive'
-    permalinks:
-        year: '/:year/'
-        month: '/:year/:month/'
-        day: '/:year/:month/:day/'
-        tag: '/tag/:name/'
-        category: '/category/:name/'
