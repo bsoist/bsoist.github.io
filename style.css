@@ -1,4 +1,6 @@
-.container { width: 60%; }
+.navbar-brand {font-size: 17px !important;}
+
+.fa {font-size: 12px !important;}
 
 p { font-size: 1.5em; }
 
@@ -30,3 +32,4 @@ p { font-size: 1.5em; }
 .entry-content {
     padding-bottom: 50px;
 }
+
