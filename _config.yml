@@ -19,14 +19,6 @@ paginate:         20
 google_analytics: UA-7456633-7
 disqus: wellifyouaskme
 
-gems:
-  - jemoji # Emoji please!
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-archives
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
 
 # Exclude these files from your production _site
 exclude:
