@@ -1,5 +1,5 @@
 ---
-title: Bill Soistmann
+title: About
 description: programmer, educator, trouble maker
 author: bsoist
 layout: page
