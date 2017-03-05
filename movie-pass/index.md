@@ -1,7 +1,7 @@
 ---
 title: Movie Pass
 author: bsoist
-layout: hiddenpage
+layout: page
 pdrp_attributionLocation:
   - end
 ---

@@ -1,7 +1,7 @@
 ---
 title: Science and Religion - Creation and Evolution
 author: bsoist
-layout: hiddenpage
+layout: page
 ---
 
 This is a series of posts I wrote between May and July of 2012.

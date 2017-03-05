@@ -1,7 +1,7 @@
 ---
 title: Thank you!
 author: bsoist
-layout: hiddenpage
+layout: page
 pdrp_attributionLocation:
   - end
   dsq_thread_id:

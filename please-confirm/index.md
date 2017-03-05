@@ -1,7 +1,7 @@
 ---
 title: Check your email to confirm
 author: bsoist
-layout: hiddenpage
+layout: page
 dsq_thread_id:
   -
 pdrp_attributionLocation:

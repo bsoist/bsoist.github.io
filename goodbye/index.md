@@ -1,7 +1,7 @@
 ---
 title: Goodbye
 author: bsoist
-layout: hiddenpage
+layout: page
 pdrp_attributionLocation:
   - end
 ---
