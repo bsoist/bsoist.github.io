@@ -1,0 +1,88 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Well if you ask me...
+
+# Short bio or description (displayed in the header)
+description: my thoughts on faith, family, freedom, and fun
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook: bsoist
+  flickr: bsoist
+  github: bsoist
+  instagram: bsoist
+  linkedin:
+  pinterest:
+  rss: rss
+  twitter: bsoist
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: wellifyouaskme
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-7456633-7
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: http://www.bsoi.st
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+feedurl: "http://www.bsoi.st/feed.xml"
+
+namedrop: "http://notes.bsoi.st/notes/#a1423426606"
+
+# Pagination
+paginate: 30
+
+# Archives
+jekyll-archives:
+  enabled: all
+  layout: default
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+markdown: kramdown
+highlighter: rogue
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.0.0
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  sass_dir: _scss
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jemoji # Emoji please!
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-archives
+  - jekyll-redirect-from
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
