@@ -25,6 +25,9 @@ gems:
   - jekyll-archives
   - jekyll-redirect-from
 
+whitelist:
+  - jekyll-redirect-from
+
 # Exclude these files from your production _site
 exclude:
     - Gemfile
