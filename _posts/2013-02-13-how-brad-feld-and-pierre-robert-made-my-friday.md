@@ -2,7 +2,6 @@
 title: How Brad Feld and Pierre Robert made my Friday
 author: bsoist
 layout: post
-permalink: /2013/02/13/how-brad-feld-and-pierre-robert-made-my-friday/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:
