@@ -3,6 +3,7 @@ highlighter:      rouge
 
 # Permalinks
 permalink: /:title/
+redirects: yes
 
 # Setup
 title : Well if you ask me...
