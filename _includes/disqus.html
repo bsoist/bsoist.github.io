@@ -4,7 +4,7 @@
 	<script type="text/javascript">
     
         var disqus_config = function () {
-            this.page.url = '{{ page.url }}';
+            this.page.url = '{{ site.url }}/{{ page.url }}';
         this.page.identifier = '{{ site.disqus }}'; 
                                };
     (function() {  // DON'T EDIT BELOW THIS LINE
