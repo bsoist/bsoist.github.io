@@ -29,3 +29,12 @@ exclude:
     - LICENSE
     - LICENSE.md
     - README.md
+jekyll-archives:
+    enabled: []
+    layout: 'archive'
+    permalinks:
+        year: '/:year/'
+        month: '/:year/:month/'
+        day: '/:year/:month/:day/'
+        tag: '/tag/:name/'
+        category: '/category/:name/'
