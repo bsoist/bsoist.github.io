@@ -19,6 +19,8 @@ paginate:         20
 google_analytics: UA-7456633-7
 disqus: wellifyouaskme
 
+gems:
+ - jekyll-archives
 
 # Exclude these files from your production _site
 exclude:
