@@ -3,7 +3,6 @@ highlighter:      rouge
 
 # Permalinks
 permalink: /:title/
-redirects: yes
 
 # Setup
 title : Well if you ask me...
@@ -19,6 +18,9 @@ paginate:         20
 
 google_analytics: UA-7456633-7
 disqus: wellifyouaskme
+
+gems:
+    - jekyll-redirect-from
 
 # Exclude these files from your production _site
 exclude:
