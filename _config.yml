@@ -16,6 +16,8 @@ author:
 
 paginate:         20
 
+excerpt_separator: <!-- more -->
+
 google_analytics: UA-7456633-7
 disqus: wellifyouaskme
 
