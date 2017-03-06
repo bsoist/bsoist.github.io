@@ -12,6 +12,7 @@ baseurl: /
 
 author:
   name:           'Bill Soistmann'
+  email:          bill@soistmann.com
   url:            https://twitter.com/bsoist
 
 paginate:         20
