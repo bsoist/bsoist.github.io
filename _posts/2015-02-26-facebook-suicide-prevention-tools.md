@@ -7,6 +7,7 @@ tags:
     tech
     facebook
     suicide
+excerpt: Facebook announced in a blog post yesterday that it would be rolling out new tools aimed at helping friends get help for friends they fear might be contemplating suicide. Like most things Facebook - or most things generally, I guess - I was skeptical at first, but it didn't take long for the idea to grow on me.
 ---
 Facebook announced [in a blog post yesterday][newfbtool] that it would be rolling out new tools aimed at helping friends get help for friends they fear might be contemplating suicide. Like most things Facebook - or most things generally, I guess - I was skeptical at first, but it didn't take long for the idea to grow on me.
 

@@ -6,6 +6,7 @@ categories:
 tags:
     math
     education
+excerpt: I'm not thrilled with Common Core either, but it's not because of the math.
 ---
 So the common core posts are going around again on Facebook. Seems like a lot of people are upset by the unusual strategies being presented for teaching math.
 

@@ -6,6 +6,7 @@ categories:
     family
 tags:
     books
+excerpt: Today is Read Across America Day which falls on the birthday of Dr. Seuss.
 ---
 Today is Read Across America Day which falls on the birthday of Dr. Seuss.
 

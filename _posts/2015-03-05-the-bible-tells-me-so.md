@@ -6,6 +6,7 @@ categories:
 tags:
     bible
     books
+excerpt: This is one of those books I wish all of my Christian friends would read.
 ---
 <div style="float:right;padding:10px;">
 <a href="http://www.amazon.com/gp/product/B00H7LXHJQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00H7LXHJQ&linkCode=as2&tag=weifyoasme-20&linkId=ECU5SFN57JQT3CRI"><img border="0" src="http://ecx.images-amazon.com/images/I/412YrGLaYlL._BO2,204,203,200_PIsitb-sticker-v3-big_SX278_SY27822_AA300_SH20_OU01_.jpg" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=weifyoasme-20&l=as2&o=1&a=B00H7LXHJQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

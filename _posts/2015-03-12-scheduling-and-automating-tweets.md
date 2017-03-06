@@ -6,6 +6,7 @@ categories:
 tags:
     social
     twitter
+excerpt: Yesterday, I had a quick Twitter discussion with Calvin Lee and Donna White and this tweet...
 ---
 Yesterday, I had a quick Twitter discussion with [Calvin Lee][mayhem] and [Donna White][donna] and this tweet...
 

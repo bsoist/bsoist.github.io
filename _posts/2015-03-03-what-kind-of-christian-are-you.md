@@ -3,6 +3,7 @@ title: What kind of Christian are you?
 layout: post
 categories:
     faith
+excerpt: I read something yesterday and the timing could not have been more perfect - for two reasons.
 ---
 I read [something][comingout] yesterday and the timing could not have been more perfect - for two reasons.
 
