@@ -3,6 +3,7 @@ title: No more obsessing
 layout: post
 categories:
     fun
+excerpt: I am learning how to not obsess so much about things.
 ---
 I am learning how to not obsess so much about things.
 

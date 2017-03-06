@@ -3,6 +3,7 @@ title: Faith, Dogma, and Reason
 layout: post
 categories:
     faith
+excerpt: I've struggled for many years trying to reconcile my faith with my commitment to reason. Sometimes I've wondered if they are incompatible. What I've come to understand, though...
 ---
 I've struggled for many years trying to reconcile my faith with my commitment to reason. Sometimes I've wondered if they are incompatible. What I've come to understand, though, is that faith is not the antithesis of reason - dogma is.
 
