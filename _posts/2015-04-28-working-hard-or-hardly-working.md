@@ -5,10 +5,11 @@ categories:
   - family
   - freedom
   - fun
+excerpt: Though I finally learned it was okay to relax some time ago, I still wonder sometimes which it is.
 ---
 Though I [finally learned it was okay to relax][2] some time ago, I still wonder sometimes which it is.
 
-My son is now twenty-one and, like his old man, he's cut out for doing his own thing. So, like any good dad, I've been trying to help him learn from some of my mistakes so he doesn't have to make as many of his own. I've also been thinking <!-- more -->about this in my own life. I love what I do so much that it just doesn't feel like work sometimes. I'm glad for that, but it also makes me wonder if I could - or should - be working harder. Actually, I have [evidence][4] that sometimes I don't work as much as I think I do.
+My son is now twenty-one and, like his old man, he's cut out for doing his own thing. So, like any good dad, I've been trying to help him learn from some of my mistakes so he doesn't have to make as many of his own. I've also been thinking about this in my own life. I love what I do so much that it just doesn't feel like work sometimes. I'm glad for that, but it also makes me wonder if I could - or should - be working harder. Actually, I have [evidence][4] that sometimes I don't work as much as I think I do.
 
 My dad was always quick to remind me that "six days shalt though labor" and though [I don't interpret the Bible as a book of rules][3], that has always stuck with me.
 
