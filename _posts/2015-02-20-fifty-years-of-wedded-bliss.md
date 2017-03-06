@@ -3,6 +3,7 @@ title: Fifty Years of Wedded Bliss
 layout: post
 categories:
     family
+excerpt: If dad were here today, that's what he would have said. If mom were here, she would have laughed and rolled her eyes.
 ---
  <div style="float:right;padding:10px;">
 <img src="https://farm9.staticflickr.com/8617/16406145050_b623005728_b.jpg" width="384" height="512" />

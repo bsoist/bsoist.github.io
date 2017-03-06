@@ -6,6 +6,7 @@ categories:
     fun
 tags:
     work
+excerpt: If you were watching the Oscars last night, like I was, you may have seen a new Apple ad featuring voiceover by Martin Scorsese. I was fortunate enough to be in the audience when he gave that speech, and while it was a long speech packed with lots of great inspirational stories, the beginning of that ad features one of my favorite parts.
 ---
 If you were watching the Oscars last night, like I was, you may have seen a new Apple ad featuring voiceover by Martin Scorsese. I was fortunate enough to be in the audience when he gave that speech, and while it was a long speech packed with lots of great inspirational stories, the beginning of that ad features one of my favorite parts.
 

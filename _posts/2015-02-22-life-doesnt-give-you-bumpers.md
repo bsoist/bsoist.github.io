@@ -6,6 +6,7 @@ categories:
 tags:
     movies
     oscars
+excerpt: It's no secret we're huge movies fan at our house. Every year, we try to see all of the nominated films before the Oscars. Some years, we have just a few to see. Other years, like this one, we have to really scramble to see them all.
 ---
 It's no secret we're huge movies fan at our house. Every year, we try to see all of the nominated films before the Oscars. Some years, we have just a few to see. Other years, like this one, we have to really scramble to see them all.
 

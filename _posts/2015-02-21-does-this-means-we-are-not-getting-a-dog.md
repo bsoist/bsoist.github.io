@@ -7,6 +7,7 @@ categories:
 tags:
     movies
     oscars
+excerpt: Several years ago, we started a fun family tradition of seeing all of the Oscar nominated short films over one weekend. 
 ---
 Several years ago, we started a fun family tradition of seeing all of the Oscar nominated short films over one weekend. [Delaware's first independent theater][theatren] shows them over one weekend in February. It's always a busy weekend. When we first started, Billy was a double lawyer for his high school mock trial team, and the team is always in the heat of weekend practices and Skype sessions in February. Now Becky is the double lawyer. This year we saw the live action shorts on Saturday after practice and then we saw the docs and animated both on Sunday - five and a half hours of short films in one afternoon! :)
 

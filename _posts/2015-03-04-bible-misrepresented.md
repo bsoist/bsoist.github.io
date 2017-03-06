@@ -5,7 +5,7 @@ categoreis:
     faith
 tag:
     bible
-excerpt: Just before Christmas, Newsweek published an article titled <em>The Bible So Misunderstood It's a Sin</em>. The article stirred up quite a bit of controversy and more than a few Christain bloggers wrote a reaction or clarification piece.
+excerpt: Just before Christmas, Newsweek published an article titled <em>The Bible&58; So Misunderstood It's a Sin</em>. The article stirred up quite a bit of controversy and more than a few Christain bloggers wrote a reaction or clarification piece.
 ---
 Just before Christmas, Newsweek published an article titled [The Bible: So Misunderstood It's a Sin][nw]. The article stirred up quite a bit of controversy and more than a few Christain bloggers wrote a reaction or clarification piece. I read quite a few of those, including [this cleverly titled one][mohler] by Albert Mohler.
 

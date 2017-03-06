@@ -9,6 +9,7 @@ categories:
     books
 tags:
     books
+excerpt: As I mentioned a few days ago, the work of Albert Einstein has had a significant impact on my thinking, even though, until recently, I didn't know much about him apart from his work - and some assumptions about his religious and political views.
 ---
  <div style="float:right;padding:10px;"><a href="http://www.amazon.com/gp/product/B000PC0S0K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000PC0S0K&linkCode=as2&tag=weifyoasme-20&linkId=AU45X4NB2HPRY3MY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PC0S0K&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=weifyoasme-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=weifyoasme-20&l=as2&o=1&a=B000PC0S0K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
 
