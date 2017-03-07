@@ -2,10 +2,10 @@
 highlighter:      rouge
 
 # Permalinks
-permalink: /:title/
+permalink: /:title/ :pause
 
 # Setup
-title : Well if you ask me...
+title: Well if you ask me...
 description: my thoughts on faith, family, freedom, and fun
 url:              http://www.bsoi.st
 feed_url:              http://feed.bsoi.st
@@ -17,8 +17,6 @@ author:
   url:            https://twitter.com/bsoist
 
 paginate:         20
-
-excerpt_separator: <!-- more -->
 
 google_analytics: UA-7456633-7
 disqus: wellifyouaskme
