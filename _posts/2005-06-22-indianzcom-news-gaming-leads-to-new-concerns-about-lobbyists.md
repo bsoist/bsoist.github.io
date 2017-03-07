@@ -17,3 +17,5 @@ Just finished watching a piece on [ABC&#8217;s NightLine][1] about lobbyists [Ja
  [3]: http://news.google.com/news?q=Michael%20Scanlon&hl=en&lr=&sa=N&tab=wn
  [4]: http://news.google.com/news?hl=en&lr=&tab=wn&ie=UTF-8&q=Ralph+Reed&btnG=Search+News
  [5]: http://indianz.com/News/2005/008410.asp
+dsq_thread_id:
+  - 53496558

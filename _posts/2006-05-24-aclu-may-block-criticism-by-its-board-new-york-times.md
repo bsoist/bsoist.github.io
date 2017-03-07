@@ -11,3 +11,5 @@ categories:
 WHAT?!?!I know many people think that the ACLU is &#8220;off it&#8217;s rocker&#8221; on some issues, but I am a big supporter of what they stand for, or what I thought they stood for.I even understand that some corporate entities need to control PR, but it just seem ridiculous that the ACLU would do anything to stifle speech of any kind.I am very surprised to say the least.Thanks to [Stop the ACLU][1]
 
  [1]: http://stoptheaclu.com/archives/2006/05/24/aclu-may-block-criticism-by-its-board/
+dsq_thread_id:
+  - 47872051

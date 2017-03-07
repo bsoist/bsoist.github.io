@@ -17,3 +17,5 @@ I found one paragraph of the Post article particularly interesting:
 > Her one foray into the controversial social subjects that can animate the high court was her work as a member of the ABA to get the organization to withdraw its official support for abortion rights. Her colleagues said that stemmed from her belief that the national association of lawyers should not take a stance on abortion and other issues that are matters of personal conscience.
 
 I have nothing here to go on except her colleagues opinion of her intentions. If this is her opinion on the matter, I agree. Certainly, lawyers should not take such a stand. Judges, on the other hand, should support abortion **rights** for the same reason &#8211; *it is a matter of personal conscience.*
+dsq_thread_id:
+  - 49943373

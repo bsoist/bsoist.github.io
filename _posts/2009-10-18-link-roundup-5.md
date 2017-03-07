@@ -27,3 +27,5 @@ tags:
 
 <a href="http://scobleizer.com/2009/08/10/facebook-friendfeed/" tags="facebook,friendfeed,fb,twitter,google">Oh, FriendFeed is now Facebookâ€™s â€œofficialâ€ R&D department!</a>
 :   I've loved FriendFeed for a long time and I've enjoyed Facebook some recently but I am NOT excited about this deal.
+dsq_thread_id:
+  - 48176743

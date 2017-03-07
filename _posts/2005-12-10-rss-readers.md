@@ -34,3 +34,5 @@ In my [previous post][1] I mentioned two problems that compelled me to give up o
  [3]: http://bloglines.com/
  [4]: http://rojo.com/
  [5]: http://reader.google.com/
+dsq_thread_id:
+  - 50649225

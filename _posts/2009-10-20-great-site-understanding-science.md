@@ -16,3 +16,5 @@ One of my biggest concerns is that our high school students are graduating witho
 
  [1]: http://whsjr.soistmann.com/oped/2009/10/19/is-intelligent-design-science/
  [2]: http://www.copusproject.org/
+dsq_thread_id:
+  - 47826524

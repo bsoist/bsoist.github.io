@@ -17,3 +17,5 @@ In 1999, I was all excited about using online tools to read and study the Script
 Anyway, I found [these][1] to start with.
 
  [1]: http://de.lirio.us/rubric/entries/user/bsoist/tags/:06162005
+dsq_thread_id:
+  - 49942865

@@ -12,3 +12,5 @@ Frankly, this kind of thing doesn&#8217;t surprise me. I know it should, but it 
 
  [1]: http://www.washingtonpost.com/wp-dyn/content/article/2005/10/12/AR2005101202071.html
  [2]: http://sports.yahoo.com/nfl/news?slug=cnnsi-somepeoplenever&prov=cnnsi&type=lgns
+dsq_thread_id:
+  - 49933515

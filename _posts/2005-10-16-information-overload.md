@@ -45,3 +45,5 @@ I exported my subscriptions from bloglines, edited the OPML to include only news
  [5]: http://weblogs.jupiterresearch.com/analysts/peterson/
  [6]: http://www.lawsy.net/blog/241/
  [7]: http://the-deblog.blogspot.com/archives/2005_10_01_the-deblog_archive.html#112930251907773877
+dsq_thread_id:
+  - 51142118

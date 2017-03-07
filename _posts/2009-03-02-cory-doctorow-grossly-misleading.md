@@ -16,3 +16,5 @@ I&#8217;d like to see Mr. Glaskowsky at least attempt to answer the questions Do
  [2]: http://www.nytimes.com/2009/02/25/opinion/25blount.html?_r=1
  [3]: http://whsjr.soistmann.com/oped/2009/02/26/daily-links-5/
  [4]: http://news.cnet.com/8301-13512_3-10184974-23.html
+dsq_thread_id:
+  - 49208975

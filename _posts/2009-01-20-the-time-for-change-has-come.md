@@ -28,3 +28,5 @@ We should also not forget the significance of his election to power as an Africa
  [6]: http://www.cbsnews.com/blogs/2008/01/06/politics/fromtheroad/entry3679992.shtml
  [7]: http://www.nytimes.com/2009/01/18/weekinreview/18greenhouse.html?pagewanted=1&#038;_r=1&#038;ref=todayspaper
  [8]: http://www.nytimes.com/2009/01/18/sports/baseball/18vecsey.html?ref=todayspaper
+dsq_thread_id:
+  - 51274051

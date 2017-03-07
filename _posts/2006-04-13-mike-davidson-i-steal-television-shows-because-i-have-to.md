@@ -17,3 +17,5 @@ As a TiVO lover and a web developer, I had to laugh at this
 Unlike [Mike][1], I stuck with DirecTV so I don&#8217;t have this problem.:)
 
  [1]: http://www.mikeindustries.com/blog/archive/2006/04/i-steal-television-shows
+dsq_thread_id:
+  - 49043589

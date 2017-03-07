@@ -32,3 +32,5 @@ Probably, yes.
 Am I the only one who thinks these are not difficult ethical questions?
 
  [1]: http://www.washingtonpost.com/wp-dyn/content/article/2009/03/01/AR2009030102265.html?hpid=topnews
+dsq_thread_id:
+  - 47844503

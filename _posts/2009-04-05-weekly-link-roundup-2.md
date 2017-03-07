@@ -46,3 +46,5 @@ categories:
 
 <a href="http://www.livescience.com/health/090328-running-perfect-pace.html" tags="science">Perfect Running Pace Revealed | LiveScience</a>
 :   "Researchers at the University of Wisconsin-Madison now have an explanation for this state of running nirvana, and we can thank our ancestors and some evolutionary biology for it." </dl>
+dsq_thread_id:
+  - 47856694

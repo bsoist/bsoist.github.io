@@ -20,3 +20,5 @@ I am looking forward to [the baby&#8217;s return this year][3].
  [1]: http://www.superbowl-ads.com/
  [2]: http://news.zdnet.com/2100-9595_22-263647.html
  [3]: http://www.brandweek.com/bw/content_display/news-and-features/technology-finance/e3i6e3ab16ed8b79d8b0e3a9e39ef0f35b5?imw=Y
+dsq_thread_id:
+  - 48161290

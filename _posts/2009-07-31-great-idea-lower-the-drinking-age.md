@@ -12,3 +12,5 @@ via [kottke.org][2]
 
  [1]: http://www.theatlantic.com/doc/200907/ideas-drinking
  [2]: http://www.kottke.org/09/07/lower-the-drinking-age
+dsq_thread_id:
+  - 47919245

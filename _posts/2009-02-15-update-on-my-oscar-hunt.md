@@ -21,3 +21,5 @@ I have The Duchess and Frozen River at home and I am off to watch Frozen River n
 
  [1]: http://whsjr.soistmann.com/oped/2009/01/25/oscars-2009/
  [2]: http://soistmann.com/post/77289703/oscar-shorts
+dsq_thread_id:
+  - 49209178

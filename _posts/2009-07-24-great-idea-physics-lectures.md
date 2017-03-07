@@ -15,3 +15,5 @@ Great idea Bill, Thanks!
  [1]: http://news.cnet.com/8301-13860_3-10286732-56.html
  [2]: http://en.wikipedia.org/wiki/Richard_Feynman
  [3]: http://research.microsoft.com/apps/tools/tuva/index.html
+dsq_thread_id:
+  - 48172460

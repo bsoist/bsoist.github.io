@@ -12,3 +12,5 @@ tags:
   
 <p class="goalprogresslink">See more progress on: <a href="http://www.43things.com/people/progress/bsoist?on=314090">spend an entire day watching the extended version of all three Lord of the Rings movies back-to-back-to-back</a></p>
   
+dsq_thread_id:
+  - 49943110

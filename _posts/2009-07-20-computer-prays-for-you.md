@@ -17,3 +17,5 @@ Really?
 
  [1]: http://www.informationageprayer.com/
  [2]: http://www.livescience.com/technology/090325-computer-prayer.html
+dsq_thread_id:
+  - 49079496

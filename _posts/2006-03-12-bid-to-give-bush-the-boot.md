@@ -13,3 +13,5 @@ tags:
 Wow!Thanks to [Fountainhead: Bid to give Bush the boot][1]
 
  [1]: http://malakandsky.blogspot.com/2006/03/bid-to-give-bush-boot.html
+dsq_thread_id:
+  - 51393603
