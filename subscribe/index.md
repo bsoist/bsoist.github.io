@@ -30,10 +30,8 @@ Enter your email address to receive updates in your inbox.
 ## RSS
 If you prefer to subscribe via RSS, these are the feeds you can choose from.
 
-  * [Almost Everything][notes] - links to my blog posts, shorter notes, and a subset of links
   * [Well, if you ask me...][www] - my blog posts ( full text of each post )
   * [Links][links] - every link I shorten
 
 [links]: http://links.bsoi.st/feed.xml
-[notes]: http://notes.bsoi.st/feed.xml
-[www]: http://www.bsoi.st/feed.xml
+[www]: http://feed.bsoi.st
