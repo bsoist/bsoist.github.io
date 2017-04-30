@@ -46,5 +46,4 @@ A retweet ranking system will cause the same thing to happen with Twitter. It wi
 Obviously, I am assuming a simple ranking system which rewards users whose tweets have been retweeted. I understand that a system can be put in place that ranks the tweets and not the twitterer. I&#8217;d argue that all points above still hold. I also understand that a more complex formula can be devised, but the point is still that people will tweet differently. Imagine a system that rewards one for retweeting other&#8217;s tweets. This will lead to a Digg-like echo chamber where perhaps very few tweet original content. 
 
 As I said in yesterday&#8217;s post, I am in favor of filtering my Twitter search results. I&#8217;m just not a big fan of ranking by retweets. More on that later.
-
- [1]: {% post_url twitter-search-by-authority %}
+ [1]: {% post_url 2008-12-29-twitter-search-by-authority %}
