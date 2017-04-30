@@ -2,7 +2,6 @@
 title: Using BookMarklets
 author: bsoist
 layout: post
-permalink: /2004/06/01/using-bookmarklets/
 dsq_thread_id:
   - 48238076
 categories:

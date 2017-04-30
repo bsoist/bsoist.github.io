@@ -2,7 +2,6 @@
 title: Economic Hit Man
 author: bsoist
 layout: post
-permalink: /2006/02/18/economic-hit-man/
 dsq_thread_id:
   - 48187342
 categories:

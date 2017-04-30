@@ -2,7 +2,6 @@
 title: Happy New Year!
 author: bsoist
 layout: post
-permalink: /2006/01/02/happy-new-year/
 dsq_thread_id:
   - 50674279
 categories:

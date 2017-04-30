@@ -2,7 +2,6 @@
 title: Speaking of Dangerous Intersections
 author: bsoist
 layout: post
-permalink: /2004/12/01/speaking-of-dangerous-intersections/
 dsq_thread_id:
   - 48760417
 categories:

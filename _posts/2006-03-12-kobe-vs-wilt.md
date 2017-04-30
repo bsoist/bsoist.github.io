@@ -2,7 +2,6 @@
 title: Kobe vs. Wilt
 author: bsoist
 layout: post
-permalink: /2006/03/12/kobe-vs-wilt/
 dsq_thread_id:
   - 49942744
 categories:

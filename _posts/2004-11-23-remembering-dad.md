@@ -2,7 +2,6 @@
 title: Remembering Dad
 author: bsoist
 layout: post
-permalink: /2004/11/23/remembering-dad/
 dsq_thread_id:
   - 53589875
 categories:

@@ -2,7 +2,6 @@
 title: The Eagle has Landed
 author: bsoist
 layout: post
-permalink: /2004/10/17/the-eagle-has-landed/
 dsq_thread_id:
   - 48982375
 categories:

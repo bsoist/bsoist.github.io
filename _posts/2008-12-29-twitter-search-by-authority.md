@@ -2,7 +2,6 @@
 title: Twitter Search By Authority
 author: bsoist
 layout: post
-permalink: /2008/12/29/twitter-search-by-authority/
 dsq_thread_id:
   - 48299956
 categories:

@@ -2,7 +2,6 @@
 title: 'Well, I guess I can talk about it now &#8230;'
 author: bsoist
 layout: post
-permalink: /2008/10/10/well-i-guess-i-can-talk-about-it-now/
 dsq_thread_id:
   - 51076218
 categories:

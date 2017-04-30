@@ -2,7 +2,6 @@
 title: America Loves a Longshot
 author: bsoist
 layout: post
-permalink: /2004/05/30/america-loves-a-longshot/
 dsq_thread_id:
   - 52621956
 categories:

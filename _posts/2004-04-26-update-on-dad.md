@@ -2,7 +2,6 @@
 title: Update on Dad
 author: bsoist
 layout: post
-permalink: /2004/04/26/update-on-dad/
 dsq_thread_id:
   - 49170140
 categories:

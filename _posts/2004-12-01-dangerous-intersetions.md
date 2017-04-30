@@ -2,7 +2,6 @@
 title: Dangerous Intersetions
 author: bsoist
 layout: post
-permalink: /2004/12/01/dangerous-intersetions/
 dsq_thread_id:
   - 48940885
 categories:

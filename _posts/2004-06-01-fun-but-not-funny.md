@@ -2,7 +2,6 @@
 title: Fun but Not Funny
 author: bsoist
 layout: post
-permalink: /2004/06/01/fun-but-not-funny/
 dsq_thread_id:
   - 52131015
 categories:

@@ -2,7 +2,6 @@
 title: Wow, that was easy!
 author: bsoist
 layout: post
-permalink: /2004/11/22/wow-that-was-easy/
 dsq_thread_id:
   - 53591520
 categories:

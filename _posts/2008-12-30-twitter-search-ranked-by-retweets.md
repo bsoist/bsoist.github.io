@@ -2,7 +2,6 @@
 title: Twitter Search Ranked By ReTweets
 author: bsoist
 layout: post
-permalink: /2008/12/30/twitter-search-ranked-by-retweets/
 dsq_thread_id:
   - 48008011
 categories:
@@ -48,4 +47,4 @@ Obviously, I am assuming a simple ranking system which rewards users whose tweet
 
 As I said in yesterday&#8217;s post, I am in favor of filtering my Twitter search results. I&#8217;m just not a big fan of ranking by retweets. More on that later.
 
- [1]: http://bsoist.wordpress.com/2008/12/29/twitter-search-by-authority/ "Twitter Search By Authority"
+ [1]: {% post_url twitter-search-by-authority %}

@@ -2,7 +2,6 @@
 title: Thanks be to God
 author: bsoist
 layout: post
-permalink: /2004/11/26/thanks-be-to-god/
 dsq_thread_id:
   - 48593570
 categories:

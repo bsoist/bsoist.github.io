@@ -2,7 +2,6 @@
 title: '&#8230;lest he be judged'
 author: bsoist
 layout: post
-permalink: /2004/12/03/lest-he-be-judged/
 dsq_thread_id:
   - 48595847
 categories:
