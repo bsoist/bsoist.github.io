@@ -16,6 +16,6 @@ Not much, huh?
 
 Anyway, I plan to start with a few book and DVD reviews since I am changing the way those display on my [homepage][3]. After that, maybe I&#8217;ll have something to say about the election.
 
- [1]: {% post_url 2007-11-10-math-and-basebal %}
+ [1]: /2007-11-10-math-and-basebal
  [2]: http://www.metsgeek.com/articles/2007/11/09/how-badly-will-the-mets-miss-tom-glavine/
  [3]: /
