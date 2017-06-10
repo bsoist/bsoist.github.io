@@ -4,7 +4,7 @@ description: anything I find interesting enough to share
 author: bsoist
 layout: page
 ---
-<span style="font-size:0.7em;">I've obsessed about how I share links for a long time, but I have finally settled on a system I built that [works for me][1]. You can find the [RSS feed over here][2].</span>
+<span style="font-size:0.7em;">You can find the [RSS feed over here][2].</span>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
@@ -15,5 +15,10 @@ layout: page
 <div id="includedContent"></div>
 
 
-[1]: https://github.com/bsoist/ShortenLinks
-[2]: /subscribe/
+<span style="font-size:0.7em;">
+<!--
+I've obsessed about how I share links for a long time, but I have finally settled on a system I built that [works for me](https://github.com/bsoist/ShortenLinks). You can find the [RSS feed over here](/subscribe/).
+-->
+
+
+[1]: /subscribe/
