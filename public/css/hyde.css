@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -54,7 +54,7 @@ html {
  */
 
 .sidebar .fa {
-    font-size: 2em;
+    font-size: 1.8em;
     margin: 10px;
 }
 .sidebar {
