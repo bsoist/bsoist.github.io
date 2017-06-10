@@ -11,7 +11,7 @@ I'm finally settled on a system I built that [works for me][1]. When I get some 
 I used [Radio3][3] for a short while.
 
 Before that I used [delicious][4].
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
     $(function(){
         $("#includedContent").load("http://links.bsoi.st/links.html");
