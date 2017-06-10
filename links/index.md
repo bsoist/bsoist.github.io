@@ -4,7 +4,7 @@ description: anything I find interesting enough to share
 author: bsoist
 layout: page
 ---
-<span style="font-size:0.7em;">You can find the [RSS feed over here][2].</span>
+<span style="font-size:0.7em;">You can find the [RSS feed over here][1].</span>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
