@@ -17,7 +17,7 @@ pdrp_attributionLocation:
 
 
 ## RSS
-If you'dÂ prefer to subscribe via RSS, these are the feeds you canÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ choose from.
+If you'd prefer to subscribe via RSS, these are the feeds you can choose from.
 
   * [Well, if you ask me...][www] - my blog posts ( full text of each post )
   * [Links][links] - every link I shorten
