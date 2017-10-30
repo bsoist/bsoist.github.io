@@ -2,7 +2,6 @@
 title: A Few Not-So-Good Films
 author: bsoist
 layout: post
-permalink: /2012/03/11/a-few-not-so-good-films/
 dsq_thread_id:
   - 607346175
 categories:

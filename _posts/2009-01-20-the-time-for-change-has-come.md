@@ -2,7 +2,6 @@
 title: The Time for Change Has Come
 author: bsoist
 layout: post
-permalink: /2009/01/20/the-time-for-change-has-come/
 categories:
   - freedom
 tags:

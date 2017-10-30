@@ -2,7 +2,6 @@
 title: 2012 Oscar Nominated Shorts
 author: bsoist
 layout: post
-permalink: /2012/02/26/2012-oscar-nominated-shorts/
 dsq_thread_id:
   - 590060883
 categories:

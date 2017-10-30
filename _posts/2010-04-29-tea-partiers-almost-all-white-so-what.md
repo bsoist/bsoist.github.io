@@ -2,7 +2,6 @@
 title: 'Tea Partiers Almost All White &#8211; So What?'
 author: bsoist
 layout: post
-permalink: /2010/04/29/tea-partiers-almost-all-white-so-what/
 dsq_thread_id:
   - 90870523
 categories:

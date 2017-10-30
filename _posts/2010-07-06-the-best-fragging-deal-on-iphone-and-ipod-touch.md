@@ -2,7 +2,6 @@
 title: The Best Fragging Deal on iPhone and iPod Touch
 author: bsoist
 layout: post
-redirect_from: /2010/07/06/the-best-fragging-deal-on-iphone-and-ipod-touch/
 dsq_thread_id:
   - 114647047
 categories:

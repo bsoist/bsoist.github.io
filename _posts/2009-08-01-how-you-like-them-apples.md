@@ -2,7 +2,6 @@
 title: How Do Ya Like Them Apples?
 author: bsoist
 layout: post
-permalink: /2009/08/01/how-you-like-them-apples/
 ASIN:
   - B001MWBK72, 0788814664
 ATITLE:

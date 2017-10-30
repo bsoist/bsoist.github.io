@@ -2,7 +2,6 @@
 title: Monuments to Peace
 author: bsoist
 layout: post
-permalink: /2009/10/13/monuments-to-peace/
 categories:
   - faith
   - freedom

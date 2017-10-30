@@ -2,7 +2,6 @@
 title: 'It&#8217;s all about owning things'
 author: bsoist
 layout: post
-permalink: /2013/01/18/all-about-owning-things/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

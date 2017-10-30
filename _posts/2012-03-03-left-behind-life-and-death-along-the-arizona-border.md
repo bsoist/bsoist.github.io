@@ -2,7 +2,6 @@
 title: 'Left Behind: Life and Death Along the Arizona Border'
 author: bsoist
 layout: post
-permalink: /2012/03/03/left-behind-life-and-death-along-the-arizona-border/
 dsq_thread_id:
   - 597238858
 categories:

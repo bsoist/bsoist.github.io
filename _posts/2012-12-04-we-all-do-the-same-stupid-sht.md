@@ -2,7 +2,6 @@
 title: 'We All Do the Same Stupid Sh*t'
 author: bsoist
 layout: post
-permalink: /2012/12/04/we-all-do-the-same-stupid-sht/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

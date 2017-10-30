@@ -2,7 +2,6 @@
 title: 'Family Friday: It was a fun week'
 author: bsoist
 layout: post
-permalink: /2012/07/06/family-friday-it-was-a-fun-week/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

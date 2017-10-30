@@ -2,7 +2,6 @@
 title: An Unexpected Journey
 author: bsoist
 layout: post
-permalink: /2013/01/03/an-unexpected-journey/
 dsq_thread_id:
   - 1006867646
 pdrp_attributionLocation:

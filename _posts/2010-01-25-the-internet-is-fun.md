@@ -2,7 +2,6 @@
 title: The Internet Is Fun
 author: bsoist
 layout: post
-permalink: /2010/01/25/the-internet-is-fun/
 dsq_thread_id:
   - 61333023
 categories:

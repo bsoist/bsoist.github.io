@@ -2,7 +2,6 @@
 title: This Execution Type Deal Here
 author: bsoist
 layout: post
-permalink: /2009/10/23/this-execution-type-deal-here/
 AIMG:
   - 51QCwSzuvNL
 ATITLE:

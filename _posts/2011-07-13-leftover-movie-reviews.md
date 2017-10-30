@@ -2,7 +2,6 @@
 title: Leftover Movie Reviews
 author: bsoist
 layout: post
-permalink: /2011/07/13/leftover-movie-reviews/
 dsq_thread_id:
   - 357641981
 categories:

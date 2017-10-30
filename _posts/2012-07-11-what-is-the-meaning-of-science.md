@@ -2,7 +2,6 @@
 title: What Is the Meaning of Science?
 author: bsoist
 layout: post
-permalink: /2012/07/11/what-is-the-meaning-of-science/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

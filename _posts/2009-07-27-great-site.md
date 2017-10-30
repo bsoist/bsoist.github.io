@@ -2,7 +2,6 @@
 title: 'Great Site: Custom Road Sign'
 author: bsoist
 layout: post
-permalink: /2009/07/27/great-site/
 dsq_thread_id:
   - 48773080
 categories:

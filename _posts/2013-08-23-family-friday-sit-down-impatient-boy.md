@@ -2,7 +2,6 @@
 title: 'Family Friday &#8211; sit down impatient boy!'
 author: bsoist
 layout: post
-permalink: /2013/08/23/family-friday-sit-down-impatient-boy/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

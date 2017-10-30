@@ -2,7 +2,6 @@
 title: My Response to the GOP Response
 author: bsoist
 layout: post
-permalink: /2012/01/25/my-response-to-the-gop-response/
 dsq_thread_id:
   - 552402144
 categories:

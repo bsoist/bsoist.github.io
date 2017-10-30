@@ -2,7 +2,6 @@
 title: Tea Party Patriots
 author: bsoist
 layout: post
-permalink: /2010/03/24/tea-party-patriots/
 dsq_thread_id:
   - 79094857
 categories:

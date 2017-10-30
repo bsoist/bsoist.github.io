@@ -2,7 +2,6 @@
 title: Eat the Dog Food
 author: bsoist
 layout: post
-permalink: /2013/11/02/eat-the-dog-food/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

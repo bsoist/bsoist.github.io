@@ -2,7 +2,6 @@
 title: 'We&#8217;ve lost another freedom fighter'
 author: bsoist
 layout: post
-permalink: /2013/01/14/weve-lost-another-freedom-fighter/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

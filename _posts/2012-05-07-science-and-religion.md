@@ -2,7 +2,6 @@
 title: Science and Religion
 author: bsoist
 layout: post
-redirect-from: /2012/05/07/science-and-religion/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

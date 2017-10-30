@@ -2,7 +2,6 @@
 title: Weekly Link Roundup
 author: bsoist
 layout: post
-permalink: /2009/03/29/weekly-link-roundup/
 dsq_thread_id:
   - 47856664
 categories:

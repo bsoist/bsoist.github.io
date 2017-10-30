@@ -2,7 +2,6 @@
 title: 'Great Idea: Blackboard Blogging'
 author: bsoist
 layout: post
-permalink: /2009/04/02/great-idea-blackboard-blogging/
 categories:
   - fun
 ---

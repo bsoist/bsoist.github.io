@@ -2,7 +2,6 @@
 title: Work hard while you are young
 author: bsoist
 layout: post
-permalink: /2013/02/06/work-hard-while-you-are-young/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

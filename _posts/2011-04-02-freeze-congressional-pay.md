@@ -2,7 +2,6 @@
 title: Freeze Congressional Pay?
 author: bsoist
 layout: post
-permalink: /2011/04/02/freeze-congressional-pay/
 dsq_thread_id:
   - 269244832
 pdrp_attributionLocation:

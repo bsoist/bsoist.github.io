@@ -2,7 +2,6 @@
 title: 'Great Site: DownForEveryoneOrJustMe?'
 author: bsoist
 layout: post
-permalink: /2009/07/21/great-site-downforeveryoneorjustme/
 dsq_thread_id:
   - 49914502
 categories:

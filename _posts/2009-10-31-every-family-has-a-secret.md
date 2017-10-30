@@ -2,7 +2,6 @@
 title: Every Family Has A Secret
 author: bsoist
 layout: post
-permalink: /2009/10/31/every-family-has-a-secret/
 ATITLE:
   - Tetro
 ASIN:

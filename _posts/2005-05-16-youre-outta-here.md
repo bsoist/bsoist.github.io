@@ -2,7 +2,6 @@
 title: 'You&#8217;re Outta Here'
 author: bsoist
 layout: post
-permalink: /2005/05/16/youre-outta-here/
 dsq_thread_id:
   - 49942983
 categories:

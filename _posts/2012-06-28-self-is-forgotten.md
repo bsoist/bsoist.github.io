@@ -2,7 +2,6 @@
 title: Self Is Forgotten
 author: bsoist
 layout: post
-permalink: /2012/06/28/self-is-forgotten/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Quixtar Links
 author: bsoist
 layout: post
-permalink: /2005/07/21/quixtar-links/
 dsq_thread_id:
   - 49831451
 categories:

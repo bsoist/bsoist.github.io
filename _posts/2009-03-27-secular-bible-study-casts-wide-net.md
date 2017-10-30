@@ -2,7 +2,6 @@
 title: 'Great Idea: Secular Bible Study'
 author: bsoist
 layout: post
-redirect-from: /2009/03/27/secular-bible-study-casts-wide-net/
 dsq_thread_id:
   - 47856607
 categories:

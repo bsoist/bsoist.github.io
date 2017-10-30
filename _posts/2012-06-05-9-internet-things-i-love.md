@@ -2,7 +2,6 @@
 title: 9 Internet Things I Love
 author: bsoist
 layout: post
-permalink: /2012/06/05/9-internet-things-i-love/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

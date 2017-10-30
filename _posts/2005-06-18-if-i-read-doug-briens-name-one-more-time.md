@@ -2,7 +2,6 @@
 title: 'If I read his name one more time&#8230;'
 author: bsoist
 layout: post
-permalink: /2005/06/18/if-i-read-doug-briens-name-one-more-time/
 dsq_thread_id:
   - 49943497
 categories:

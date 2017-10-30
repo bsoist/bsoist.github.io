@@ -2,7 +2,6 @@
 title: 'Creation and Evolution &#8211; My View'
 author: bsoist
 layout: post
-permalink: /2012/06/13/creation-and-evolution-my-view/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

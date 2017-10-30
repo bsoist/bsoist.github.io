@@ -2,7 +2,6 @@
 title: 'Cory Doctorow &#8211; Grossly Deceitful?'
 author: bsoist
 layout: post
-permalink: /2009/03/02/cory-doctorow-grossly-misleading/
 categories:
   - freedom
 ---

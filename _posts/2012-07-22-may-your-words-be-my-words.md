@@ -2,7 +2,6 @@
 title: May Your Words Be My Words
 author: bsoist
 layout: post
-permalink: /2012/07/22/may-your-words-be-my-words/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

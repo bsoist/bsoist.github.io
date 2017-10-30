@@ -2,7 +2,6 @@
 title: The People Business
 author: bsoist
 layout: post
-permalink: /2005/04/24/the-people-business/
 dsq_thread_id:
   - 48482550
 categories:

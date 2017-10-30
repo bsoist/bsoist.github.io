@@ -2,7 +2,6 @@
 title: 'King&#8217;s Other Dream'
 author: bsoist
 layout: post
-permalink: /2010/01/18/kings-other-dream/
 dsq_thread_id:
   - 59527442
 categories:

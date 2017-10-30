@@ -2,7 +2,6 @@
 title: Stop the Bleeding
 author: bsoist
 layout: post
-permalink: /2012/03/23/stop-the-bleeding/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

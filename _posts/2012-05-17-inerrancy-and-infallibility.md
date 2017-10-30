@@ -2,7 +2,6 @@
 title: Inerrancy and Infallibility
 author: bsoist
 layout: post
-permalink: /2012/05/17/inerrancy-and-infallibility/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

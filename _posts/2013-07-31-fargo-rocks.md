@@ -2,7 +2,6 @@
 title: Fargo Rocks!
 author: bsoist
 layout: post
-permalink: /2013/07/31/fargo-rocks/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

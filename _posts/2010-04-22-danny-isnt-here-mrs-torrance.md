@@ -2,7 +2,6 @@
 title: 'Danny isn&#8217;t here, Mrs. Torrance.'
 author: bsoist
 layout: post
-permalink: /2010/04/22/danny-isnt-here-mrs-torrance/
 ASIN:
   - B000UJ48WC
 AIMG:

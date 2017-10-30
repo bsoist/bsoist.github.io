@@ -2,7 +2,6 @@
 title: 'Kickstarter &#8211; My New Obsession and 12in12 for March'
 author: bsoist
 layout: post
-permalink: /2012/03/01/kickstarter-my-new-obsession-and-12in12-for-march/
 dsq_thread_id:
   - 594917319
 pdrp_attributionLocation:

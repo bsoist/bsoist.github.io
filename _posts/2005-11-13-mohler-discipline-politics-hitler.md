@@ -2,7 +2,6 @@
 title: Religion and Politics
 author: bsoist
 layout: post
-permalink: /2005/11/13/mohler-discipline-politics-hitler/
 dsq_thread_id:
   - 48981526
 categories:

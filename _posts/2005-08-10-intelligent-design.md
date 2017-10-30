@@ -2,7 +2,6 @@
 title: Intelligent Design
 author: bsoist
 layout: post
-permalink: /2005/08/10/intelligent-design/
 dsq_thread_id:
   - 49943233
 categories:

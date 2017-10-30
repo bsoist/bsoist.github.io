@@ -2,7 +2,6 @@
 title: Oscar Picks
 author: bsoist
 layout: post
-permalink: /2009/02/22/oscar-picks/
 categories:
   - fun
 tags:

@@ -2,7 +2,6 @@
 title: 'Great Site: Flickchart.com'
 author: bsoist
 layout: post
-permalink: /2009/07/14/great-site-flickchartcom/
 dsq_thread_id:
   - 49079513
 categories:

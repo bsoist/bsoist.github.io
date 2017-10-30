@@ -2,7 +2,6 @@
 title: SoW Pop-Up Juice
 author: bsoist
 layout: post
-permalink: /2012/03/11/sow-pop-up-juice/
 dsq_thread_id:
   - 607226384
 categories:

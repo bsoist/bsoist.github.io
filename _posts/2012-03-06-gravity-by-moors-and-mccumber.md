@@ -2,7 +2,6 @@
 title: Gravity by Moors and McCumber
 author: bsoist
 layout: post
-permalink: /2012/03/06/gravity-by-moors-and-mccumber/
 dsq_thread_id:
   - 600721458
 categories:

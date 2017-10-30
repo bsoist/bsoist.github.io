@@ -2,7 +2,6 @@
 title: 'It&#8217;s Called DOS'
 author: bsoist
 layout: post
-permalink: /2010/04/22/its-called-dos/
 ATITLE:
   - The Pirates of Silicon Valley
 ASIN:

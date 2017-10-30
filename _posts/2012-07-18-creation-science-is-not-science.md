@@ -2,7 +2,6 @@
 title: 'Creation &#8220;Science&#8221; is not Science'
 author: bsoist
 layout: post
-permalink: /2012/07/18/creation-science-is-not-science/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

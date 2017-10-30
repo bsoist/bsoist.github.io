@@ -2,7 +2,6 @@
 title: Why I Changed My Political Views on Facebook
 author: bsoist
 layout: post
-permalink: /2010/10/05/why-i-changed-my-political-views-on-facebook/
 dsq_thread_id:
   - 151554906
 categories:

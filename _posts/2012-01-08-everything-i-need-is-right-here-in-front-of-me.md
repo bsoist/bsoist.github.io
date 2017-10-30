@@ -2,7 +2,6 @@
 title: Everything I Need Is Right Here in Front of Me
 author: bsoist
 layout: post
-permalink: /2012/01/08/everything-i-need-is-right-here-in-front-of-me/
 dsq_thread_id:
   - 531755154
 categories:

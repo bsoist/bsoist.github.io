@@ -2,7 +2,6 @@
 title: 'I just don&#8217;t like bad pizza'
 author: bsoist
 layout: post
-permalink: /2013/02/22/i-just-dont-like-bad-pizza/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

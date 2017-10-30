@@ -2,7 +2,6 @@
 title: Is Intelligent Design Science?
 author: bsoist
 layout: post
-permalink: /2009/10/19/is-intelligent-design-science/
 dsq_thread_id:
   - 48109822
 categories:

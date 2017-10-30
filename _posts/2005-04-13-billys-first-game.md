@@ -2,7 +2,6 @@
 title: 'Billy&#8217;s First Game'
 author: bsoist
 layout: post
-permalink: /2005/04/13/billys-first-game/
 dsq_thread_id:
   - 49902793
 categories:

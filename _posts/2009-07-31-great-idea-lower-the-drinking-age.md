@@ -2,7 +2,6 @@
 title: 'Great Idea: Lower the Drinking Age'
 author: bsoist
 layout: post
-permalink: /2009/07/31/great-idea-lower-the-drinking-age/
 categories:
   - fun
 ---

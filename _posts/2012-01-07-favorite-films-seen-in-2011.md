@@ -2,7 +2,6 @@
 title: Favorite Films Seen in 2011
 author: bsoist
 layout: post
-permalink: /2012/01/07/favorite-films-seen-in-2011/
 dsq_thread_id:
   - 530569259
 categories:

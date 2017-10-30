@@ -2,7 +2,6 @@
 title: Outside Church
 author: bsoist
 layout: post
-permalink: /2012/07/01/outside-church/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

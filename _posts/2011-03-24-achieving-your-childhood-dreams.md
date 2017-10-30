@@ -2,7 +2,6 @@
 title: Achieving Your Childhood Dreams
 author: bsoist
 layout: post
-permalink: /2011/03/24/achieving-your-childhood-dreams/
 ASIN:
   - B00139VU7E
 ATITLE:

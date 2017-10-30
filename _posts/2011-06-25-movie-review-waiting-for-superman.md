@@ -2,7 +2,6 @@
 title: 'Movie Review: Waiting for &#8220;Superman&#8221;'
 author: bsoist
 layout: post
-permalink: /2011/06/25/movie-review-waiting-for-superman/
 ASIN:
   - B003Q6D28W
 dsq_thread_id:

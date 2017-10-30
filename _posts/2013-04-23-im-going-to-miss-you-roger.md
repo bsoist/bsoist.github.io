@@ -2,7 +2,6 @@
 title: 'I&#8217;m going to miss you Roger'
 author: bsoist
 layout: post
-permalink: /2013/04/23/im-going-to-miss-you-roger/
 pdrp_attributionLocation:
   - end
 categories:

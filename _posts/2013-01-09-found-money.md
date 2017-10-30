@@ -2,7 +2,6 @@
 title: '&#8220;Found&#8221; Money'
 author: bsoist
 layout: post
-permalink: /2013/01/09/found-money/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

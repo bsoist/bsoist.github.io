@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays: Rainbow in the Dark'
 author: bsoist
 layout: post
-permalink: /2012/05/21/rainbow-in-the-dark/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

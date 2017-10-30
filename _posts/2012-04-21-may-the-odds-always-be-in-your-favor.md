@@ -2,7 +2,6 @@
 title: May The Odds Ever Be In Your Favor
 author: bsoist
 layout: post
-permalink: /2012/04/21/may-the-odds-always-be-in-your-favor/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

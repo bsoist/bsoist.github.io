@@ -2,7 +2,6 @@
 title: Vacation Pics
 author: bsoist
 layout: post
-permalink: /2005/04/11/vacation-pics/
 dsq_thread_id:
   - 48214768
 categories:

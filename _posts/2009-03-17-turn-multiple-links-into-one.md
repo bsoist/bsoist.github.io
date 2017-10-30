@@ -2,7 +2,6 @@
 title: Turn Multiple Links Into One
 author: bsoist
 layout: post
-permalink: /2009/03/17/turn-multiple-links-into-one/
 dsq_thread_id:
   - 47874063
 categories:

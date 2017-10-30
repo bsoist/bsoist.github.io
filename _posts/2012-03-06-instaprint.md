@@ -2,7 +2,6 @@
 title: Instaprint
 author: bsoist
 layout: post
-permalink: /2012/03/06/instaprint/
 dsq_thread_id:
   - 600721417
 categories:

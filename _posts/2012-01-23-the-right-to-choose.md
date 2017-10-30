@@ -2,7 +2,6 @@
 title: The Right To Choose
 author: bsoist
 layout: post
-permalink: /2012/01/23/the-right-to-choose/
 dsq_thread_id:
   - 549830142
 categories:

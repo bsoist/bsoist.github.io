@@ -2,7 +2,6 @@
 title: Art Matters!
 author: bsoist
 layout: post
-permalink: /2013/02/20/art-matters/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

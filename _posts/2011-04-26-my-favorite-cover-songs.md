@@ -2,7 +2,6 @@
 title: My Favorite Cover Songs
 author: bsoist
 layout: post
-permalink: /2011/04/26/my-favorite-cover-songs/
 dsq_thread_id:
   - 288964340
 categories:

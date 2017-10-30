@@ -2,7 +2,6 @@
 title: Christianity and Liberalism
 author: bsoist
 layout: post
-permalink: /2011/07/21/christianity-and-liberalism/
 ASIN:
   - 0802864996
 dsq_thread_id:

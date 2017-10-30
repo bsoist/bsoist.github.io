@@ -2,7 +2,6 @@
 title: How is my flow?
 author: bsoist
 layout: post
-permalink: /2013/02/01/how-is-my-flow/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

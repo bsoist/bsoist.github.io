@@ -2,7 +2,6 @@
 title: Kids are scientists, until
 author: bsoist
 layout: post
-permalink: /2013/02/07/kids-are-scientists-until/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

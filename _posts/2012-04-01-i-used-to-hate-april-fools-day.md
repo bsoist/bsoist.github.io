@@ -2,7 +2,6 @@
 title: I used to hate April Fools Day
 author: bsoist
 layout: post
-permalink: /2012/04/01/i-used-to-hate-april-fools-day/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

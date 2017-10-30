@@ -2,7 +2,6 @@
 title: 'He&#8217;s just so smug'
 author: bsoist
 layout: post
-permalink: /2013/05/14/hes-just-so-smug/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

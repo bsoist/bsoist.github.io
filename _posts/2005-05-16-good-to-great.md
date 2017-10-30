@@ -2,7 +2,6 @@
 title: Good To Great
 author: bsoist
 layout: post
-permalink: /2005/05/16/good-to-great/
 dsq_thread_id:
   - 48129398
 categories:

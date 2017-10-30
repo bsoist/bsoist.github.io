@@ -2,7 +2,6 @@
 title: The Wall of Shame
 author: bsoist
 layout: post
-permalink: /2012/05/01/the-wall-of-shame/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

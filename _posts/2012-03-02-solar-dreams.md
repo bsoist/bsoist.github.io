@@ -2,7 +2,6 @@
 title: Solar Dreams
 author: bsoist
 layout: post
-permalink: /2012/03/02/solar-dreams/
 dsq_thread_id:
   - 596141871
 categories:

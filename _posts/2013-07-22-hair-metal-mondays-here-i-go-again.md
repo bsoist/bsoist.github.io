@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays &#8211; Here I go Again'
 author: bsoist
 layout: post
-permalink: /2013/07/22/hair-metal-mondays-here-i-go-again/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

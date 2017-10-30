@@ -2,7 +2,6 @@
 title: Defend Innovation
 author: bsoist
 layout: post
-permalink: /2012/07/03/defend-innovation/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: 'Capitalism: A Love Story'
 author: bsoist
 layout: post
-permalink: /2009/10/23/capitalism-a-love-story/
 ASIN:
   - B002LVVCJE
 ATITLE:

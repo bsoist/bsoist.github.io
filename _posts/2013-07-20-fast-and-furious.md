@@ -2,7 +2,6 @@
 title: Fast and Furious
 author: bsoist
 layout: post
-permalink: /2013/07/20/fast-and-furious/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

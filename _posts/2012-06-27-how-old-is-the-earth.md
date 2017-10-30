@@ -2,7 +2,6 @@
 title: So, How Old is the Earth?
 author: bsoist
 layout: post
-permalink: /2012/06/27/how-old-is-the-earth/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

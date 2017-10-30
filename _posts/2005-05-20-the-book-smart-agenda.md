@@ -2,7 +2,6 @@
 title: The Book-Smart Agenda
 author: bsoist
 layout: post
-permalink: /2005/05/20/the-book-smart-agenda/
 dsq_thread_id:
   - 50035842
 categories:

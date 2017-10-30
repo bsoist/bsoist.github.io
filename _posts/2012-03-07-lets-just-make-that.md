@@ -2,7 +2,6 @@
 title: 'Let&#8217;s Just Make That!'
 author: bsoist
 layout: post
-permalink: /2012/03/07/lets-just-make-that/
 dsq_thread_id:
   - 602110479
 categories:

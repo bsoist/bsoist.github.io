@@ -2,7 +2,6 @@
 title: Gran Torino
 author: bsoist
 layout: post
-permalink: /2009/02/07/gran-torino/
 ASIN:
   - B001KVZ6FC, B001KVZ6ES
 ATITLE:

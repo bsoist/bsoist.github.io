@@ -2,7 +2,6 @@
 title: The Catechism of Milton Friedman
 author: bsoist
 layout: post
-permalink: /2012/04/17/the-catechism-of-milton-friedman/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

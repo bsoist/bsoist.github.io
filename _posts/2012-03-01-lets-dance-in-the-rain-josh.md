@@ -2,7 +2,6 @@
 title: 'Let&#8217;s Dance in the Rain Josh'
 author: bsoist
 layout: post
-permalink: /2012/03/01/lets-dance-in-the-rain-josh/
 dsq_thread_id:
   - 594953441
 categories:

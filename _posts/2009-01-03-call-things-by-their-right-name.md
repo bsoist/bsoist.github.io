@@ -2,7 +2,6 @@
 title: Call Things by Their Right Name
 author: bsoist
 layout: post
-permalink: /2009/01/03/call-things-by-their-right-name/
 ASIN:
   - B001GMH8SI, B000ZN802W
 ATITLE:

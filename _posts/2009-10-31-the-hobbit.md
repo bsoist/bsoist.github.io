@@ -2,7 +2,6 @@
 title: The Hobbit
 author: bsoist
 layout: post
-permalink: /2009/10/31/the-hobbit/
 ATITLE:
   - The Hobbit
 ASIN:

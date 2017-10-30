@@ -2,7 +2,6 @@
 title: Good Work Son!
 author: bsoist
 layout: post
-permalink: /2005/08/11/billy-johns-hopkins/
 dsq_thread_id:
   - 48433838
 categories:

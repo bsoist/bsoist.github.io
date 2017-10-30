@@ -2,7 +2,6 @@
 title: Touch Not the Unclean Thing
 author: bsoist
 layout: post
-permalink: /2009/10/17/touch-not-the-unclean-thing/
 ASIN:
   - B0009UC7R0
 ATITLE:

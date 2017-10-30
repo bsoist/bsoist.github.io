@@ -2,7 +2,6 @@
 title: Do cheaters belong in the hall of fame?
 author: bsoist
 layout: post
-permalink: /2013/01/10/do-cheaters-belong-in-the-hall-of-fame/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: T-E-B-O-W, Tebow! Tebow! Tebow!
 author: bsoist
 layout: post
-permalink: /2012/04/04/t-e-b-o-w-tebow-tebow-tebow/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

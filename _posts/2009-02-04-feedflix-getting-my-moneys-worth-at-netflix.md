@@ -2,7 +2,6 @@
 title: 'FeedFlix: Getting My Money&#8217;s Worth at Netflix'
 author: bsoist
 layout: post
-permalink: /2009/02/04/feedflix-getting-my-moneys-worth-at-netflix/
 dsq_thread_id:
   - 47924364
 categories:

@@ -2,7 +2,6 @@
 title: The Third Chimpanzee
 author: bsoist
 layout: post
-permalink: /2009/01/03/the-third-chimpanzee/
 AIMG:
   - 51WT94FWVKL
 ATITLE:

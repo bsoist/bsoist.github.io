@@ -2,7 +2,6 @@
 title: 'We Don&#8217;t Need No Stinking Windows'
 author: bsoist
 layout: post
-permalink: /2012/07/02/we-dont-need-no-stinking-windows/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

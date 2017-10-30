@@ -2,7 +2,6 @@
 title: 'Flushing Friday: It&#8217;s Fun Again'
 author: bsoist
 layout: post
-permalink: /2012/05/18/flushing-friday-its-fun-again/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

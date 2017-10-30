@@ -2,7 +2,6 @@
 title: Who Watches the Watchmen
 author: bsoist
 layout: post
-permalink: /2009/03/04/who-watches-the-watchmen/
 dsq_thread_id:
   - 48465261
 categories:

@@ -2,7 +2,6 @@
 title: And where did they come from?
 author: bsoist
 layout: post
-permalink: /2012/07/07/and-where-did-they-come-from/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

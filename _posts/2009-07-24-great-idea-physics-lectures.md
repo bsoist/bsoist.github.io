@@ -2,7 +2,6 @@
 title: 'Great Idea: from Bill Gates'
 author: bsoist
 layout: post
-permalink: /2009/07/24/great-idea-physics-lectures/
 categories:
   - fun
 ---

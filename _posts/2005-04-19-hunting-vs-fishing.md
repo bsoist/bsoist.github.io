@@ -2,7 +2,6 @@
 title: Hunting vs. Fishing
 author: bsoist
 layout: post
-permalink: /2005/04/19/hunting-vs-fishing/
 dsq_thread_id:
   - 49417623
 categories:

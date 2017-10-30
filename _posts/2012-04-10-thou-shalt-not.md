@@ -2,7 +2,6 @@
 title: 'Thou Shalt Not &#8230;'
 author: bsoist
 layout: post
-permalink: /2012/04/10/thou-shalt-not/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

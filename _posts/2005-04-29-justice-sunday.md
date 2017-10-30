@@ -2,7 +2,6 @@
 title: Justice Sunday
 author: bsoist
 layout: post
-permalink: /2005/04/29/justice-sunday/
 dsq_thread_id:
   - 48481357
 categories:

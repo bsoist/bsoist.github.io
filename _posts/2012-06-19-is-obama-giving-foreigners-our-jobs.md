@@ -2,7 +2,6 @@
 title: Is Obama Giving Foreigners Our Jobs?
 author: bsoist
 layout: post
-permalink: /2012/06/19/is-obama-giving-foreigners-our-jobs/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: 'Interesting Sites &#8211; 1/8/2012'
 author: bsoist
 layout: post
-permalink: /2012/01/08/interesting-sites-182012/
 dsq_thread_id:
   - 531494553
 categories:

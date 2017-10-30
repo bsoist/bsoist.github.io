@@ -2,7 +2,6 @@
 title: The Monks of Tibhirine
 author: bsoist
 layout: post
-permalink: /2011/06/16/the-monks-of-tibhirine/
 ASIN:
   - 0312302940
 dsq_thread_id:

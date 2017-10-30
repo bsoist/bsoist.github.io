@@ -2,7 +2,6 @@
 title: 'Interesting Sites &#8211; 2/12/2012'
 author: bsoist
 layout: post
-permalink: /2012/02/12/interesting-sites-2122012/
 dsq_thread_id:
   - 573180566
 categories:

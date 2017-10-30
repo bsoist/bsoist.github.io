@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays: The Final Coundown'
 author: bsoist
 layout: post
-permalink: /2012/07/09/hair-metal-mondays-the-final-coundown/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: PressurePen
 author: bsoist
 layout: post
-permalink: /2012/03/26/pressurepen/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

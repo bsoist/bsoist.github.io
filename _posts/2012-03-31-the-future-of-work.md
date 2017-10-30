@@ -2,7 +2,6 @@
 title: The Future of Work
 author: bsoist
 layout: post
-permalink: /2012/03/31/the-future-of-work/
 dsq_thread_id:
   - 631341138
 pdrp_attributionLocation:

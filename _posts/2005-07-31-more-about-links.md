@@ -2,7 +2,6 @@
 title: More About Links
 author: bsoist
 layout: post
-permalink: /2005/07/31/more-about-links/
 dsq_thread_id:
   - 48136765
 categories:

@@ -2,7 +2,6 @@
 title: No More Bullies!
 author: bsoist
 layout: post
-permalink: /2012/04/25/no-more-bullies/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

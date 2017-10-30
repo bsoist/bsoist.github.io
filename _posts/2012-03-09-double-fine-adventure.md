@@ -2,7 +2,6 @@
 title: Double Fine Adventure
 author: bsoist
 layout: post
-permalink: /2012/03/09/double-fine-adventure/
 dsq_thread_id:
   - 604892221
 categories:

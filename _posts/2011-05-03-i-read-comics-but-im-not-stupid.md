@@ -2,7 +2,6 @@
 title: 'I Read Comics but I&#8217;m not Stupid!'
 author: bsoist
 layout: post
-permalink: /2011/05/03/i-read-comics-but-im-not-stupid/
 dsq_thread_id:
   - 294259023
 categories:

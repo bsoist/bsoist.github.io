@@ -2,7 +2,6 @@
 title: Happy Holidays!
 author: bsoist
 layout: post
-permalink: /2009/12/07/happy-holidays/
 dsq_thread_id:
   - 50315779
 categories:

@@ -2,7 +2,6 @@
 title: The Greatest Band of Our Time
 author: bsoist
 layout: post
-permalink: /2009/03/31/the-greatest-band-of-our-time/
 dsq_thread_id:
   - 47872087
 categories:

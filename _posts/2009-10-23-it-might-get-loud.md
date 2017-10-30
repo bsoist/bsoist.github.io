@@ -2,7 +2,6 @@
 title: It Might Get Loud
 author: bsoist
 layout: post
-permalink: /2009/10/23/it-might-get-loud/
 AIMG:
   - HOSTED
 ASIN:

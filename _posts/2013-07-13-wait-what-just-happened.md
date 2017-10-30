@@ -2,7 +2,6 @@
 title: Wait, what just happened?
 author: bsoist
 layout: post
-permalink: /2013/07/13/wait-what-just-happened/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

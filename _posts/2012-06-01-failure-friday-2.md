@@ -2,7 +2,6 @@
 title: Failure Friday
 author: bsoist
 layout: post
-permalink: /2012/06/01/failure-friday-2/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

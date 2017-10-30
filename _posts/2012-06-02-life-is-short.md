@@ -2,7 +2,6 @@
 title: Life is Short
 author: bsoist
 layout: post
-permalink: /2012/06/02/life-is-short/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

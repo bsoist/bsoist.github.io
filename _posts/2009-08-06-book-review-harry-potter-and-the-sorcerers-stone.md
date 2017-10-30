@@ -2,7 +2,6 @@
 title: 'Book Review: Harry Potter and the Sorcerer&#8217;s Stone'
 author: bsoist
 layout: post
-permalink: /2009/08/06/book-review-harry-potter-and-the-sorcerers-stone/
 AIMG:
   - 51qGerE%2BdNL
 ATITLE:

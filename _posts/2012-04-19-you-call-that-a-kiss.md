@@ -2,7 +2,6 @@
 title: You Call that a Kiss?
 author: bsoist
 layout: post
-permalink: /2012/04/19/you-call-that-a-kiss/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

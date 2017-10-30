@@ -2,7 +2,6 @@
 title: Well, It Was a Good Run
 author: bsoist
 layout: post
-permalink: /2012/06/12/well-it-was-a-good-run/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

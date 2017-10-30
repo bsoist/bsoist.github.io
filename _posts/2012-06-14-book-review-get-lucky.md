@@ -2,7 +2,6 @@
 title: 'Book Review: Get Lucky'
 author: bsoist
 layout: post
-permalink: /2012/06/14/book-review-get-lucky/
 dsq_thread_id:
   - 726452877
 pdrp_attributionLocation:

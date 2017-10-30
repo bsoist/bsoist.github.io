@@ -2,7 +2,6 @@
 title: Class Warfare?
 author: bsoist
 layout: post
-permalink: /2012/01/27/class-warfare/
 dsq_thread_id:
   - 554718869
 categories:

@@ -2,7 +2,6 @@
 title: Birthday Celebration in New York
 author: bsoist
 layout: post
-permalink: /2012/04/15/birthday-celebration-in-new-york/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

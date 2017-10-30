@@ -2,7 +2,6 @@
 title: Slumdog Millionaire Steals the Show
 author: bsoist
 layout: post
-permalink: /2009/02/23/slumdog-millionaire-steals-the-show/
 dsq_thread_id:
   - 50148821
 categories:

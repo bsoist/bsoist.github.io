@@ -2,7 +2,6 @@
 title: 'I&#8217;ll get paid for killing, and this town is full of people who deserve to die.'
 author: bsoist
 layout: post
-permalink: /2010/03/26/ill-get-paid-for-killing-and-this-town-is-full-of-people-who-deserve-to-die/
 ASIN:
   - B003152Z4U
 AIMG:

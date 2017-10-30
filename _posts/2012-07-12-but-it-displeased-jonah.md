@@ -2,7 +2,6 @@
 title: But it displeased Jonah
 author: bsoist
 layout: post
-permalink: /2012/07/12/but-it-displeased-jonah/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

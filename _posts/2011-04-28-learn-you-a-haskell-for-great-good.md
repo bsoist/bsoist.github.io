@@ -2,7 +2,6 @@
 title: Learn You a Haskell for Great Good
 author: bsoist
 layout: post
-permalink: /2011/04/28/learn-you-a-haskell-for-great-good/
 ATITLE:
   - Learn You a Haskell for Great Good
 ASIN:

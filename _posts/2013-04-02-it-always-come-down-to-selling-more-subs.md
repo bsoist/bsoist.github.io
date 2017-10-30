@@ -2,7 +2,6 @@
 title: It always comes down to selling more subs
 author: bsoist
 layout: post
-permalink: /2013/04/02/it-always-come-down-to-selling-more-subs/
 dsq_thread_id:
   - 1181983579
 categories:

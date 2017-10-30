@@ -2,7 +2,6 @@
 title: It Seems Diplomacy Has Failed
 author: bsoist
 layout: post
-permalink: /2010/04/22/it-seems-diplomacy-has-failed/
 AIMG:
   - 512Kb3ix8VL
 ATITLE:

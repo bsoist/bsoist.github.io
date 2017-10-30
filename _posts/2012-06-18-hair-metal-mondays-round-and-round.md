@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays: Round and Round'
 author: bsoist
 layout: post
-permalink: /2012/06/18/hair-metal-mondays-round-and-round/
 dsq_thread_id:
   - 731308142
 pdrp_attributionLocation:

@@ -2,7 +2,6 @@
 title: 'NFL Players Player&#8217;s Talk About Barack Obama'
 author: bsoist
 layout: post
-permalink: /2009/01/27/nfl-players-players-talk-about-barack-obama/
 dsq_thread_id:
   - 53609030
 categories:

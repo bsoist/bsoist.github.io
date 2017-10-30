@@ -2,7 +2,6 @@
 title: 'Mild About Harriet &#8211; Newsweek National News &#8211; MSNBC.com'
 author: bsoist
 layout: post
-permalink: /2005/10/23/mild-about-harriet-newsweek-national-news-msnbccom/
 dsq_thread_id:
   - 49943511
 categories:

@@ -2,7 +2,6 @@
 title: Do you see what I see?
 author: bsoist
 layout: post
-permalink: /2012/12/26/do-you-see-what-i-see/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

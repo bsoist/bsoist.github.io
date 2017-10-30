@@ -2,7 +2,6 @@
 title: You See, I Have This Condition
 author: bsoist
 layout: post
-permalink: /2009/10/23/you-see-i-have-this-condition/
 ATITLE:
   - Memento
 ASIN:

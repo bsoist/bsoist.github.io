@@ -2,7 +2,6 @@
 title: Music is all around us
 author: bsoist
 layout: post
-permalink: /2009/01/03/music-is-all-around-us/
 ASIN:
   - B00133KHCY ,B00133KFGW
 ATITLE:

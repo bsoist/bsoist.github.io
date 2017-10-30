@@ -2,7 +2,6 @@
 title: Update on My Oscar Hunt
 author: bsoist
 layout: post
-permalink: /2009/02/15/update-on-my-oscar-hunt/
 categories:
   - fun
 tags:

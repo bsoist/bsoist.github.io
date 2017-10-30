@@ -2,7 +2,6 @@
 title: Not what the lawyers will allow, but what the public deserves
 author: bsoist
 layout: post
-permalink: /2005/10/14/not-what-the-lawyers-will-allow-but-what-the-public-deserves/
 dsq_thread_id:
   - 48187819
 categories:

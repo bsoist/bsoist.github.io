@@ -2,7 +2,6 @@
 title: Quite A Weekend
 author: bsoist
 layout: post
-permalink: /2005/05/22/quite-a-weekend/
 categories:
   - family
 ---

@@ -2,7 +2,6 @@
 title: What Google Can Teach Us About Us
 author: bsoist
 layout: post
-permalink: /2010/01/20/what-google-can-teach-us-about-us/
 dsq_thread_id:
   - 60058364
 categories:

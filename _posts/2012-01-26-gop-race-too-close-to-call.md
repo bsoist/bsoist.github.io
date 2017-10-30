@@ -2,7 +2,6 @@
 title: GOP Race Too Close to Call
 author: bsoist
 layout: post
-permalink: /2012/01/26/gop-race-too-close-to-call/
 dsq_thread_id:
   - 553297978
 categories:

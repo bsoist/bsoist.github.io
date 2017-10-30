@@ -2,7 +2,6 @@
 title: The Other Five
 author: bsoist
 layout: post
-permalink: /2011/02/05/the-other-five/
 dsq_thread_id:
   - 223598184
 categories:

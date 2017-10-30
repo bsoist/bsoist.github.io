@@ -2,7 +2,6 @@
 title: Google Maps
 author: bsoist
 layout: post
-permalink: /2005/07/14/google-maps/
 dsq_thread_id:
   - 50481179
 categories:

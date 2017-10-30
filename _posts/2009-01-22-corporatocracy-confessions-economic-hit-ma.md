@@ -2,7 +2,6 @@
 title: The Corporatocracy
 author: bsoist
 layout: post
-permalink: /2009/01/22/corporatocracy-confessions-economic-hit-ma/
 AIMG:
   - 5120F8W5WDL
 ASIN:

@@ -2,7 +2,6 @@
 title: 'Famous Dave&#8217;s'
 author: bsoist
 layout: post
-permalink: /2005/05/20/famous-daves/
 dsq_thread_id:
   - 49102839
 categories:

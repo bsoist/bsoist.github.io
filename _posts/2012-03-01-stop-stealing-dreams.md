@@ -2,7 +2,6 @@
 title: Stop Stealing Dreams
 author: bsoist
 layout: post
-permalink: /2012/03/01/stop-stealing-dreams/
 dsq_thread_id:
   - 594907342
 categories:

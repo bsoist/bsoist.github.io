@@ -2,7 +2,6 @@
 title: 'Celebration &amp; Preservation'
 author: bsoist
 layout: post
-permalink: /2012/03/15/celebration-preservation/
 dsq_thread_id:
   - 612623408
 categories:

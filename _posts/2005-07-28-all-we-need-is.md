@@ -2,7 +2,6 @@
 title: All we need is . . .
 author: bsoist
 layout: post
-permalink: /2005/07/28/all-we-need-is/
 categories:
   - freedom
 ---

@@ -2,7 +2,6 @@
 title: Family Fun Flushing Friday
 author: bsoist
 layout: post
-permalink: /2013/01/11/family-fun-flushing-friday/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

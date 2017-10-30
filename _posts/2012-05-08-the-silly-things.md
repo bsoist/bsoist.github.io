@@ -2,7 +2,6 @@
 title: 'The &#8220;Silly&#8221; Things'
 author: bsoist
 layout: post
-permalink: /2012/05/08/the-silly-things/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

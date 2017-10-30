@@ -2,7 +2,6 @@
 title: 'Life is what happens while you&#8217;re making other plans'
 author: bsoist
 layout: post
-permalink: /2013/04/03/life-is-what-happens-while-youre-making-other-plans/
 dsq_thread_id:
   - 1184237140
 categories:

@@ -2,7 +2,6 @@
 title: I Want my 99 cents back
 author: bsoist
 layout: post
-permalink: /2011/01/05/i-want-my-99-cents-back/
 dsq_thread_id:
   - 203310995
 categories:

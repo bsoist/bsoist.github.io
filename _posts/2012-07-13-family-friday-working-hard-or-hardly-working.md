@@ -2,7 +2,6 @@
 title: 'Family Friday: Working Hard or Hardly Working'
 author: bsoist
 layout: post
-permalink: /2012/07/13/family-friday-working-hard-or-hardly-working/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

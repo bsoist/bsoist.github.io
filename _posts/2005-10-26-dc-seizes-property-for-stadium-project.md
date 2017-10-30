@@ -2,7 +2,6 @@
 title: D.C. Seizes Property For Stadium Project
 author: bsoist
 layout: post
-permalink: /2005/10/26/dc-seizes-property-for-stadium-project/
 dsq_thread_id:
   - 53606370
 categories:

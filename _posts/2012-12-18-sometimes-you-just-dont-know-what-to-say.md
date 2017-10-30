@@ -2,7 +2,6 @@
 title: 'Sometimes You Just Don&#8217;t Know What to Say'
 author: bsoist
 layout: post
-permalink: /2012/12/18/sometimes-you-just-dont-know-what-to-say/
 dsq_thread_id:
   - 980996247
 pdrp_attributionLocation:

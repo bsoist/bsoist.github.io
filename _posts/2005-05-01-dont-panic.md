@@ -2,7 +2,6 @@
 title: 'Don&#8217;t Panic'
 author: bsoist
 layout: post
-permalink: /2005/05/01/dont-panic/
 dsq_thread_id:
   - 49942631
 categories:

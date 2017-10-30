@@ -2,7 +2,6 @@
 title: Never get older
 author: bsoist
 layout: post
-permalink: /2013/07/13/never-get-older/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Another Garage Sale
 author: bsoist
 layout: post
-permalink: /2005/05/13/another-garage-sale/
 dsq_thread_id:
   - 49943273
 categories:

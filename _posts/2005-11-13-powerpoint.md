@@ -2,7 +2,6 @@
 title: Killer App
 author: bsoist
 layout: post
-permalink: /2005/11/13/powerpoint/
 categories:
   - fun
 tags:

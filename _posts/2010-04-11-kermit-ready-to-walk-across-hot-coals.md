@@ -2,7 +2,6 @@
 title: Kermit Ready to Walk Across Hot Coals
 author: bsoist
 layout: post
-permalink: /2010/04/11/kermit-ready-to-walk-across-hot-coals/
 dsq_thread_id:
   - 85156594
 categories:

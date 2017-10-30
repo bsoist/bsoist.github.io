@@ -2,7 +2,6 @@
 title: 'Back, back, back, back, back &#8230;'
 author: bsoist
 layout: post
-permalink: /2013/07/16/back-back-back-back-back/
 dsq_thread_id:
   - 
 pdrp_attributionLocation:

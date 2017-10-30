@@ -2,7 +2,6 @@
 title: My Favorite Films of 2010
 author: bsoist
 layout: post
-permalink: /2011/01/16/my-favorite-films-of-2010/
 dsq_thread_id:
   - 210348698
 categories:

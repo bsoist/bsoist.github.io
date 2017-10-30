@@ -2,7 +2,6 @@
 title: Playing for Pizza
 author: bsoist
 layout: post
-permalink: /2009/01/29/playing-for-pizza/
 ASIN:
   - 0440244714
 ATITLE:

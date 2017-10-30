@@ -2,7 +2,6 @@
 title: The Search for God and Guinness
 author: bsoist
 layout: post
-permalink: /2013/07/18/the-search-for-god-and-guinness/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

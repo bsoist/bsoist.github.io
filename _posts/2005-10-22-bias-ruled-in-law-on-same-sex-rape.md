@@ -2,7 +2,6 @@
 title: Bias Ruled in Law On Same-Sex Rape
 author: bsoist
 layout: post
-permalink: /2005/10/22/bias-ruled-in-law-on-same-sex-rape/
 dsq_thread_id:
   - 53604182
 categories:

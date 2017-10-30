@@ -2,7 +2,6 @@
 title: 'Jesus Junk &#8211; I don&#8217;t care if it&#8217;s illegal'
 author: bsoist
 layout: post
-permalink: /2010/01/11/jesus-junk-i-dont-care-if-its-illegal/
 dsq_thread_id:
   - 57634337
 categories:

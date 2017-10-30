@@ -2,7 +2,6 @@
 title: 'Family Friday &#8211; Kids on the Road'
 author: bsoist
 layout: post
-permalink: /2012/06/15/family-friday-kids-on-the-road/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Invincible
 author: bsoist
 layout: post
-permalink: /2009/01/31/invincible/
 ASIN:
   - B000J3OTT6, B000JYWEZG
 ATITLE:

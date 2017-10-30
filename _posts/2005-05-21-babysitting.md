@@ -2,7 +2,6 @@
 title: Babysitting
 author: bsoist
 layout: post
-permalink: /2005/05/21/babysitting/
 dsq_thread_id:
   - 49942678
 categories:

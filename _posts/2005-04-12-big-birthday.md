@@ -2,7 +2,6 @@
 title: Big Birthday
 author: bsoist
 layout: post
-permalink: /2005/04/12/big-birthday/
 dsq_thread_id:
   - 49942812
 categories:

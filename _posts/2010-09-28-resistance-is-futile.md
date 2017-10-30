@@ -2,7 +2,6 @@
 title: Resistance is Futile
 author: bsoist
 layout: post
-permalink: /2010/09/28/resistance-is-futile/
 dsq_thread_id:
   - 148180940
 categories:

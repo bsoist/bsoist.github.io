@@ -2,7 +2,6 @@
 title: 'A Freedom Fighter and An Extremist &#8211; Thank God!'
 author: bsoist
 layout: post
-permalink: /2009/01/19/martin-luther-king-freedom-fighter-extremist/
 dsq_thread_id:
   - 48885789
 categories:

@@ -2,7 +2,6 @@
 title: 'Look, I&#8217;ll Pay You For It'
 author: bsoist
 layout: post
-permalink: /2012/06/30/look-ill-pay-you-for-it/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

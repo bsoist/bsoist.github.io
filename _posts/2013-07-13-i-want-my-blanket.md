@@ -2,7 +2,6 @@
 title: I want my blanket!
 author: bsoist
 layout: post
-permalink: /2013/07/13/i-want-my-blanket/
 dsq_thread_id:
   - 1498461914
 pdrp_attributionLocation:

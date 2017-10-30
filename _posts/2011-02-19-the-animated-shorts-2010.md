@@ -2,7 +2,6 @@
 title: The Animated Shorts 2010
 author: bsoist
 layout: post
-permalink: /2011/02/19/the-animated-shorts-2010/
 dsq_thread_id:
   - 234627471
 categories:

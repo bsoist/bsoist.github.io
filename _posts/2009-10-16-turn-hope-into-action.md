@@ -2,7 +2,6 @@
 title: Turn Hope into Action
 author: bsoist
 layout: post
-permalink: /2009/10/16/turn-hope-into-action/
 categories:
   - faith
   - freedom

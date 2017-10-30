@@ -2,7 +2,6 @@
 title: 'That&#8217;s For Everything Else'
 author: bsoist
 layout: post
-permalink: /2010/04/22/thats-for-everything-else/
 ATITLE:
   - How to Train Your Dragon
 ASIN:

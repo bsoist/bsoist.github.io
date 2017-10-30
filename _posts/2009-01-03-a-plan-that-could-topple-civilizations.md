@@ -2,7 +2,6 @@
 title: A plan that could topple civilizations
 author: bsoist
 layout: post
-permalink: /2009/01/03/a-plan-that-could-topple-civilizations/
 ASIN:
   - 0786817879, 142312037X
 AIMG:

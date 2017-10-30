@@ -2,7 +2,6 @@
 title: Links for MLK Day
 author: bsoist
 layout: post
-permalink: /2012/01/16/links-for-mlk-day/
 dsq_thread_id:
   - 541570496
 categories:

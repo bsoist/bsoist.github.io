@@ -2,7 +2,6 @@
 title: TV and Football, a perfect combination
 author: bsoist
 layout: post
-permalink: /2013/02/03/tv-and-football-a-perfect-combination/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

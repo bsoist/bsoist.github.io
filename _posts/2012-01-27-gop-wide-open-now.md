@@ -2,7 +2,6 @@
 title: GOP Wide Open Now?
 author: bsoist
 layout: post
-permalink: /2012/01/27/gop-wide-open-now/
 dsq_thread_id:
   - 554761547
 categories:

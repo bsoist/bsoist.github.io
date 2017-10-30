@@ -2,7 +2,6 @@
 title: WhiteHouse.gov
 author: bsoist
 layout: post
-permalink: /2009/01/26/whitehouseorg/
 dsq_thread_id:
   - 50213919
 categories:

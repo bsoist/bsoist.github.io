@@ -2,7 +2,6 @@
 title: Super Bowl Ads
 author: bsoist
 layout: post
-permalink: /2009/02/01/super-bowl-ads/
 categories:
   - fun
 tags:

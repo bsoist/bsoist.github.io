@@ -2,7 +2,6 @@
 title: Missing mom on my birthday, and the arbitrary nature of time
 author: bsoist
 layout: post
-permalink: /2014/01/01/missing-mom-on-my-birthday-and-the-arbitrary-nature-of-time/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

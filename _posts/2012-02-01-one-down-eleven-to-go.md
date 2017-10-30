@@ -2,7 +2,6 @@
 title: One Down, Eleven to Go
 author: bsoist
 layout: post
-permalink: /2012/02/01/one-down-eleven-to-go/
 dsq_thread_id:
   - 560004050
 categories:

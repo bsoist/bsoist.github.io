@@ -2,7 +2,6 @@
 title: Your problem, not mine
 author: bsoist
 layout: post
-permalink: /2012/12/27/your-problem-not-mine/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

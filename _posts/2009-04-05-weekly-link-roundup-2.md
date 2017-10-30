@@ -2,7 +2,6 @@
 title: Weekly Link Roundup
 author: bsoist
 layout: post
-permalink: /2009/04/05/weekly-link-roundup-2/
 categories:
   - faith
   - family

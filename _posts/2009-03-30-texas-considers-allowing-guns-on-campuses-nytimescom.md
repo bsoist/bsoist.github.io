@@ -2,7 +2,6 @@
 title: 'Texas Considers Allowing Guns on Campuses &#8211; NYTimes.com'
 author: bsoist
 layout: post
-permalink: /2009/03/30/texas-considers-allowing-guns-on-campuses-nytimescom/
 dsq_thread_id:
   - 47856675
 categories:

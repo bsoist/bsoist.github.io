@@ -2,7 +2,6 @@
 title: Harry Potter
 author: bsoist
 layout: post
-permalink: /2011/07/25/harry-potter/
 dsq_thread_id:
   - 368210756
 categories:

@@ -2,7 +2,6 @@
 title: A Magical Story
 author: bsoist
 layout: post
-permalink: /2009/01/03/a-magical-story/
 AIMG:
   - 51AWyiCsRuL
 ASIN:

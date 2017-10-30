@@ -2,7 +2,6 @@
 title: Political Hate Talk
 author: bsoist
 layout: post
-permalink: /2011/01/13/political-hate-talk/
 dsq_thread_id:
   - 208486596
 categories:

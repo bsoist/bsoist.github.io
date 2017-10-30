@@ -2,7 +2,6 @@
 title: Reverse Discrimination
 author: bsoist
 layout: post
-permalink: /2005/10/23/reverse-discrimination/
 categories:
   - freedom
 ---

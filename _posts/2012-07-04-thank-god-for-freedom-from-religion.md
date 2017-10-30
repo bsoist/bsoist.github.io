@@ -2,7 +2,6 @@
 title: Thank God for Freedom From Religion
 author: bsoist
 layout: post
-redirect-from: /2012/07/04/thank-god-for-freedom-from-religion/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

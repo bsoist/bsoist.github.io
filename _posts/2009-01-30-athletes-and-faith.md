@@ -2,7 +2,6 @@
 title: Athletes and Faith
 author: bsoist
 layout: post
-permalink: /2009/01/30/athletes-and-faith/
 dsq_thread_id:
   - 50630550
 categories:

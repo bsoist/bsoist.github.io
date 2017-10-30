@@ -2,7 +2,6 @@
 title: 10 Things I Love About Google+
 author: bsoist
 layout: post
-permalink: /2011/07/27/10-things-i-love-about-google/
 dsq_thread_id:
   - 370076842
 categories:

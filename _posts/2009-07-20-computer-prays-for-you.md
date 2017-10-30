@@ -2,7 +2,6 @@
 title: Computer Prays for You
 author: bsoist
 layout: post
-permalink: /2009/07/20/computer-prays-for-you/
 categories:
   - fun
 tags:

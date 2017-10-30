@@ -2,7 +2,6 @@
 title: Will Marissa Mayer Save Flickr?
 author: bsoist
 layout: post
-permalink: /2012/07/17/will-marissa-mayer-save-flickr/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

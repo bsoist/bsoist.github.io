@@ -2,7 +2,6 @@
 title: 23 Years of Wedded Bliss
 author: bsoist
 layout: post
-permalink: /2012/07/15/23-years-of-wedded-bliss/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

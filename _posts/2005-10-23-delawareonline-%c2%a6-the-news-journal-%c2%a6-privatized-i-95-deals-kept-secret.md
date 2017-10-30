@@ -2,7 +2,6 @@
 title: delawareonline Ãƒâ€šÃ‚Â¦ The News Journal Ãƒâ€šÃ‚Â¦ Privatized I-95 deals kept secret
 author: bsoist
 layout: post
-permalink: /2005/10/23/delawareonline-%c2%a6-the-news-journal-%c2%a6-privatized-i-95-deals-kept-secret/
 categories:
   - freedom
 ---

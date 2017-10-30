@@ -2,7 +2,6 @@
 title: The Meaning of Life
 author: bsoist
 layout: post
-permalink: /2005/04/14/the-meaning-of-life/
 dsq_thread_id:
   - 49897237
 categories:

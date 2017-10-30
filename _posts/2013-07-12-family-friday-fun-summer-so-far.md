@@ -2,7 +2,6 @@
 title: 'Family Friday &#8211; Fun Summer So Far'
 author: bsoist
 layout: post
-permalink: /2013/07/12/family-friday-fun-summer-so-far/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

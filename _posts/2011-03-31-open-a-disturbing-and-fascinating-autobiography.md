@@ -2,7 +2,6 @@
 title: 'Open: A [Disturbing and Fascinating] Autobiography'
 author: bsoist
 layout: post
-permalink: /2011/03/31/open-a-disturbing-and-fascinating-autobiography/
 dsq_thread_id:
   - 268225081
 categories:

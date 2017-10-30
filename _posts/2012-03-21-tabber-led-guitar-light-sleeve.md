@@ -2,7 +2,6 @@
 title: Tabber LED Guitar Light Sleeve
 author: bsoist
 layout: post
-permalink: /2012/03/21/tabber-led-guitar-light-sleeve/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

@@ -2,7 +2,6 @@
 title: Special Revelation vs. Natural Revelation
 author: bsoist
 layout: post
-permalink: /2012/05/23/special-revelation-vs-natural-revelation/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Legislating Daylight
 author: bsoist
 layout: post
-permalink: /2005/10/09/legislating-daylight/
 dsq_thread_id:
   - 50238710
 categories:

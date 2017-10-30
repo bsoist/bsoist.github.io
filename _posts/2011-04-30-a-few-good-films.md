@@ -2,7 +2,6 @@
 title: A Few Good Films
 author: bsoist
 layout: post
-permalink: /2011/04/30/a-few-good-films/
 dsq_thread_id:
   - 292340699
 categories:

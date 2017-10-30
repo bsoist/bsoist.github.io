@@ -2,7 +2,6 @@
 title: Duck Duck Go
 author: bsoist
 layout: post
-permalink: /2012/05/02/duckduckgo/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

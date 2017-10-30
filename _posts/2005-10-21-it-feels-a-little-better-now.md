@@ -2,7 +2,6 @@
 title: It feels a little better now
 author: bsoist
 layout: post
-permalink: /2005/10/21/it-feels-a-little-better-now/
 dsq_thread_id:
   - 53600567
 categories:

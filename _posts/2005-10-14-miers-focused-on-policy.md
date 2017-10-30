@@ -2,7 +2,6 @@
 title: Miers Focused on Policy
 author: bsoist
 layout: post
-permalink: /2005/10/14/miers-focused-on-policy/
 categories:
   - freedom
 tags:

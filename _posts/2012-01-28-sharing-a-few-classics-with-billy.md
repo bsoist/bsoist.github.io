@@ -2,7 +2,6 @@
 title: 'Sharing a few &#8220;classics?&#8221; with Billy'
 author: bsoist
 layout: post
-permalink: /2012/01/28/sharing-a-few-classics-with-billy/
 dsq_thread_id:
   - 555782312
 categories:

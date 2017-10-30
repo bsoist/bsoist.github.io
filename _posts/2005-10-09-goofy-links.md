@@ -2,7 +2,6 @@
 title: Goofy Links
 author: bsoist
 layout: post
-permalink: /2005/10/09/goofy-links/
 categories:
   - fun
 tags:

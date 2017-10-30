@@ -2,7 +2,6 @@
 title: Moving to WordPress
 author: bsoist
 layout: post
-permalink: /2013/08/02/moving-to-wordpress/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

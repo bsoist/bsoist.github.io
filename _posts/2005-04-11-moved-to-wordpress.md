@@ -2,7 +2,6 @@
 title: Moved to WordPress
 author: bsoist
 layout: post
-permalink: /2005/04/11/moved-to-wordpress/
 dsq_thread_id:
   - 48125915
 categories:

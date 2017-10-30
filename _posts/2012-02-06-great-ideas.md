@@ -2,7 +2,6 @@
 title: 'Great Ideas &#8211; 2/6/2012'
 author: bsoist
 layout: post
-permalink: /2012/02/06/great-ideas/
 dsq_thread_id:
   - 566104951
 categories:

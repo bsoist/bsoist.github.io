@@ -2,7 +2,6 @@
 title: 'Book Review: A Brief History of Time'
 author: bsoist
 layout: post
-permalink: /2009/04/01/book-review-a-brief-history-of-time/
 ASIN:
   - 0593040597
 ATITLE:

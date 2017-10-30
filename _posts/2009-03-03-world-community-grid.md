@@ -2,7 +2,6 @@
 title: World Community Grid
 author: bsoist
 layout: post
-permalink: /2009/03/03/world-community-grid/
 categories:
   - faith
   - freedom

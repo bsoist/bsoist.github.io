@@ -2,7 +2,6 @@
 title: Do Christians and Muslims Worship the Same God?
 author: bsoist
 layout: post
-permalink: /2011/06/21/do-christians-and-muslims-worship-the-same-god/
 dsq_thread_id:
   - 338643317
 categories:

@@ -2,7 +2,6 @@
 title: Aplogies for Michael Schiavo
 author: bsoist
 layout: post
-permalink: /2005/06/19/aplogies-for-michael-schiavo/
 categories:
   - faith
   - freedom

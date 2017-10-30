@@ -2,7 +2,6 @@
 title: 'Fun Friday &#8211; Field Hockey Champs'
 author: bsoist
 layout: post
-permalink: /2013/08/02/fun-friday-field-hockey-champs/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

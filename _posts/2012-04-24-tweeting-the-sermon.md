@@ -2,7 +2,6 @@
 title: Tweeting the Sermon
 author: bsoist
 layout: post
-permalink: /2012/04/24/tweeting-the-sermon/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

@@ -2,7 +2,6 @@
 title: 'Obama Wins Nobel Peace Prize &#8211; I Agree with Bill O&#8217;Reilly?'
 author: bsoist
 layout: post
-permalink: /2009/10/12/obama-wins-nobel-peace-prize-i-agree-with-bill-oreilly/
 dsq_thread_id:
   - 47868240
 categories:

@@ -2,7 +2,6 @@
 title: I am a statistic
 author: bsoist
 layout: post
-permalink: /2005/07/17/i-am-a-statistic/
 categories:
   - fun
 ---

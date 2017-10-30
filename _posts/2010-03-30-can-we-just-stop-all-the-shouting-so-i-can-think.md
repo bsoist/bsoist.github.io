@@ -2,7 +2,6 @@
 title: Can We Just Stop All the Shouting So I Can Think?
 author: bsoist
 layout: post
-permalink: /2010/03/30/can-we-just-stop-all-the-shouting-so-i-can-think/
 dsq_thread_id:
   - 80793936
 categories:

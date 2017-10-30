@@ -2,7 +2,6 @@
 title: 'Lessons Learned &#8211; 2011 Edition'
 author: bsoist
 layout: post
-permalink: /2012/01/05/lessons-learned-2011-edition/
 dsq_thread_id:
   - 527742811
 categories:

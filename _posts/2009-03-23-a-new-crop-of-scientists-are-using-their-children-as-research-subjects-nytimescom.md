@@ -2,7 +2,6 @@
 title: 'A New Crop of Scientists Are Using Their Children as Research Subjects &#8211; NYTimes.com'
 author: bsoist
 layout: post
-permalink: /2009/03/23/a-new-crop-of-scientists-are-using-their-children-as-research-subjects-nytimescom/
 categories:
   - family
   - freedom

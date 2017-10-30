@@ -2,7 +2,6 @@
 title: 'January &#8211; Movie Month'
 author: bsoist
 layout: post
-permalink: /2012/01/28/january-movie-month/
 dsq_thread_id:
   - 555812991
 categories:

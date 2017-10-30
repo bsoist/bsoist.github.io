@@ -2,7 +2,6 @@
 title: Catholics and Evolutions
 author: bsoist
 layout: post
-permalink: /2005/10/09/catholics-and-evolutions/
 dsq_thread_id:
   - 49316242
 categories:

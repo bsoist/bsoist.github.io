@@ -2,7 +2,6 @@
 title: The Bible Online
 author: bsoist
 layout: post
-permalink: /2005/06/18/the-bible-online/
 categories:
   - faith
 tags:

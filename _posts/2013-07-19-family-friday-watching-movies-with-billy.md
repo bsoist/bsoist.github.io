@@ -2,7 +2,6 @@
 title: 'Family Friday &#8211; watching movies with Billy'
 author: bsoist
 layout: post
-permalink: /2013/07/19/family-friday-watching-movies-with-billy/
 dsq_thread_id:
   - 1512153537
 pdrp_attributionLocation:

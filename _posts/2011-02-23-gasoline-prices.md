@@ -2,7 +2,6 @@
 title: Gasoline Prices
 author: bsoist
 layout: post
-permalink: /2011/02/23/gasoline-prices/
 dsq_thread_id:
   - 238589566
 categories:

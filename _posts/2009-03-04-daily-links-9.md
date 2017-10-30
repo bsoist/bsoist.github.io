@@ -2,7 +2,6 @@
 title: Daily Links
 author: bsoist
 layout: post
-permalink: /2009/03/04/daily-links-9/
 categories:
   - fun
 tags:

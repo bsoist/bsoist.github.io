@@ -2,7 +2,6 @@
 title: 'I haven&#8217;t eaten since later this afternoon'
 author: bsoist
 layout: post
-permalink: /2009/01/11/i-havent-eaten-since-later-this-afternoon/
 ASIN:
   - B0007N1JC8
 ATITLE:

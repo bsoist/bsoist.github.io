@@ -2,7 +2,6 @@
 title: Important Research?
 author: bsoist
 layout: post
-permalink: /2009/07/28/important-research/
 categories:
   - fun
 ---

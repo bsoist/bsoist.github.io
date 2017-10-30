@@ -2,7 +2,6 @@
 title: 2012 Best Picture Nominees
 author: bsoist
 layout: post
-permalink: /2012/02/26/2012-best-picture-nominees/
 dsq_thread_id:
   - 590047281
 categories:

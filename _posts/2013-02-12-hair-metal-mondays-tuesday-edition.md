@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays &#8211; Tuesday Edition'
 author: bsoist
 layout: post
-permalink: /2013/02/12/hair-metal-mondays-tuesday-edition/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

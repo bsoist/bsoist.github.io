@@ -2,7 +2,6 @@
 title: The Only Winning Move is Not to Play
 author: bsoist
 layout: post
-permalink: /2005/06/19/t-shirts-wearing-out/
 dsq_thread_id:
   - 53593472
 categories:

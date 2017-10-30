@@ -2,7 +2,6 @@
 title: Difficult Ideas Explained in Pictures
 author: bsoist
 layout: post
-permalink: /2011/03/29/difficult-ideas-explained-in-pictures/
 dsq_thread_id:
   - 265855921
 categories:

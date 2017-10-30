@@ -2,7 +2,6 @@
 title: Hi-Ho Silver, please go away!
 author: bsoist
 layout: post
-permalink: /2013/07/13/hi-ho-silver-please-go-away/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Oscar Nominated Live Action Shorts 2010
 author: bsoist
 layout: post
-permalink: /2011/02/22/oscar-nominated-live-action-shorts-2010/
 dsq_thread_id:
   - 237436478
 categories:

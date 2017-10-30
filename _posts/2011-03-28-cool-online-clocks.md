@@ -2,7 +2,6 @@
 title: Cool Online Clocks
 author: bsoist
 layout: post
-permalink: /2011/03/28/cool-online-clocks/
 dsq_thread_id:
   - 265175208
 categories:

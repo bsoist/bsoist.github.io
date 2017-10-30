@@ -2,7 +2,6 @@
 title: What I Learned in 2010
 author: bsoist
 layout: post
-permalink: /2011/01/04/what-i-learned-in-2010/
 dsq_thread_id:
   - 202595481
 categories:

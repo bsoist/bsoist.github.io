@@ -2,7 +2,6 @@
 title: 'I&#8217;m as cynical as the next guy, BUT &#8230;'
 author: bsoist
 layout: post
-permalink: /2012/12/19/im-as-cynical-as-the-next-guy-but/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

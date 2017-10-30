@@ -2,7 +2,6 @@
 title: When it happens to us
 author: bsoist
 layout: post
-permalink: /2013/04/16/when-it-happens-to-us/
 dsq_thread_id:
   - 
 categories:

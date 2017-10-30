@@ -2,7 +2,6 @@
 title: Best and Worst Books I Read in 2010
 author: bsoist
 layout: post
-permalink: /2011/01/06/best-and-worst-books-i-read-in-2010/
 dsq_thread_id:
   - 203970670
 categories:

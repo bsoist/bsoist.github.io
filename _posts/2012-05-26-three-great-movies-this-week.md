@@ -2,7 +2,6 @@
 title: Three Great Movies This Week
 author: bsoist
 layout: post
-permalink: /2012/05/26/three-great-movies-this-week/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

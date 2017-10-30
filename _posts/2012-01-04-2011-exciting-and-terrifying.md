@@ -2,7 +2,6 @@
 title: '2011 &#8211; Exciting and Terrifying'
 author: bsoist
 layout: post
-permalink: /2012/01/04/2011-exciting-and-terrifying/
 dsq_thread_id:
   - 526911655
 categories:

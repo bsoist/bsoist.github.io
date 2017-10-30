@@ -2,7 +2,6 @@
 title: Selling Out?
 author: bsoist
 layout: post
-permalink: /2013/07/05/selling-out/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

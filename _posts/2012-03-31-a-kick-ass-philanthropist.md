@@ -2,7 +2,6 @@
 title: A Kick Ass Philanthropist
 author: bsoist
 layout: post
-permalink: /2012/03/31/a-kick-ass-philanthropist/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

@@ -2,7 +2,6 @@
 title: Walking Dead
 author: bsoist
 layout: post
-permalink: /2011/02/17/walking-dead/
 ASIN:
   - 1582406723
 ATITLE:

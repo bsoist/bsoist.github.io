@@ -1,8 +1,6 @@
----
 title: 10 Things I Hate About Google+
 author: bsoist
 layout: post
-permalink: /2011/07/27/10-things-i-hate-about-google/
 dsq_thread_id:
   - 370076846
 categories:

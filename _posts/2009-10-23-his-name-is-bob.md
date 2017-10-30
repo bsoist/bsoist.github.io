@@ -2,7 +2,6 @@
 title: His Name is Bob
 author: bsoist
 layout: post
-permalink: /2009/10/23/his-name-is-bob/
 ASIN:
   - B001992NUQ
 ATITLE:

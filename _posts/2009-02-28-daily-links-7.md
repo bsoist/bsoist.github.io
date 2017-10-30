@@ -2,7 +2,6 @@
 title: Daily Links
 author: bsoist
 layout: post
-permalink: /2009/02/28/daily-links-7/
 dsq_thread_id:
   - 49980981
   - 49980981

@@ -2,7 +2,6 @@
 title: Will you be chosen?
 author: bsoist
 layout: post
-permalink: /2013/07/13/will-you-be-chosen/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Information Overload
 author: bsoist
 layout: post
-permalink: /2005/10/16/information-overload/
 categories:
   - fun
 tags:

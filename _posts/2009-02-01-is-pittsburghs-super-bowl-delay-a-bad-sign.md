@@ -2,7 +2,6 @@
 title: 'Is Pittsburgh&#8217;s &#8216;Super Bowl&#8217; delay a Bad Sign?'
 author: bsoist
 layout: post
-permalink: /2009/02/01/is-pittsburghs-super-bowl-delay-a-bad-sign/
 dsq_thread_id:
   - 53608434
 categories:

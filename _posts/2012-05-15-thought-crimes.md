@@ -2,7 +2,6 @@
 title: Thought Crimes
 author: bsoist
 layout: post
-permalink: /2012/05/15/thought-crimes/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

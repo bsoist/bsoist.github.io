@@ -2,7 +2,6 @@
 title: 'Texting &#8211; It&#8217;s Too Easy'
 author: bsoist
 layout: post
-permalink: /2010/04/21/texting-its-too-easy/
 dsq_thread_id:
   - 88297761
 categories:

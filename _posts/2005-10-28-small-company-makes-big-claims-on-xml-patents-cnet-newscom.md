@@ -2,7 +2,6 @@
 title: Patent Terrorists
 author: bsoist
 layout: post
-permalink: /2005/10/28/small-company-makes-big-claims-on-xml-patents-cnet-newscom/
 dsq_thread_id:
   - 48431409
 categories:

@@ -2,7 +2,6 @@
 title: No matter the odds
 author: bsoist
 layout: post
-permalink: /2013/07/10/no-matter-the-odds/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

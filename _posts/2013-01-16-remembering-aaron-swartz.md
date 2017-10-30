@@ -2,7 +2,6 @@
 title: Remembering Aaron Swartz
 author: bsoist
 layout: post
-permalink: /2013/01/16/remembering-aaron-swartz/
 dsq_thread_id:
   - 1029322247
 pdrp_attributionLocation:

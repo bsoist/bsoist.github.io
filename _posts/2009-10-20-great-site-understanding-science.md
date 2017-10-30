@@ -2,7 +2,6 @@
 title: 'Great Site: Understanding Science'
 author: bsoist
 layout: post
-permalink: /2009/10/20/great-site-understanding-science/
 categories:
   - family
 ---

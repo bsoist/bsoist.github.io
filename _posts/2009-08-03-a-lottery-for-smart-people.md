@@ -2,7 +2,6 @@
 title: A Lottery for Smart People?
 author: bsoist
 layout: post
-permalink: /2009/08/03/a-lottery-for-smart-people/
 dsq_thread_id:
   - 47839709
 categories:

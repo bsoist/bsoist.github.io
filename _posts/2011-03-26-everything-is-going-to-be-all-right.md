@@ -2,7 +2,6 @@
 title: Everything Is Going to Be All Right
 author: bsoist
 layout: post
-permalink: /2011/03/26/everything-is-going-to-be-all-right/
 ASIN:
   - B00466HN6I
 AIMG:

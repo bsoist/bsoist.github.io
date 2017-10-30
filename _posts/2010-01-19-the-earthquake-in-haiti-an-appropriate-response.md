@@ -2,7 +2,6 @@
 title: 'The Earthquake in Haiti &#8211; An Appropriate Response'
 author: bsoist
 layout: post
-permalink: /2010/01/19/the-earthquake-in-haiti-an-appropriate-response/
 dsq_thread_id:
   - 59819007
 categories:

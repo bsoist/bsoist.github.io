@@ -2,7 +2,6 @@
 title: 'Don&#8217;t remember this being so tight'
 author: bsoist
 layout: post
-permalink: /2013/07/13/dont-remember-this-being-so-tight/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

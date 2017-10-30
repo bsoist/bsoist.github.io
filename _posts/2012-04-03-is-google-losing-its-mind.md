@@ -2,7 +2,6 @@
 title: Is Google Losing Its Mind
 author: bsoist
 layout: post
-permalink: /2012/04/03/is-google-losing-its-mind/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

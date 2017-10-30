@@ -2,7 +2,6 @@
 title: Should We Cut Congressional Salaries?
 author: bsoist
 layout: post
-permalink: /2012/03/30/cut-congress-salaries/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

@@ -2,7 +2,6 @@
 title: 'TomPaine.com &#8211; Caring For Creation'
 author: bsoist
 layout: post
-permalink: /2005/10/17/tompainecom-caring-for-creation/
 categories:
   - faith
   - freedom

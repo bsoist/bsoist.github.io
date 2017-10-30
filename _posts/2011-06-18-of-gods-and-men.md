@@ -2,7 +2,6 @@
 title: Of Gods and Men
 author: bsoist
 layout: post
-permalink: /2011/06/18/of-gods-and-men/
 ASIN:
   - B004LWZVWU
 dsq_thread_id:

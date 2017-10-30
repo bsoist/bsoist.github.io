@@ -2,7 +2,6 @@
 title: The pen is mightier than the sword
 author: bsoist
 layout: post
-permalink: /2013/04/17/the-pen-is-mightier-than-the-sword/
 dsq_thread_id:
   - 1218775010
 categories:

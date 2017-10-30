@@ -2,7 +2,6 @@
 title: 'We Shouldn&#8217;t Blame Anyone but the Shooter'
 author: bsoist
 layout: post
-permalink: /2012/12/17/we-shouldnt-blame-anyone-but-the-shooter/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

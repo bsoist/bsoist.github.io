@@ -1,7 +1,6 @@
 ---
 title: Get Your Own Blog
 layout: post
-permalink: /get-your-own-blog/
 categories:
     freedom
     fun

@@ -2,7 +2,6 @@
 title: Why Do People Hate Obama?
 author: bsoist
 layout: post
-permalink: /2012/01/25/hate-obama/
 dsq_thread_id:
   - 552395778
 categories:

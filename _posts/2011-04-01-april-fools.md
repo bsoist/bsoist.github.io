@@ -2,7 +2,6 @@
 title: April Fools
 author: bsoist
 layout: post
-permalink: /2011/04/01/april-fools/
 dsq_thread_id:
   - 268424129
 categories:

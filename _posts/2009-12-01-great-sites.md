@@ -2,7 +2,6 @@
 title: Great Sites
 author: bsoist
 layout: post
-permalink: /2009/12/01/great-sites/
 categories:
   - fun
 ---

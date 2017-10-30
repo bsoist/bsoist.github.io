@@ -2,7 +2,6 @@
 title: 'Freedom Ain&#8217;t Free'
 author: bsoist
 layout: post
-permalink: /2012/05/28/freedom-aint-free/
 dsq_thread_id:
   - 706254548
 pdrp_attributionLocation:

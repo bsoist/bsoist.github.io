@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays: We&#8217;re Not Gonna&#8217; Take It'
 author: bsoist
 layout: post
-permalink: /2012/07/16/hair-metal-mondays-were-not-gonna-take-it/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

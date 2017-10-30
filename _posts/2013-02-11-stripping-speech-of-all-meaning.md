@@ -2,7 +2,6 @@
 title: Stripping speech of all meaning
 author: bsoist
 layout: post
-permalink: /2013/02/11/stripping-speech-of-all-meaning/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

@@ -2,7 +2,6 @@
 title: Link Roundup
 author: bsoist
 layout: post
-permalink: /2009/10/18/link-roundup-5/
 categories:
   - links
 tags:

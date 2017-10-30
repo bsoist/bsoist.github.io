@@ -2,7 +2,6 @@
 title: Is Abortion Moral?
 author: bsoist
 layout: post
-permalink: /2012/01/23/is-abortion-moral/
 dsq_thread_id:
   - 549830220
 categories:

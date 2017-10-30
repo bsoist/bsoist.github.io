@@ -2,7 +2,6 @@
 title: Jerry Sandusky Is Not the Only One Guilty
 author: bsoist
 layout: post
-permalink: /2012/06/26/jerry-sandusky-guilty-not-the-only-one/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

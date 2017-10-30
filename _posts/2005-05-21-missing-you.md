@@ -2,7 +2,6 @@
 title: Missing You
 author: bsoist
 layout: post
-permalink: /2005/05/21/missing-you/
 categories:
   - family
 ---

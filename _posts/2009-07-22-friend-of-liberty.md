@@ -2,7 +2,6 @@
 title: Friend of Liberty
 author: bsoist
 layout: post
-redirect-from: /2009/07/22/friend-of-liberty/
 dsq_thread_id:
   - 47931698
 categories:

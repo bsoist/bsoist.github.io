@@ -2,7 +2,6 @@
 title: Link Roundup
 author: bsoist
 layout: post
-permalink: /2009/07/26/link-roundup-2/
 dsq_thread_id:
   - 48257017
 categories:

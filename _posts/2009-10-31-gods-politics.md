@@ -2,7 +2,6 @@
 title: 'God&#8217;s Politics'
 author: bsoist
 layout: post
-permalink: /2009/10/31/gods-politics/
 ASIN:
   - 0060834471
 ATITLE:

@@ -2,7 +2,6 @@
 title: del.icio.us, furl, my linkblog etc.
 author: bsoist
 layout: post
-permalink: /2005/11/26/delicious-furl-my-linkblog-etc/
 dsq_thread_id:
   - 47841221
 categories:

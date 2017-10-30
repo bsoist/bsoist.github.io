@@ -2,7 +2,6 @@
 title: There is a Storm Coming
 author: bsoist
 layout: post
-permalink: /2012/05/19/there-is-a-storm-coming/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

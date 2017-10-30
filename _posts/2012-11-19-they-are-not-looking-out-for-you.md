@@ -2,7 +2,6 @@
 title: They are not looking out for you
 author: bsoist
 layout: post
-permalink: /2012/11/19/they-are-not-looking-out-for-you/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

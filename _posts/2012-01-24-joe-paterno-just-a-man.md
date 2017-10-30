@@ -2,7 +2,6 @@
 title: 'Joe Paterno &#8211; Just A Man'
 author: bsoist
 layout: post
-permalink: /2012/01/24/joe-paterno-just-a-man/
 dsq_thread_id:
   - 551140033
 categories:

@@ -2,7 +2,6 @@
 title: One More Look at the Republican Slate
 author: bsoist
 layout: post
-permalink: /2012/01/31/one-more-look-at-the-republican-slate/
 dsq_thread_id:
   - 558980067
 categories:

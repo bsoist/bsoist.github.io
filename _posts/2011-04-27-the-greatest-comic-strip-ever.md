@@ -2,7 +2,6 @@
 title: The Greatest Comic Strip Ever
 author: bsoist
 layout: post
-permalink: /2011/04/27/the-greatest-comic-strip-ever/
 dsq_thread_id:
   - 290109449
 categories:

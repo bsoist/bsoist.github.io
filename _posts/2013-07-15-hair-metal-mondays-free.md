@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays &#8211; FREE!'
 author: bsoist
 layout: post
-permalink: /2013/07/15/hair-metal-mondays-free/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

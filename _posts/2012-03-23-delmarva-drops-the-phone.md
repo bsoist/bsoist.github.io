@@ -2,7 +2,6 @@
 title: Delmarva Drops the Phone
 author: bsoist
 layout: post
-permalink: /2012/03/23/delmarva-drops-the-phone/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

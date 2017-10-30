@@ -2,7 +2,6 @@
 title: Is It Really That Difficult to Order Coffee?
 author: bsoist
 layout: post
-permalink: /2011/06/14/is-it-really-that-difficult-to-order-coffee/
 dsq_thread_id:
   - 331927958
 categories:

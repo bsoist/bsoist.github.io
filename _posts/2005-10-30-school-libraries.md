@@ -2,7 +2,6 @@
 title: Why I Support Private Schools
 author: bsoist
 layout: post
-permalink: /2005/10/30/school-libraries/
 dsq_thread_id:
   - 53590612
 categories:

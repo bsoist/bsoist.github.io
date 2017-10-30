@@ -2,7 +2,6 @@
 title: This has been a strange football season for me already.
 author: bsoist
 layout: post
-permalink: /2013/01/07/this-has-been-a-strange-football-season-for-me-already/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

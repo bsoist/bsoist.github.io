@@ -2,7 +2,6 @@
 title: 'Interesting Sites &#8211; 7/17/2011'
 author: bsoist
 layout: post
-permalink: /2011/07/17/interesting-sites-7172011/
 dsq_thread_id:
   - 361296531
 categories:

@@ -2,7 +2,6 @@
 title: 'Interesting Sites &#8211; 5/1/2011'
 author: bsoist
 layout: post
-permalink: /2011/05/01/interesting-sites-532011/
 dsq_thread_id:
   - 293755062
 categories:

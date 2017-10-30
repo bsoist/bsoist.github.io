@@ -2,7 +2,6 @@
 title: Visit with Dad
 author: bsoist
 layout: post
-permalink: /2005/04/11/visit-with-dad/
 dsq_thread_id:
   - 49942848
 categories:

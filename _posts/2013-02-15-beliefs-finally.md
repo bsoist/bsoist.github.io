@@ -2,7 +2,6 @@
 title: 'Beliefs &#8211; Finally!'
 author: bsoist
 layout: post
-permalink: /beliefs-finally/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

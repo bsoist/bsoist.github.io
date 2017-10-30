@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays: Something to Believe In'
 author: bsoist
 layout: post
-permalink: /2012/05/14/hair-metal-mondays-something-to-believe-in/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

@@ -2,7 +2,6 @@
 title: Is Bad Theology To Blame for the Financial Crisis?
 author: bsoist
 layout: post
-permalink: /2011/03/15/is-bad-theology-to-blame-for-the-financial-crisis/
 dsq_thread_id:
   - 254982549
 categories:

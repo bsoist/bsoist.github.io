@@ -1,8 +1,6 @@
----
 title: Tim Tebow Is Different
 author: bsoist
 layout: post
-permalink: /2012/01/14/tim-tebow-is-different/
 dsq_thread_id:
   - 539498957
 categories:

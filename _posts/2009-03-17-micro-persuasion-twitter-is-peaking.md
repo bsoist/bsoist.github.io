@@ -2,7 +2,6 @@
 title: 'Micro Persuasion: Twitter is Peaking'
 author: bsoist
 layout: post
-permalink: /2009/03/17/micro-persuasion-twitter-is-peaking/
 dsq_thread_id:
   - 53136275
 categories:

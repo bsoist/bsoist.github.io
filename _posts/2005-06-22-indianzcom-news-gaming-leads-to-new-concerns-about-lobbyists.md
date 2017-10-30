@@ -2,7 +2,6 @@
 title: Am I the only one?
 author: bsoist
 layout: post
-permalink: /2005/06/22/indianzcom-news-gaming-leads-to-new-concerns-about-lobbyists/
 categories:
   - faith
   - freedom

@@ -2,7 +2,6 @@
 title: Whoop Dee Doo for Baltimore
 author: bsoist
 layout: post
-permalink: /2012/03/20/whoop-dee-doo-for-baltimore/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

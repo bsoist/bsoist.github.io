@@ -2,7 +2,6 @@
 title: 'Hair Metal Mondays: Turn Up the Radio'
 author: bsoist
 layout: post
-permalink: /2012/06/25/hair-metal-mondays-turn-up-the-radio/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

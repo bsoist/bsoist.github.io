@@ -2,7 +2,6 @@
 title: 'GIANT! &#8211; A Mini Graphic Novel'
 author: bsoist
 layout: post
-permalink: /2012/03/08/giant-a-mini-graphic-novel/
 dsq_thread_id:
   - 603735843
 categories:

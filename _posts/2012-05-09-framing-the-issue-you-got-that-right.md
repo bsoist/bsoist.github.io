@@ -2,7 +2,6 @@
 title: Framing the Issue? You Got that Right!
 author: bsoist
 layout: post
-permalink: /2012/05/09/framing-the-issue-you-got-that-right/
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

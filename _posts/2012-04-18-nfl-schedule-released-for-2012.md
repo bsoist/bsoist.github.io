@@ -2,7 +2,6 @@
 title: NFL Schedule Released for 2012
 author: bsoist
 layout: post
-permalink: /2012/04/18/nfl-schedule-released-for-2012/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

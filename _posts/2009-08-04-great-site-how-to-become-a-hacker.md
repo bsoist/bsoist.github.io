@@ -2,7 +2,6 @@
 title: 'Great Site: How To Become A Hacker'
 author: bsoist
 layout: post
-permalink: /2009/08/04/great-site-how-to-become-a-hacker/
 categories:
   - fun
 ---

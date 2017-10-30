@@ -2,7 +2,6 @@
 title: 'Why I Call Myself A Libertarian Socialist &#8211; Part One'
 author: bsoist
 layout: post
-redirect_from: /2010/10/26/why-i-call-myself-a-libertarian-socialist-part-one/
 dsq_thread_id:
   - 162372779
 categories:

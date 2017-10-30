@@ -2,7 +2,6 @@
 title: 'It&#8217;s my path'
 author: bsoist
 layout: post
-permalink: /2013/02/04/its-my-path/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

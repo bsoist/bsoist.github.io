@@ -2,7 +2,6 @@
 title: Remembering Steve Jobs
 author: bsoist
 layout: post
-permalink: /2011/10/22/remembering-steve-jobs/
 dsq_thread_id:
   - 508870985
 categories:

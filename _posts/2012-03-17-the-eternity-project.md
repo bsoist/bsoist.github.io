@@ -2,7 +2,6 @@
 title: The Eternity Project
 author: bsoist
 layout: post
-permalink: /2012/03/17/the-eternity-project/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

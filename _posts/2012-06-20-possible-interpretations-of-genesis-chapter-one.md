@@ -2,7 +2,6 @@
 title: Possible Interpretations of Genesis Chapter One
 author: bsoist
 layout: post
-permalink: /2012/06/20/possible-interpretations-of-genesis-chapter-one/
 dsq_thread_id:
   - 734036267
 pdrp_attributionLocation:

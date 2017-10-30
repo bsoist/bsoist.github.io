@@ -2,7 +2,6 @@
 title: Go Big Blue
 author: bsoist
 layout: post
-permalink: /2012/02/05/go-big-blue/
 dsq_thread_id:
   - 565084303
 categories:

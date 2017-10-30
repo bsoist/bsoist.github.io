@@ -2,7 +2,6 @@
 title: The Rule of Law
 author: bsoist
 layout: post
-permalink: /2009/03/25/no-delay-of-game-call-on-ravens-hurts-the-titans-in-afc-playoff-game-nfl-fanhouse/
 dsq_thread_id:
   - 49251668
 categories:

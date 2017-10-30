@@ -2,7 +2,6 @@
 title: 'Movie Review: Watchmen'
 author: bsoist
 layout: post
-permalink: /2009/03/28/watchmen-the-movie/
 ATITLE:
   - Watchmen
 AIMG:

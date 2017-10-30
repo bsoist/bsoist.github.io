@@ -2,7 +2,6 @@
 title: 'Book Review: Waiting for &#8220;Superman&#8221;'
 author: bsoist
 layout: post
-permalink: /2011/06/23/book-review-waiting-for-superman/
 ASIN:
   - 1586489275
 dsq_thread_id:

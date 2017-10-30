@@ -2,7 +2,6 @@
 title: Google goes to Washington
 author: bsoist
 layout: post
-permalink: /2005/10/11/google-goes-to-washington/
 categories:
   - freedom
 tags:

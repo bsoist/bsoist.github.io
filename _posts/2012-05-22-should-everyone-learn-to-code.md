@@ -2,7 +2,6 @@
 title: Should Everyone Learn to Code
 author: bsoist
 layout: post
-permalink: /2012/05/22/should-everyone-learn-to-code/
 dsq_thread_id:
   - 700155994
 Hide SexyBookmarks:

@@ -2,7 +2,6 @@
 title: 'Duende: Suit of Lights'
 author: bsoist
 layout: post
-permalink: /2012/03/22/duende-suit-of-lights/
 pdrp_attributionLocation:
   - end
 pdrp_attributionExtended:

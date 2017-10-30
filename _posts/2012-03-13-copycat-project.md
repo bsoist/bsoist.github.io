@@ -2,7 +2,6 @@
 title: Copycat Project
 author: bsoist
 layout: post
-permalink: /2012/03/13/copycat-project/
 dsq_thread_id:
   - 610155555
 categories:

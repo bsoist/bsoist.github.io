@@ -2,7 +2,6 @@
 title: 'You&#8217;ve Got A Great Imagination'
 author: bsoist
 layout: post
-permalink: /2012/06/16/imagination/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

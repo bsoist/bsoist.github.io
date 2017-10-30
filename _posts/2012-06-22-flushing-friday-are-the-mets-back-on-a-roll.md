@@ -2,7 +2,6 @@
 title: 'Flushing Friday: Are the Mets Back on a Roll?'
 author: bsoist
 layout: post
-permalink: /2012/06/22/flushing-friday-are-the-mets-back-on-a-roll/
 pdrp_attributionLocation:
   - end
 dsq_thread_id:

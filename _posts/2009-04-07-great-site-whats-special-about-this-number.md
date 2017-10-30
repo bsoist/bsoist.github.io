@@ -2,7 +2,6 @@
 title: 'Great Site: What&#8217;s Special About This Number?'
 author: bsoist
 layout: post
-permalink: /2009/04/07/great-site-whats-special-about-this-number/
 dsq_thread_id:
   - 47872149
 categories:

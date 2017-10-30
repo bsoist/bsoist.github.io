@@ -2,7 +2,6 @@
 title: The Needs of the Many
 author: bsoist
 layout: post
-permalink: /2009/10/31/the-needs-of-the-many/
 ASIN:
   - 1594132097
 ATITLE:

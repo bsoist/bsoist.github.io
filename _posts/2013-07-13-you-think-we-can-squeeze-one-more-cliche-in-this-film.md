@@ -2,7 +2,6 @@
 title: You think we can squeeze one more cliche in this film?
 author: bsoist
 layout: post
-permalink: /2013/07/13/you-think-we-can-squeeze-one-more-cliche-in-this-film/
 dsq_thread_id:
   - 1498282034
 pdrp_attributionLocation:

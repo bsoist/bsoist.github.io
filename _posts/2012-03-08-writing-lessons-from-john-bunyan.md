@@ -2,7 +2,6 @@
 title: Writing Lessons from John Bunyan
 author: bsoist
 layout: post
-permalink: /2012/03/08/writing-lessons-from-john-bunyan/
 dsq_thread_id:
   - 603542511
 categories:

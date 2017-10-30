@@ -2,7 +2,6 @@
 title: The Lies of George W. Bush
 author: bsoist
 layout: post
-permalink: /2009/10/31/the-lies-of-george-w-bush/
 ASIN:
   - B000FC1N0E
 ATITLE:

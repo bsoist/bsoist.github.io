@@ -2,7 +2,6 @@
 title: Richard Dawkins
 author: bsoist
 layout: post
-permalink: /2005/10/29/richard-dawkins/
 dsq_thread_id:
   - 49503011
 categories:

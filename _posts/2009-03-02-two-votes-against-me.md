@@ -2,7 +2,6 @@
 title: Two Votes Against Me
 author: bsoist
 layout: post
-permalink: /2009/03/02/two-votes-against-me/
 categories:
   - freedom
 ---

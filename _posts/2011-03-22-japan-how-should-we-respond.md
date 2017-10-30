@@ -2,7 +2,6 @@
 title: 'Japan &#8211; How Should We Respond?'
 author: bsoist
 layout: post
-permalink: /2011/03/22/japan-how-should-we-respond/
 dsq_thread_id:
   - 260272276
 categories:

@@ -2,7 +2,6 @@
 title: The Oscars Game 2011
 author: bsoist
 layout: post
-permalink: /2011/02/08/the-oscars-game-2011/
 dsq_thread_id:
   - 225330571
 categories:
