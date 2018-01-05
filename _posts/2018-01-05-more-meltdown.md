@@ -18,9 +18,9 @@ I am sharing some links I find today. You can see them via [my linkblog][links] 
 * [12/20/17 - Linux users notice security patches and speculate][5p]
 * [1/3/18 - There\s obviously a big problem, but we dont know exactly what.][80]
 
-[links](/links/)
-[rsslinks](//links.bsoi.st/feed.xml)
-[5p](//:5p.bsoi.st)
-[80](//:80.bsoi.st)
-[fb](//:fb.bsoi.st)
-[ux](//:ux.bsoi.st)
+[links]: /links/
+[rsslinks]: //links.bsoi.st/feed.xml
+[5p]: //:5p.bsoi.st
+[80]: //:80.bsoi.st
+[fb]: //:fb.bsoi.st
+[ux]: //:ux.bsoi.st
