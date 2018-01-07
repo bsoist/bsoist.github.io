@@ -19,7 +19,7 @@ Then she calls out "Bill, did you know about this?"
 
 But as I reash the top of the steps, Terri is coming out of Becky's room crying and soliciting a hug from me.
 
-![a gift box for Mom](http://media.soistmann.com/huge_box.JPG){:class="img-responsive"}
+![a gift box for Mom](http://media.soistmann.com/huge_box.JPG)
 
 She left her mom a box of gifts to open after she left. 
 
