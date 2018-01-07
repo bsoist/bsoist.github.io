@@ -17,7 +17,7 @@ Then she calls out "Bill, did you know about this?"
 
 "To ship?" I said. She and Terri had gone on a shopping spree one day (a new Christmas tradition, Terri tells me) so we expected her to leave a box for us to ship to her.
 
-But as I reash the top of the steps, Terri is coming out of Becky's room crying and soliciting a hug from me.
+But as I reach the top of the steps, Terri is coming out of Becky's room crying and soliciting a hug from me.
 
 <img title="a gift box for Mom" src="http://media.soistmann.com/huge_box.JPG" class="post_image img-responsive" />
 
@@ -25,4 +25,4 @@ She left her mom a box of gifts to open after she left.
 
 I am at a loss for words, really? I can't even focus on anything but how special our little girl is. This surprise she left for her mom blows me away, but it's only a part of it. She is the best daughter we could have hoped for. We love her dealy.
 
-[givenname]: {% post_url 2018-10-06-is-that-your-given-name %}
+[givenname]: {% post_url 2018-01-06-is-that-your-given-name %}
