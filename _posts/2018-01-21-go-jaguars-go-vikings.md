@@ -14,7 +14,7 @@ Last week, we had two teams to root against on Saturday - Patriots and Eagles - 
 
 In between those times, I lived in VA and then in the [Jacksonville area for the Jaguars inaugural season][1]. My [son was a Jaguars fan][2] from day one. He lives in NYC now so he's become a Jets fan like his dad, but he and the rest of us are really pulling for the Jaguars this season.
 
-Meanwhils, my brother is a life-long Vikings fan who will be alone in a house full of Eagles fans watching the game today.
+Meanwhile, my brother is a life-long Vikings fan who will be alone in a house full of Eagles fans watching the game today.
 
 I have not been this excited about two NFL games in a long time. :)
 
