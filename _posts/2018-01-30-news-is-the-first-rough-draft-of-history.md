@@ -6,7 +6,7 @@ categories:
   - family
   - fun
 ---
-My daughter kept telling me "it's definitely your kind of movie" talking about _The Post_. Now that I've seen it, I think she meant my kind of story.
+My daughter kept telling me "it's definitely your kind of movie" talking about _The Post_[tp]. Now that I've seen it, I think she meant my kind of story.
 
 If that's what she meant, she is absolutely correct. The movie actually tells two great stories - both of them my kind of story. Both stories are also very timely. We need to hear these stories in today's political and social climate. If you ask me, though, the movie was not spectacular. Perhaps worthy of a best picture nomination, perhaps not.
 
@@ -28,4 +28,4 @@ This is probably my favorite quote from the film. I just love the way Katharine 
 
 A must see film that tells stories that need to be told. It might actually win best picture, but I think there are better contenders this year.
 
-
+[tp]: https://en.wikipedia.org/wiki/The_Post_(film)
