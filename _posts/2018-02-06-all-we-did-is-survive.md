@@ -6,14 +6,15 @@ categories:
   - family
   - fun
 ---
+<p style="float:left;padding:20px;"><img src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" /></p>
+
 > Seeing home doesn't help us get there, Captain.
-<p style="float:left;"><img src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" /></p>
 
 A little while ago, before I saw Dunkirk, my daughter asked me "which are your favorite three Nolan films?"
 
 Two of his films are among my favorites overall, but I never considered myself a huge Nolan fan. So, I had to consider the third very carefully. I thought _Inception_ was overrated. I thought _Interstellar_ was underrated. _The Dark Knight_ was fantastic, but sometimes I wonder if I didn't like _Batman Begins_ more than that.
 
-Eventually, I came up with:
+<p style="clear:both;">Eventually, I came up with:</p>
 
 1. _The Prestige_
 2. _Mememto_
