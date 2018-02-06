@@ -31,10 +31,10 @@ Turns out hers were:
 until she saw _Dunkirk_. For her, that pushed _Memento_ off the list.
 
 I don't really get it. I enjoy films that depict events from history - especially defining events like this one - and I enjoyed this one for that reason, but the movie just doesn't work for me. 
-Though two of my favorite films of all time are Nolan's work (see above), I just don't really get most of them. I love the way Nolan insists on using as few special effects as possible and on telling stories in unsual ways, but I guess I think he doesn't always accomplish what he set out to do.
+Though two of my favorite films of all time are Nolan's work (see above), I just don't really get most of them. I love the way Nolan insists on using as few special effects as possible and on telling stories in unusual ways, but I guess I think he doesn't always accomplish what he set out to do.
 
 Unless, of course, what he set out to do was generate outrageous revenues and get people like me and my daughter debating which of his movies are the best. If that's his goal, he has certainly succeeded. 
 
-I do think if you have the chance, you should see this on the big screen. The air combat scenes alone are worth the price of admission, if you ask me.
+I do think if you have the chance, you should see this on the big screen. The air combat scenes alone are worth the price of admission if you ask me.
 
 [spoil]: {% post_url 2018-02-03-reviews-without-spoilers %}
