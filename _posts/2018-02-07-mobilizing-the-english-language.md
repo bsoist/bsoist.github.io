@@ -6,9 +6,9 @@ categories:
   - family
   - fun
 ---
-{% include image.html url="https://images-na.ssl-images-amazon.com/images/I/51Vgm4zHsuL._AC_US218_.jpg" description="Darkest Hour" %}
-
 I love to share my favorite quotes from any film I see. Over the last few years, I've even started to ask my son and daugther after the film "so what was my favorite quote?" It's a fun exercise in how well they know dad. :)
+
+{% include image.html url="https://images-na.ssl-images-amazon.com/images/I/51Vgm4zHsuL._AC_US218_.jpg" description="Darkest Hour" width="250px" %}
 
 _Darkest Hour_, a film about Churchill, is certainly going to give me a lot of options, but I am going to stick to just two, as usual.
 
