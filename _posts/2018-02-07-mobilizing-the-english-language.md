@@ -6,15 +6,16 @@ categories:
   - family
   - fun
 ---
-I love to share my favorite quotes from any film I see. Over the last few years, I've even started to ask my son and daugther after the film "so what was my favorite quote?" It's a fun exercise in how well they know dad. :)
-
 {% include image.html url="https://images-na.ssl-images-amazon.com/images/I/51Vgm4zHsuL._AC_US218_.jpg" description="Darkest Hour" width="218px" %}
+
+I love to share my favorite quotes from any film I see. Over the last few years, I've even started to ask my son and daugther after the film "so what was my favorite quote?" It's a fun exercise in how well they know dad. :)
 
 _Darkest Hour_, a film about Churchill, is certainly going to give me a lot of options, but I am going to stick to just two, as usual.
 
+<p style="clear:both;">
 > Success is not final, failure is not fatal: it is the courage to continue that counts.
-
 > Will you stop interrupting me while I am interrupting you!
+</p>
 
 When I see a film about real-life events I always feel like I don't need to be as careful about [spoilers][spoil], but I still don't want to take away the experience of seeing the film yourself. 
 
