@@ -12,10 +12,9 @@ I love to share my favorite quotes from any film I see. Over the last few years,
 
 _Darkest Hour_, a film about Churchill, is certainly going to give me a lot of options, but I am going to stick to just two, as usual.
 
-<p style="clear:both;">
-> Success is not final, failure is not fatal: it is the courage to continue that counts.
+> <p style="clear:both;">Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
+
 > Will you stop interrupting me while I am interrupting you!
-</p>
 
 When I see a film about real-life events I always feel like I don't need to be as careful about [spoilers][spoil], but I still don't want to take away the experience of seeing the film yourself. 
 
