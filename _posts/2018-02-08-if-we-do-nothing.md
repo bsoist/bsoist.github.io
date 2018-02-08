@@ -14,7 +14,7 @@ categories:
 
 Certainly worthy of the thirteen nominations it received. I think it's possible it will clean up at the awards this year, but it is my pick for only three. Three big ones, though.
 
-### Best Actress
+<h3 style="clear:both;">Best Actress</h3>
 If you ask me, this one is a lock. I would be sorely disappointed if Sally Hawkins doesn't win this one.
 
 ### Best Cinematography
