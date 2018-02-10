@@ -16,7 +16,7 @@ I was disappointed.
 
 The only redeeming part of the film, if you ask me, were two excellent performances by McDormand and Rockwell. 
 
-She was excellent. Worth of the nomination, and perhaps a winning performance in some other year, but this year I think the other four were all as good or better.
+She was excellent. Worthy of the nomination, and perhaps a winning performance in some other year, but this year I think the other four were all as good or better.
 
 Rockwell, on the other hand, turned in the performance of a lifetime. If he were not such a great actor, I would say he can't top this one. Even as good as he is, he may not be able to do better than this. He was absolutely amazing.
 
