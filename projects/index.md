@@ -23,6 +23,9 @@ A [project][tf] a partner and I launched to test the market for information abou
 ### KnoxVoice
 A custom built Django powered website to serve as the new online home of [Knoxville Voice][kvw], the only major, general-interest independent alternative newspaper in Knoxville, TN until it ceased publication in 2009 ([Knoxvoice.com at archive.org][kv]).
 
+### Stop The Memes!
+A [site][stm] I set up after fuming over a few Facebook posts during the 2016 election season in the U.S.
+
 ### ManBabyPOTUS
 [A fun little project][mbp] I decided to build to keep track of the mayhem.
 
@@ -66,3 +69,4 @@ I wrote several custom WordPress plugins for [SelfInvestors.com][si].
 [tnn]: http://teachingnews.net/
 [kvw]: https://en.wikipedia.org/wiki/Knoxville_Voice
 [fwtf]: http://avc.com/2017/07/funding-friday-token-filings/
+[stm]: http://stopthememes.com/
