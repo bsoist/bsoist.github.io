@@ -12,13 +12,13 @@ layout: page
 A [project][tf] a partner and I launched to test the market for information about token filings. We insisted it was not an "Edgar for Tokens" but that's the way at least [one person saw it][fwtf].
 
 ### Token Summit
-[Token Summit][ts]
+[Token Summit][ts] is a website I help maintain for an event organized by a friend and business partner.
 
 ### Startup Management
-[Startup Management][sum]
+[Startup Management][sum] is a website I helped create for curating news and information about startups.
 
 ### Teaching News Network
-[Teaching News Network][tnn]
+[Teaching News Network][tnn] is a copy of StartupManagement I set up for curating information that might be of interest to educators.
 
 ### KnoxVoice
 A custom built Django powered website to serve as the new online home of [Knoxville Voice][kvw], the only major, general-interest independent alternative newspaper in Knoxville, TN until it ceased publication in 2009 ([Knoxvoice.com at archive.org][kv]).
