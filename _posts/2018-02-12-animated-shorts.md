@@ -10,7 +10,9 @@ categories:
 
 We went to see the Oscar Nominated Short Filmes over the weekend. We started on Friday night with the animated films.
 
-### _Negative Space_
+They were all really good this year.
+
+<h3 style="clear:both;">_Negative Space_</h3>
 It was nice and short, quirky and funny throughout, and drew a well-deserved round of applause from the crowd when it was finished. Very well done and by far my favorite this year.
 
 ### _Dear Basketball_
