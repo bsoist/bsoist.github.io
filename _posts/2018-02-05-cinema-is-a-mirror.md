@@ -10,6 +10,8 @@ categories:
 
 _Call Me By Your Name_ is one of those films I [can't say a lot about][spoil], and I may push the boundaries and say more about it than I should.
 
+<!-- more -->
+
 It's a tremendous film. Worthy of a best picture nomination, to be sure, but if you ask me, it has enough flaws to keep it from winning. On the other hand, it tells a very timely story and sheer emotion may give it the win. I wouldn't be surprised either way.
 
 The locations were beautiful, as were the people.

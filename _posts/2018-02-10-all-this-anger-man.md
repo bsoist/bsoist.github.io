@@ -14,6 +14,8 @@ We could not wait to see this film.
 
 I was disappointed.
 
+<!-- more -->
+
 The only redeeming part of the film, if you ask me, were two excellent performances by McDormand and Rockwell. 
 
 She was excellent. Worthy of the nomination, and perhaps a winning performance in some other year, but this year I think the other four were all as good or better.

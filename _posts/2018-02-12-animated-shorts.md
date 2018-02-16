@@ -12,6 +12,8 @@ We went to see the Oscar Nominated Short Filmes over the weekend. We started on 
 
 They were all really good this year.
 
+<!-- more -->
+
 <h3 style="clear:both;"><em>Negative Space</em></h3>
 It was nice and short, quirky and funny throughout, and drew a well-deserved round of applause from the crowd when it was finished. Very well done and by far my favorite this year.
 

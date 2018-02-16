@@ -12,6 +12,8 @@ categories:
 
 [_The Post_][post] was a movie I didn't love that told two great stories. _The Shape of Water_ is a great film that tells a story I don't really get. 
 
+<!-- more -->
+
 Certainly worthy of the thirteen nominations it received. I think it's possible it will clean up at the awards this year, but it is my pick for only three. Three big ones, though.
 
 <h3 style="clear:both;">Best Actress</h3>
