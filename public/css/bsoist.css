@@ -1,7 +1,0 @@
-blockquote {
-    float: left;
-}
-
-p:first-of-type {
-    clear: both;
-}
