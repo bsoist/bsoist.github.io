@@ -10,7 +10,7 @@ categories:
 
 The live action shorts this year were all very good.
 
-Four of this year's nominees are based on real-life events<sup> <a href"#spoil">*</a> </sup> and they all raise important issues. The nominations alone will bring awareness, hopefully, to the issues raised in the films.
+Four of this year's nominees are based on real-life events<a href"#spoil"><sup>*</sup></a> and they all raise important issues. The nominations alone will bring awareness, hopefully, to the issues raised in the films.
 
 ### _DeKalb Elementary_
 A film that focuses mostly on two on-screen characters for the entire film. Even though I knew the story very well going in, I found myself mesmerized by the drama, tension, and emotions - bravery, fear, remorse, compassion, love. The performances were excellent. A very powerful film.
