@@ -10,9 +10,9 @@ categories:
 
 I love to share my favorite quotes from any film I see. Over the last few years, I've even started to ask my son and daughter after the film "so what was my favorite quote?" It's a fun exercise in how well they know dad. :)
 
-<!--more-->
-
 _Darkest Hour_, a film about Churchill, is certainly going to give me a lot of options, but I am going to stick to just two, as usual.
+
+<!--more-->
 
 > <p style="clear:both;">Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
 

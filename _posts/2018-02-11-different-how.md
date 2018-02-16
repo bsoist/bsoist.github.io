@@ -14,9 +14,9 @@ I'll share only part of it so we can share in the inside joke if you've seen it 
 
 > We handle shit. That's what we do.
 
-<!--more-->
-
 It's been a long time since I saw this one, but it still sticks with me. It's a brilliantly directed, terrifying comedy featuring a fantastic performance by Kaluuya. 
+
+<!--more-->
 
 I came away from the film really thinking about my view of the world and how others must view it now or might have in the past - and how I might have in a different time. 
 
