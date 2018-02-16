@@ -8,7 +8,7 @@ categories:
 ---
 {% include image.html url="http://www.publicdomainpictures.net/pictures/170000/velka/holiday-suitcase-1463301694xS6.jpg" description="Packed Suitcase" width="218px" %}
 
-We went to see the Oscar Nominated Short Filmes over the weekend. We started on Friday night with the animated films.
+_We_ went to see the Oscar Nominated Short Filmes over the weekend. We started on Friday night with the animated films.
 
 They were all really good this year.
 
