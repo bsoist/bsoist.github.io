@@ -8,8 +8,6 @@ categories:
 ---
 {% include image.html url="https://images.gr-assets.com/books/1474569919l/26082188.jpg" description="The Dispatcher" width="218px" %}
 
-<p style="clear:both;">&nbsp;</p>
-
 > I f--king died today!
 
 I went on an Audible binge about a week ago to start finishing books I'd already started. Naturally, I started with the shortest ones. :)
