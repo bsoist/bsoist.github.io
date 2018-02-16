@@ -10,7 +10,7 @@ categories:
 
 The live action shorts this year were all very good.
 
-Four of this year's nominees are based on real-life events<sup><a href"#spoil">*</a></sup> and they all raise important issues. The nominations alone will bring awareness, hopefully, to the issues raised in the films.
+Four of this year's nominees are based on real-life events<sup><a href"#spoil">1</a></sup> and they all raise important issues. The nominations alone will bring awareness, hopefully, to the issues raised in the films.
 
 ### _DeKalb Elementary_
 A film that focuses mostly on two on-screen characters for the entire film. Even though I knew the story very well going in, I found myself mesmerized by the drama, tension, and emotions - bravery, fear, remorse, compassion, love. The performances were excellent. A very powerful film.
@@ -28,7 +28,7 @@ This is the only one of the films not based on real-life events. The only thing 
 A very powerful story that would have been hard to believe if there were not evidence it actually happened. The film had some flaws (mostly exposition where it wasn't necessary), so it's not my pick to win, but I found myself thinking most about this one after the fact (not really surprise given how much I think about faith and religion).
 
 
-\* I don't normally worry about [spoilers][spoil] as much for the shorts anyway.
+\1 I don't normally worry about [spoilers][spoil] as much for the shorts anyway.
 
 \* image by Luc.patry (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons
 [spoil]: {% post_url 2018-02-03-reviews-without-spoilers %}
