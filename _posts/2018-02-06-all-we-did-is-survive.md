@@ -5,11 +5,6 @@ layout: post
 categories:
   - family
   - fun
-excerpt: 
-<p style="float:left;padding:20px;"><img src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" /></p>
-
-> Seeing home doesn't help us get there, Captain.
-
 ---
 <p style="float:left;padding:20px;"><img src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" /></p>
 
