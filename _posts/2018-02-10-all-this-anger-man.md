@@ -14,7 +14,7 @@ We could not wait to see this film.
 
 I was disappointed.
 
-<!-- more -->
+<!--more-->
 
 The only redeeming part of the film, if you ask me, were two excellent performances by McDormand and Rockwell. 
 

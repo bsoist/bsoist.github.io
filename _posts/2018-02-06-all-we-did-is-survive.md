@@ -12,7 +12,7 @@ categories:
 
 A little while ago, before I saw Dunkirk, my daughter asked me "which are your favorite three Nolan films?"
 
-<!-- more -->
+<!--more-->
 
 Two of his films are among my favorites overall, but I never considered myself a huge Nolan fan. So, I had to consider the third very carefully. I thought _Inception_ was overrated. I thought _Interstellar_ was underrated. _The Dark Knight_ was fantastic, but sometimes I wonder if I didn't like _Batman Begins_ more than that.
 
