@@ -15,8 +15,8 @@ categories:
 tags:
   - movies
 ---
-*Into the Wild *is an intriguing look into the mostly unknown life of Christopher McCandless and Alexander Supertramp, the adventurer he becomes.Â 
+_Into the Wild_  is an intriguing look into the mostly unknown life of Christopher McCandless and Alexander Supertramp, the adventurer he becomes.
 
-I am normally very suspicious of &#8220;true story&#8221; movies and this was no exception. There seems to be some controversy over the details in the film (and the book) because of the lack of material to support the story being told. Most of the controversy revolves around the later events in the film.Â 
+I am normally very suspicious of "true story" movies and this was no exception. There seems to be some controversy over the details in the film (and the book) because of the lack of material to support the story being told. Most of the controversy revolves around the later events in the film.
 
-Controversy and &#8220;truthiness&#8221; aside, this was a wonderful film. Sean Penn takes a book that doesn&#8217;t seem to be the right kind of material for a film and masterfully pulls it off. I think I&#8217;m a lot like Christopher and Penn found a way to make me question his choices, while still pulling for him as my hero. For those of you who don&#8217;t necessarily understand dreamers, I think you will pull for Christopher too.
+Controversy and "truthiness" aside, this was a wonderful film. Sean Penn takes a book that doesn't seem to be the right kind of material for a film and masterfully pulls it off. I think I'm a lot like Christopher and Penn found a way to make me question his choices, while still pulling for him as my hero. For those of you who don't necessarily understand dreamers, I think you will pull for Christopher too.
