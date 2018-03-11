@@ -16,9 +16,9 @@ Wow, what a surprise this movie was!
 
 <!--more-->
 
-I had no idea what I was in store. I vaguely remembered watching the trailer, but I since I try not to pay attention to them, I didn't remember anything. I didn't even know this was a Jennifer Lawrence movie. I did have the impresison it was an action movie with a female lead. When the film opens with a picture of a very attractive woman, I still don't recognize her as one of my favorites.
+I had no idea what I was in store. I vaguely remembered watching the trailer, but I since I try not to pay attention to them, I didn't remember anything. I didn't even know this was a Jennifer Lawrence movie. I did have the impression it was an action movie with a female lead. When the film opens with a picture of a very attractive woman, I still don't recognize her as one of my favorites.
 
-She turns out to be one of only two good qualities in the film. The other is a satisfying twist that even I didn't see coming. I saw some potential threads of it, but didn't put together how it would all fit together. Probably because I was reeling from the graphic violence and sex.
+She turns out to be one of only two good qualities in the film. The other is a satisfying twist that even I didn't see coming. I saw some potential threads of it but didn't put together how it would all fit together. Probably because I was reeling from the graphic violence and sex.
 
 I don't think I'd call it a bad movie, but it certainly wasn't good. 
 
