@@ -8,8 +8,9 @@ categories:
 ---
 {% include image.html url="https://images-na.ssl-images-amazon.com/images/I/5154bKnuYAL._AC_US218_.jpg" description="Jumanji: Welcome to the Jungle" width="218px" %}
 
-Only had time for one movie this weekend and we had to make it fit within a tight window, so we saw a movie we weren't relaly stoked about - _Jumanji: Welcome to the Jungle_. We both love The Rock and have enjoyed his other films and we laughed hysterically at _Central Intelligence_ which also featured Kevin Hart. So we knew we'd laugh but we weren't sure of much else. 
-We also really liked the first Jumanji, so now I wonder why this wasn't higher on our list.
+Only had time for one movie this weekend and we had to make it fit within a tight window, so we saw a movie we weren't relaly stoked about - _Jumanji: Welcome to the Jungle_. We both love The Rock, have enjoyed his other films, and we laughed hysterically at _Central Intelligence_ which also featured Kevin Hart. So we knew we'd laugh but we weren't sure of much else. 
+
+We also really liked the original, so now I wonder why this wasn't higher on our list.
 
 > You don't get in water with a backpack, everybody knows that.
 
