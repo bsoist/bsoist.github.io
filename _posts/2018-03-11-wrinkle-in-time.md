@@ -1,5 +1,5 @@
 ---
-title: 
+title: A Wrinkle in Time
 author: bsoist
 layout: post
 categories:
