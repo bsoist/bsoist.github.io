@@ -10,7 +10,7 @@ Years ago, I had a weekly feature on my blog where I showcased some great sites 
 
 Haven't done it in a while, and I've discovered a few really cool sites I've saved to share sometime.
 
-{% include image.html url="https://upload.wikimedia.org/wikipedia/commons/d/da/Internet2.jpg" description="Breakfast at Tiffany's" width="320px" %}
+{% include image.html url="https://upload.wikimedia.org/wikipedia/commons/d/da/Internet2.jpg" description="Great Sites" width="320px" %}
 
 Enjoy...
 
