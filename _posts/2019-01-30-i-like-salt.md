@@ -6,7 +6,7 @@ categories:
   - family
   - faith
 ---
-Writing my morning pages the other day, I found myself reminiscing about a [fun story about dad](dad). 
+Writing my morning pages the other day, I found myself reminiscing about a [fun story about dad][dad].
 
 He learned, after many years of eating pretzels and cashews, that he really didn't like either. He liked salt.
 
