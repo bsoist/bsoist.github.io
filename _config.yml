@@ -7,8 +7,8 @@ permalink: /:title/
 # Setup
 title: Well if you ask me...
 description: my thoughts on faith, family, freedom, and fun
-url:              http://www.bsoi.st
-feed_url:              http://feed.bsoi.st
+url:              https://www.bsoi.st
+feed_url:              https://feed.bsoi.st
 baseurl: /
 
 author:

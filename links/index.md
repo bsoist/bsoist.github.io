@@ -9,7 +9,7 @@ layout: page
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
     $(function(){
-        $("#includedContent").load("http://links.bsoi.st/links.html");
+        $("#includedContent").load("https://links.bsoi.st/links.html");
     });
 </script>
 <div id="includedContent"></div>
