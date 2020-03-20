@@ -17,4 +17,4 @@ But I have noticed over the last ten years or so that I fall into a bit of a fun
 
 As I've written before, I'm an emotional sort, so the holidays has also always brought a certain amount of reflection and nostalgia, etc. Perhaps I just feel these things more acutely than I did when I was younger. Maybe because I have adult children of my own now, the feelings are exaggerated. 
 
-In any case, I want to get through the holidays. I don't want to rush them, because I do miss the festivities when they are over, but part of my looks forward to feeling more normal again.
+In any case, I want to get through the holidays. I don't want to rush them, because I do miss the festivities when they are over, but part of me looks forward to feeling more normal again.
