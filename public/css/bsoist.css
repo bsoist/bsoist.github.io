@@ -1,0 +1,11 @@
+h3.next, h3.prev {
+    display:inline;
+}
+
+h3.next {
+    float:right;
+}
+
+h3.prev {
+    float:left;
+}
