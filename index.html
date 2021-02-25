@@ -11,8 +11,9 @@ title: Home
         {{ post.title }}
       </a>
     </h2>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <div class="postmetadata">  
+    <span class="post-date updated">{{ post.date | date_to_string }}</span>
+    </div>
     {{ post.excerpt }}
     <a href="{{ post.url }}">read more</a>
   </div>
