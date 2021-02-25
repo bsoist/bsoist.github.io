@@ -35,3 +35,10 @@ h3.next, h3.previous {
     display:inline;
 }
 
+h3.next {
+    float:right;
+}
+
+h3.previous {
+    float:left;
+}
