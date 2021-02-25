@@ -2,11 +2,10 @@
 layout: default
 ---
 
+
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <div class=”postmetadata”>
-    <span class="post-date updated">{{ page.date | date: "%b %d, %Y" }}</span>
-  </div>
+  <div class=”entry-meta”><a class=”entry-date published”>{{ page.date | date: "%B %d, %Y" }}<</a></div>
   {{ content }}
   {% include disqus.html %}
 </div>
