@@ -1,10 +1,14 @@
 ---
 layout: default
 ---
-
+<div class=”postmetadata”>
+  Posted on <span class=”updated”>Jan 15, 2016</span> 
+</div>
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <div class=”postmetadata”>
+    <span class="post-date updated">{{ page.date | date_to_string }}</span>
+  </div>
   {{ content }}
   {% include disqus.html %}
 </div>
