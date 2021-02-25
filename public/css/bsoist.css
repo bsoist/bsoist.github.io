@@ -1,11 +1,19 @@
-h3.next, h3.prev {
-    display:inline;
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
-h3.next {
-    float:right;
+.post-nav p {
+    flex: 1 1 0;
+    width: 45%;
 }
 
-h3.prev {
-    float:left;
+.post-nav p:first-child {
+    padding-right: 0.5em;
+}
+
+.post-nav p:last-child {
+    padding-left: 0.5em;
+    text-align: right;
 }
