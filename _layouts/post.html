@@ -5,7 +5,7 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class=”postmetadata”>
-    <span class="post-date updated">{{ page.date | date_to_string }}</span>
+    <span class="post-date updated">{{ page.date | date: "%b %d, %Y" }}</span>
   </div>
   {{ content }}
   {% include disqus.html %}
