@@ -1,5 +1,5 @@
 ---
-title: delawareonline Ãƒâ€šÃ‚Â¦ The News Journal Ãƒâ€šÃ‚Â¦ Privatized I-95 deals kept secret
+title: The News Journal¦ Privatized I-95 deals kept secret
 author: bsoist
 layout: post
 categories:

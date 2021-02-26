@@ -9,7 +9,7 @@ tags:
   - rss
   - tech
 ---
-I&#8217;ve finally decided how to manage all the content I&#8217;d like to consume &#8211; I think <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+I&#8217;ve finally decided how to manage all the content I&#8217;d like to consume &#8211; I think. :)
 
 Until yesterday, I was tracking 341 feeds in my [bloglines][1] account. I&#8217;ve had a base set of about 310 for quite a while and I add new feeds all the time to a *test* folder. I was having difficulty feeling in control of all that info for a couple of reasons.
 

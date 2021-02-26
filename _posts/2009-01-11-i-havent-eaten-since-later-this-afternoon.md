@@ -32,11 +32,11 @@ I&#8217;ll say we were confused! That&#8217;s what sent us looking online for ex
 > 3. Look at this timeline chart: <http://neuwanstein.fw.hu/primer_timeline.html>  
 > Read over it twice. 
 
-The comments point out four other timelines and we reviewed three of those (fourth no longer available) too. Billy prefers a more narrative understanding of the movie and preferred [this one][4]. I like the dates and times so I preferred [this one][5], which is low on speculation and very succinct. [The third][6] is an interesting take loaded with speculation &#8211; fine with me. <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+The comments point out four other timelines and we reviewed three of those (fourth no longer available) too. Billy prefers a more narrative understanding of the movie and preferred [this one][4]. I like the dates and times so I preferred [this one][5], which is low on speculation and very succinct. [The third][6] is an interesting take loaded with speculation &#8211; fine with me. :)
 
 Can&#8217;t move on to step four until we get a DVD copy again. We checked a local store and didn&#8217;t find it so I&#8217;ve ordered my copy. Amazon&#8217;s DFC is just a few miles from here so it&#8217;s actually posssilbe I will get it tomorrow (even though it&#8217;s Sunday), but we can wait a few days if we must.
 
-I&#8217;m sure I will have more to say about this one another time. <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+I&#8217;m sure I will have more to say about this one another time. :)
 
 Go, watch it! There is a [&#8220;ten step&#8221; program][7] for you if you need it.
 

@@ -11,7 +11,7 @@ tags:
 ---
 I&#8217;ve always preferred college football to the NFL. Teams always seemed to take chances in order to earn points in the eyes of voters. I understand that this may take away from the strategy necessary to win a game in some cases, but it gives the game a level of excitement that is not present in a more conservative gameplan. 
 
-That being said, I&#8217;ve come away from many seasons with a sense of disappointment at the way the national champion was decided. Not this season, mind you &#8211; I&#8217;m very happy my Gators pulled it off <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> but in many other seasons, I&#8217;ve been less than excited. 
+That being said, I&#8217;ve come away from many seasons with a sense of disappointment at the way the national champion was decided. Not this season, mind you &#8211; I&#8217;m very happy my Gators pulled it off but in many other seasons, I&#8217;ve been less than excited. 
 
 I was hopeful when the BCS was instituted, and in my opinion it has done a better job of choosing a champion than the previous system. My problem with the BCS is that it seems to have ruined the bowl season. What I remember as one or two days of great football has become almost two weeks of mostly inconsequential games named after greedy corporations. 
 
