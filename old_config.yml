@@ -37,7 +37,7 @@ google_analytics: UA-7456633-7
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.bsoi.st
+url: https://www.bsoi.st
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -45,9 +45,6 @@ url: http://www.bsoi.st
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-feedurl: "http://www.bsoi.st/feed.xml"
-
-namedrop: "http://notes.bsoi.st/notes/#a1423426606"
 
 # Pagination
 paginate: 30
