@@ -1,3 +1,4 @@
+---
 title: 10 Things I Hate About Google+
 author: bsoist
 layout: post

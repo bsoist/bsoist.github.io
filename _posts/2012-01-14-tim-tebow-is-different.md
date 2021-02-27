@@ -1,3 +1,4 @@
+---
 title: Tim Tebow Is Different
 author: bsoist
 layout: post
