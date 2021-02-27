@@ -9,6 +9,8 @@ tags:
   - monument
   - nobel
   - peace
+dsq_thread_id:
+  - 48067628
 ---
 [Yesterdays post][1] reminded me of a great site I wanted to share with you.
 
@@ -18,5 +20,3 @@ I find it inspiring.
 
  [1]: http://whsjr.soistmann.com/oped/2009/10/12/obama-wins-nobel-peace-prize-i-agree-with-bill-oreilly/
  [2]: http://peace.maripo.com/
-dsq_thread_id:
-  - 48067628

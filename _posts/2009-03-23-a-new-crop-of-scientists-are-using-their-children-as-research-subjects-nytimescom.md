@@ -7,6 +7,8 @@ categories:
   - freedom
 tags:
   - science
+dsq_thread_id:
+  - 49836757
 ---
 Apparently, some scientists use their own children as test subjects in the name of science.
 
@@ -15,5 +17,3 @@ Apparently, some scientists use their own children as test subjects in the name 
 > <cite> &#8212; <a href="http://www.nytimes.com/2009/01/18/science/18kids.html?_r=1&ref=todayspaper">A New Crop of Scientists Are Using Their Children as Research Subjects &#8211; NYTimes.com</a></cite>
 
 I love science as much as anyone, but this is very disturbing to me. Does anyone NOT see an ethical issue here?
-dsq_thread_id:
-  - 49836757

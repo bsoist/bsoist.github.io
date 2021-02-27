@@ -8,6 +8,8 @@ tags:
   - geek
   - rss
   - tech
+dsq_thread_id:
+  - 51142118
 ---
 I&#8217;ve finally decided how to manage all the content I&#8217;d like to consume &#8211; I think. :)
 
@@ -44,5 +46,3 @@ I exported my subscriptions from bloglines, edited the OPML to include only news
  [5]: http://weblogs.jupiterresearch.com/analysts/peterson/
  [6]: http://www.lawsy.net/blog/241/
  [7]: http://the-deblog.blogspot.com/archives/2005_10_01_the-deblog_archive.html#112930251907773877
-dsq_thread_id:
-  - 51142118

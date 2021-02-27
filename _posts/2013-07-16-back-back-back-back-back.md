@@ -2,8 +2,6 @@
 title: 'Back, back, back, back, back &#8230;'
 author: bsoist
 layout: post
-dsq_thread_id:
-  - 
 pdrp_attributionLocation:
   - end
 categories:

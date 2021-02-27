@@ -7,6 +7,8 @@ categories:
 tags:
   - oscars
   - movies
+dsq_thread_id:
+  - 53566238
 ---
 I forgot to post these before the show started. Oops!
 
@@ -63,5 +65,3 @@ Documentary Feature: Encounters at the End of the World (Man on Wire)
 Documentary Short: The Witness &#8211; the only one I saw in this category <img src='http://archive.whsjr.soistmann.com/oped/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
 
 Foreign Language Film: Waltz with Bashir &#8211; didn&#8217;t see any in this category.
-dsq_thread_id:
-  - 53566238

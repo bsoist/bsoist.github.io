@@ -9,6 +9,8 @@ categories:
 tags:
   - energy
   - environment
+dsq_thread_id:
+  - 50698807
 ---
 This great site lets you donate your computer&#8217;s processing power to be used for good.
 
@@ -23,5 +25,3 @@ Then I set the runtime settings so that this program runs as my screen saver. An
 You should check it out. If you find other projects online worth checking out, let me know.
 
  [1]: http://www.worldcommunitygrid.org/
-dsq_thread_id:
-  - 50698807

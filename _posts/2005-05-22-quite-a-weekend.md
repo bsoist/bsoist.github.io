@@ -4,6 +4,8 @@ author: bsoist
 layout: post
 categories:
   - family
+dsq_thread_id:
+  - 50172405
 ---
 You may or may not know that I&#8217;m not really a handyman. This weekend I had the opportunity to do some things I don&#8217;t normally do.
 
@@ -12,5 +14,3 @@ You may or may not know that I&#8217;m not really a handyman. This weekend I had
 3. go to home depot
 
 Havin&#8217; fun.
-dsq_thread_id:
-  - 50172405

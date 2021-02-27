@@ -4,8 +4,8 @@ author: bsoist
 layout: post
 categories:
   - freedom
+dsq_thread_id:
+  - 52383202
 ---
 Young people standing up for our planet on Monday.
 
-dsq_thread_id:
-  - 52383202

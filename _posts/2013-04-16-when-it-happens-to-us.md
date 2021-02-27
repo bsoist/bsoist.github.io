@@ -2,8 +2,6 @@
 title: When it happens to us
 author: bsoist
 layout: post
-dsq_thread_id:
-  - 
 categories:
   - faith
   - family

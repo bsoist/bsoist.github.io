@@ -4,6 +4,8 @@ author: bsoist
 layout: post
 categories:
   - family
+dsq_thread_id:
+  - 47826524
 ---
 I&#8217;ve been planning to share this site whenever I was in the mood to talk about science.
 
@@ -15,5 +17,3 @@ One of my biggest concerns is that our high school students are graduating witho
 
  [1]: http://whsjr.soistmann.com/oped/2009/10/19/is-intelligent-design-science/
  [2]: http://www.copusproject.org/
-dsq_thread_id:
-  - 47826524

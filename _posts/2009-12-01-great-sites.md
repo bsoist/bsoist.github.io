@@ -4,6 +4,8 @@ author: bsoist
 layout: post
 categories:
   - fun
+dsq_thread_id:
+  - 49031833
 ---
 [Confusing Words][1]
 [Project Censored &#8211; Media Democracy in Action][2]
@@ -29,5 +31,3 @@ categories:
  [8]: http://habitforge.com/
  [9]: http://www.visualwalkthroughs.com/index.html
  [10]: http://refactormycode.com/
-dsq_thread_id:
-  - 49031833

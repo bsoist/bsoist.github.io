@@ -4,9 +4,7 @@ author: bsoist
 layout: page
 pdrp_attributionLocation:
   - end
-  dsq_thread_id:
-    -
-    ---
+---
     You&#8217;re all set, and should start to receive daily email updates from my blog.
 
     Until then, you can browse my latest posts &#8211; [start over here][1].

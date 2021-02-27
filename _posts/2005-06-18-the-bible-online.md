@@ -6,6 +6,8 @@ categories:
   - faith
 tags:
   - bible
+dsq_thread_id:
+  - 49942865
 ---
 In 1999, I was all excited about using online tools to read and study the Scriptures. It was part of my daily routine. I quickly gave up on this for the convenience of using &#8216;a real Bible.&#8217; In the last couple years I have shown my students where these tools are and how to find them, but I don&#8217;t really use them myself. Another teacher (who is not a hacker by any means) shared during devotions one day about how she uses her WebTV to hear the scriptures read to her, but it didn&#8217;t really push me to get back into it. My father-in-law was here about ten days ago and he asked me what I knew about online Bibles and bible study. I told him what little I knew, but had to admit that I know very little. His question nudged me to look into this again for a couple of reasons. 
 
@@ -16,5 +18,3 @@ In 1999, I was all excited about using online tools to read and study the Script
 Anyway, I found [these][1] to start with.
 
  [1]: http://de.lirio.us/rubric/entries/user/bsoist/tags/:06162005
-dsq_thread_id:
-  - 49942865

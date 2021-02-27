@@ -8,6 +8,8 @@ categories:
   - freedom
   - fun
   - Links
+dsq_thread_id:
+  - 47856694
 ---
 <a href="http://www.macworld.com/article/139839/stanford_itunesu.htmls" tags="iphone,programming,cs">Stanford offers free downloads of its iPhone development class | Software | iPhone Central | Macworld</a>
 :   A great way to learn iPhone programming 
@@ -45,5 +47,3 @@ categories:
 
 <a href="http://www.livescience.com/health/090328-running-perfect-pace.html" tags="science">Perfect Running Pace Revealed | LiveScience</a>
 :   "Researchers at the University of Wisconsin-Madison now have an explanation for this state of running nirvana, and we can thank our ancestors and some evolutionary biology for it." </dl>
-dsq_thread_id:
-  - 47856694

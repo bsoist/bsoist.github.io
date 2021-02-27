@@ -8,6 +8,8 @@ tags:
   - geek
   - rss
   - tech
+dsq_thread_id:
+  - 50649225
 ---
 In a [ previous post][1] I rambled on about my own personal search for the right way to manage the RSS feeds I want to read. Regular readers will remember a similar [posts about link managers][2].<!--more-->Today, I wanted to follow up with a quick review of the three readers I&#8217;ve used the most &#8211; 
 
@@ -33,5 +35,3 @@ In my [previous post][1] I mentioned two problems that compelled me to give up o
  [3]: http://bloglines.com/
  [4]: http://rojo.com/
  [5]: http://reader.google.com/
-dsq_thread_id:
-  - 50649225

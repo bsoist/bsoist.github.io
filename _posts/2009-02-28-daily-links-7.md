@@ -4,7 +4,6 @@ author: bsoist
 layout: post
 dsq_thread_id:
   - 49980981
-  - 49980981
 categories:
   - fun
 tags:

@@ -7,6 +7,8 @@ categories:
 tags:
   - powerpoint
   - tech
+dsq_thread_id:
+  - 48972217
 ---
 A few years ago, while on a plane to Seattle, my neighbor was reading an article in Wired magazine entitled &#8220;PowerPoint Is Evil.&#8221; I couldn&#8217;t help notice the title and once he finished with the magazine, I sttuck up a conversation with him about the article. It was an interesting discussion and my new friend let me walk away with the magazine. I am sure I sitll have it with the rest of my <del>junk</del> stuff somewhere which is very foolish considering I can read [it][1] anytime I&#8217;d like online.I was reminded of this recently when I heard about the role PowerPoint may have played in space shuttle disaster.  
 
@@ -26,5 +28,3 @@ While checking for more info about this post, I learned that perhaps using slide
  [6]: http://www.webreference.com/outlook/column8/
  [7]: http://www.librarian.net/stax/1286
  [8]: http://www.meyerweb.com/eric/tools/s5/
-dsq_thread_id:
-  - 48972217

@@ -4,6 +4,8 @@ author: bsoist
 layout: post
 categories:
   - freedom
+dsq_thread_id:
+  - 53588792
 ---
 [The Entrepreneurial Mind: Washington is Paying Attention to Entrepreneurship][1]  
 
@@ -13,5 +15,3 @@ categories:
 Less government, fair taxes &#8211; or no taxes <i class="fa fa-smile-o"></i> This is really what everyone needs, right?
 
  [1]: http://forum.belmont.edu/cornwall/archives/003083.html
-dsq_thread_id:
-  - 53588792

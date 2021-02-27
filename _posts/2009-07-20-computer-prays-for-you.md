@@ -7,6 +7,8 @@ categories:
 tags:
   - faith
   - prayer
+dsq_thread_id:
+  - 49079496
 ---
 [Information Age Prayer][1] is a website that will say your prayers for you when you wake up late or simply forget to pray.
 
@@ -16,5 +18,3 @@ Really?
 
  [1]: http://www.informationageprayer.com/
  [2]: http://www.livescience.com/technology/090325-computer-prayer.html
-dsq_thread_id:
-  - 49079496

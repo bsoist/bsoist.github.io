@@ -6,6 +6,8 @@ categories:
   - fun
 tags:
   - links
+dsq_thread_id:
+  - 49816510
 ---
 <ul class="delicious">
   <li>
@@ -18,5 +20,3 @@ tags:
     </div>
   </li>
 </ul>
-dsq_thread_id:
-  - 49816510
