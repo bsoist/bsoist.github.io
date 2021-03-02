@@ -6,7 +6,7 @@ pdrp_attributionLocation:
   - end
 ---
 
-To subscribe to my blog posts, head over to Medium ([@bsoist][https://blog.bsoi.st/]) and sign up there.
+To subscribe to my blog posts, head over to Medium (<a href="https://blog.bsoi.st/">@bsoist</a>) and sign up there.
 
 If you'd like to subscribe via RSS to the links I share, that's [right here][links].
 
