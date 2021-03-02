@@ -8,8 +8,11 @@ layout: page
 My name is Bill. I am a programmer, educator, and trouble maker.
 
 ## Contact Me
-I am interested in inquiries about my work, interesting partnership ideas, or any of the topics about which I write. My preferred method is email, but you can also call me at 302.645.0506.
+I am naturally curious. Feel free to contact me about my work or anything I post online. Find me on Medium ([@bsoist][https://blog.bsoi.st/]) or Twitter ([@boisst][https://twitter.com/bsoist]) or call/text me at 302.287.6178.
 
 ## About www.bsoi.st
+This place used to be where I posted my thoughts on faith, family, freedom, and fun; or wrote about what I read, listen to, and watch.
 
-This website is simply a place for me to express my opinions. I post my thoughts on faith, family, freedom, and fun. I also comment on what I read, listen to, and watch.
+I do that [over here][https://blog.bsoi.st/] now, but I still share [links here][/links/].
+
+
