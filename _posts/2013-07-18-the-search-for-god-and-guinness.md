@@ -26,7 +26,7 @@ I find the story of a man who wanted to brew beer as his calling &#8211; the ide
 
 It was also a fun read. I learned about connections between the family that never occurred to me. I had never actually thought much about Guinness as a family. It never really occurred to me that there were people behind the brand. That&#8217;s why I never wondered, as some do, whether Alec Guinness was related to the family (Apparently, he is not). It also never occurred to me that there was any connection between the dark ruby stout and the book of world records I used to read at my desk while my teacher was talking about who knows what &#8211; perhaps one day we learned about the Guinness family while I was reading their book.
 
-While searching for a couple of quotes from the book, I learned that there are at least a few other stories of members of the Guinness family that have given of themselves for the greater good of their community and the world. Stories not included in the book. I have no doubt that God, if she exists, has used the Guinness family for great good in the world, and they continue to do so.
+While searching for a couple of quotes from the book, I learned that there are at least a few other stories of members of the Guinness family that have given of themselves for the greater good of their community and the world. Stories not included in the book. 
 
 I&#8217;m glad I know now.
 
