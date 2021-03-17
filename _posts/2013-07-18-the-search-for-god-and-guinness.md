@@ -14,7 +14,6 @@ categories:
   <a href="http://www.amazon.com/gp/product/B004AYDAWM/ref=as_li_ss_il?ie=UTF8&#038;camp=1789&#038;creative=390957&#038;creativeASIN=B004AYDAWM&#038;linkCode=as2&#038;tag=weifyoasme-20"><img width="174.5" height="255.5" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B004AYDAWM&#038;Format=_SX500_&#038;ID=AsinImage&#038;MarketPlace=US&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=weifyoasme-20" /></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=weifyoasme-20&#038;l=as2&#038;o=1&#038;a=B004AYDAWM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
-> Men can go wrong with wine and women. Shall we then prohibit and abolish women?<cite>Mansfield quoting Martin Luther</cite>
 
 The Search for God and Guinness, by Stephen Mansfield, was a fascinating read. The book&#8217;s subtitle &#8211; A Biography of the Beer that Changed the World &#8211; sets the author up for a momentous task. One can&#8217;t simply make that kind of statement and not back it up with a great story, and Mansfield certainly delivered if you ask me.
 
