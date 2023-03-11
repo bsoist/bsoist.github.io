@@ -12,5 +12,5 @@ If you'd like to subscribe via RSS to the links I share, that's [right here][lin
 
 The old RSS feed [is here][www] in case you have some need for it. 
 
-[links]: http://feeds.feedburner.com/BsoistsLinkblogFeed
+[links]: https://www.bsoi.st/links/rss.xml
 [www]: http://feed.bsoi.st
