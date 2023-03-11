@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:source="http://source.smallpict.com/2014/07/12/theSourceNamespace.html">
+	<channel>
+		<title>bsoist&apos;s linkblog feed</title>
+	<link>http://www.bsoi.st/links/</link>
+		<description>bsoist&apos;s linkblog.</description>
+		<language>en-us</language>
+		<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Feb 2023 00:08:38 GMT</lastBuildDate>
+		<generator>https://github.com/bsoist/ShortenLinks</generator>
+		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+		<webMaster>bsoist@whsjr.soistmann.com (Bill Soistmann)</webMaster>
+		<source:account service="facebook">bsoist</source:account>
+		<source:account service="twitter">bsoist</source:account>
+	<source:avatar>http://www.bsoi.st/images/me.jpg</source:avatar>
+		<cloud domain="rpc.rsscloud.org" port="5337" path="/rsscloud/pleaseNotify" registerProcedure="" protocol="http-post" />
+		<source:archive>
+			<source:url>http://www.bsoi.st/links/</source:url>
+			<source:filename>rss.xml</source:filename>
+			<source:startDay>2014-01-01</source:startDay>
+			<source:endDay>2023-02-16</source:endDay>
+		</source:archive>
+		<source:localTime>02/16/2023; 12:08:38 AM</source:localTime>
+		
+		<item>
+			<title>You are not going to believe what I'm about to tell you</title>
+			<description>You are not going to believe what I'm about to tell you</description>
+			<link>http://l3.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://l3.bsoi.st</guid>
+			<source:linkFull>https://theoatmeal.com/comics/believe</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Why Everything You Buy Is Worse Now</title>
+			<description>Why Everything You Buy Is Worse Now</description>
+			<link>http://xq.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://xq.bsoi.st</guid>
+			<source:linkFull>https://kottke.org/23/02/why-everything-you-buy-is-worse-now</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>What I Think About LeBron Breaking My NBA Scoring Record</title>
+			<description>What I Think About LeBron Breaking My NBA Scoring Record</description>
+			<link>http://y2.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://y2.bsoi.st</guid>
+			<source:linkFull>https://kareem.substack.com/p/what-i-think-about-lebron-breaking</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Guess the year a photo was taken</title>
+			<description>Guess the year a photo was taken</description>
+			<link>http://wm.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://wm.bsoi.st</guid>
+			<source:linkFull>https://www.chronophoto.app/game.html</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Geometric Primes</title>
+			<description>Geometric Primes</description>
+			<link>http://qh.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://qh.bsoi.st</guid>
+			<source:linkFull>https://www.c82.net/work/?id=392</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Mac 30th Anniversary Icons</title>
+			<description>Mac 30th Anniversary Icons</description>
+			<link>http://b3.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://b3.bsoi.st</guid>
+			<source:linkFull>https://rknightuk.github.io/mac-30-font-svg/</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Why we all need subtitles now</title>
+			<description>Why we all need subtitles now</description>
+			<link>http://zq.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://zq.bsoi.st</guid>
+			<source:linkFull>https://kottke.org/23/01/why-we-all-need-subtitles-now</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Disfrustrating Puzzles</title>
+			<description>Disfrustrating Puzzles</description>
+			<link>http://h7.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://h7.bsoi.st</guid>
+			<source:linkFull>https://kottke.org/23/01/disfrustrating-puzzles</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>The Wonders of Street View</title>
+			<description>I happend to catch a picture of one dude on a ladder who appeared to be dumping a bottle of water on top of another dude on a ladder</description>
+			<link>http://sp.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://sp.bsoi.st</guid>
+			<source:linkFull>https://neal.fun/wonders-of-street-view/</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>The kind of resolutions that might help (and you can follow)</title>
+			<description>The kind of resolutions that might help (and you can follow)</description>
+			<link>http://7f.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://7f.bsoi.st</guid>
+			<source:linkFull>https://www.theverge.com/tldr/2022/12/26/23523235/new-years-resolution-self-improvement</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Super Mario Bros Was Designed on Graph Paper</title>
+			<description>I love me some Super Mario Bros!</description>
+			<link>http://8w.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://8w.bsoi.st</guid>
+			<source:linkFull>https://kottke.org/15/06/super-mario-bros-was-designed-on-graph-paper</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>The Seven Dispositions of Task Management</title>
+			<description>The Seven Dispositions of Task Management</description>
+			<link>http://7y.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://7y.bsoi.st</guid>
+			<source:linkFull>https://randsinrepose.com/archives/the-seven-dispositions-of-task-management/</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>The Top 100</title>
+			<description>I absolutely love this kind of close-up photography</description>
+			<link>http://bj.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://bj.bsoi.st</guid>
+			<source:linkFull>https://www.cupoty.com/winners-04</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>A Beautiful Typographic Mini Golf Game</title>
+			<description>A Beautiful Typographic Mini Golf Game</description>
+			<link>http://ro.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://ro.bsoi.st</guid>
+			<source:linkFull>https://kottke.org/23/01/a-beautiful-typographic-mini-golf-game</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Why do we need Flask, Celery, and Redis?</title>
+			<description>Full of fun, effective analogies</description>
+			<link>http://vq.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://vq.bsoi.st</guid>
+			<source:linkFull>https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>A Decade of Urban Transformation, Seen From Above</title>
+			<description>A Decade of Urban Transformation, Seen From Above - fascinating!</description>
+			<link>http://k9.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://k9.bsoi.st</guid>
+			<source:linkFull>https://www.nytimes.com/interactive/2019/12/27/upshot/america-from-above.html</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>“22 Things That Happened for the First Time in 2019”</title>
+			<description>interesting</description>
+			<link>http://hl.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://hl.bsoi.st</guid>
+			<source:linkFull>https://www.nytimes.com/2019/12/05/opinion/22-things-that-happened-for-the-first-time-in-2019.html</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>President Trump has blown any idea of “normal” to smithereens</title>
+			<description>President Trump has blown any idea of “normal” to smithereens</description>
+			<link>http://bk.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://bk.bsoi.st</guid>
+			<source:linkFull>https://www.nytimes.com/interactive/2019/12/27/opinion/sunday/2010s-america-trump.html</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Microsoft will fix your sexist PowerPoint presentations with AI</title>
+			<description>Microsoft will fix your sexist PowerPoint presentations with AI</description>
+			<link>http://9v.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://9v.bsoi.st</guid>
+			<source:linkFull>https://www.fastcompany.com/90365150/microsoft-will-fix-your-sexist-powerpoint-presentations-with-ai</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Westminster Dog Show: King Continues Reign of Terriers</title>
+			<description>The terrier group has been awarded best in show 47 times, making them the New England Patriots of the dog show world.</description>
+			<link>http://qr.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://qr.bsoi.st</guid>
+			<source:linkFull>https://www.nytimes.com/2019/02/12/sports/westminster-dog-show-best-in-show.html</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Painting Socialists as Villains, Trump Refreshes a Blueprint - The New York Times</title>
+			<description>Painting Socialists as Villains, Trump Refreshes a Blueprint - The New York Times</description>
+			<link>http://po.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://po.bsoi.st</guid>
+			<source:linkFull>https://www.nytimes.com/2019/02/06/us/politics/socialism-donald-trump.html?module=inline</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Looking at this this thing on my iPhone: A user's manual</title>
+			<description>A fun look at how weirdly possessive and defensive we are about our phones</description>
+			<link>http://yw.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://yw.bsoi.st</guid>
+			<source:linkFull>https://www.newyorker.com/humor/daily-shouts/looking-at-this-thing-on-my-phone-a-users-manual</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Baltimore Will Stop Prosecuting Marijuana Possession Cases</title>
+			<description>The interim police commissioner, Gary Tuggle, said he would not tell officers to stop making marijuana arrests.</description>
+			<link>http://zk.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://zk.bsoi.st</guid>
+			<source:linkFull>https://nyti.ms/2HFUwJR</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>The U.A.E. Handed Out Gender Equality Awards: All Went to Men </title>
+			<description>The U.A.E. Handed Out Gender Equality Awards: All Went to Men </description>
+			<link>http://fj.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://fj.bsoi.st</guid>
+			<source:linkFull>https://nyti.ms/2Hx6u8y</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>No Wonder Donald Trump Kept Going Bankrupt | The New Yorker</title>
+			<description>No Wonder Donald Trump Kept Going Bankrupt | The New Yorker</description>
+			<link>http://b0.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://b0.bsoi.st</guid>
+			<source:linkFull>https://www.newyorker.com/magazine/2019/02/04/no-wonder-donald-trump-kept-going-bankrupt</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Benefits of a daily diary and topic journals | Derek Sivers</title>
+			<description>Benefits of a daily diary and topic journals | Derek Sivers</description>
+			<link>http://my.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://my.bsoi.st</guid>
+			<source:linkFull>https://sivers.org/dj</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>Universities</title>
+			<description>could</description>
+			<link>http://lq.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://lq.bsoi.st</guid>
+			<source:linkFull>https://nyti.ms/2HuVIQ6?smid=nytcore-ios-share</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>He Disparaged the Police on Facebook. So They Arrested Him.</title>
+			<description>Like lots of Americans, Robert Frese is not shy about expressing his views on the internet.</description>
+			<link>http://em.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://em.bsoi.st</guid>
+			<source:linkFull>https://www.nytimes.com/2019/01/07/us/politics/criminal-libel-laws-lawsuit.html</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>George Bush and the Obituary Wars</title>
+			<description>But we do seem to be getting worse at complexity. At nuance.</description>
+			<link>http://7j.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://7j.bsoi.st</guid>
+			<source:linkFull>https://www.nytimes.com/2018/12/04/opinion/george-hw-bush-obituary.html</source:linkFull>
+		</item>
+
+
+		<item>
+			<title>A Substitute Teacher Told First Graders That Santa Isn’t Real</title>
+			<description>A Substitute Teacher Told First Graders That Santa Isn’t Real</description>
+			<link>http://td.bsoi.st</link>
+			<pubDate>Thu, 16 Feb 2023 00:08:38 GMT</pubDate>
+			<guid>http://td.bsoi.st</guid>
+			<source:linkFull>https://friendlyatheist.patheos.com/2018/12/06/a-substitute-teacher-told-first-graders-that-santa-isnt-real/</source:linkFull>
+		</item>
+
+	</channel>
+</rss>
+
