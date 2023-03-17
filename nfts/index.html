@@ -24,8 +24,7 @@ title: Home
     <div class="postmetadata">  
     <span class="post-date updated">{{ post.date | date_to_string }}</span>
     </div>
-    {{ post.excerpt }}
-    <a href="{{ post.url }}">read more</a>
+    {{ post.content }}
   </div>
   {% endfor %}
 </div>
