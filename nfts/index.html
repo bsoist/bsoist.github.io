@@ -3,7 +3,16 @@ layout: default
 title: Home
 ---
 
+
 <div class="posts">
+  <div class="post">
+    <h2 class="post-title">NFTs</h2>
+    This is a test
+
+    Testing
+    one
+    two
+  </div>
   {% for post in site.categories['nfts'] %}
   <div class="post">
     <h2 class="post-title">
@@ -18,21 +27,4 @@ title: Home
     <a href="{{ post.url }}">read more</a>
   </div>
   {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
 </div>
