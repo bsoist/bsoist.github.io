@@ -6,19 +6,19 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <% if post.title %>
+    {% if post.title %}
     <h2 class="post-title">
       <a href="{{ post.url }}">
         FOO
         {{ post.title }}
       </a>
     </h2>
-    <% endif %>
-    <% if post.date %>
+    {% endif %}
+    {% if post.date %}
     <div class="postmetadata">  
     <span class="post-date updated">{{ post.date | date_to_string }}</span>
     </div>
-    <% endif %>
+    {% endif %}
     {{ post.excerpt }}
     <a href="{{ post.url }}">read more</a>
   </div>
