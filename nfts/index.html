@@ -1,0 +1,14 @@
+{% include header.html %}
+<div class="page-header">
+<h1>Browsing {{ page.catname }}</h1>
+</div>
+<div class="entry-content">
+    {% if site.categories[page.cat] %}
+        {% for post in site.categories[page.cat] %}
+        <li class="postlist"><a href="{{ post.url }}/">{{ post.title }}</a></li>
+        {% endfor %}
+    {% else %}
+        <p>There are no posts in this category.</p>
+    {% endif %}
+</div>
+{% include footer.html %}
