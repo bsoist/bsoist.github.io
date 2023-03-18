@@ -2,7 +2,7 @@
 author: bsoist
 layout: nft
 categories:
-  - nfts
+  - nft-favs
 hidden: true
 ---
 My first NFTs were CrytpKitties, which I started experimenting with about four years ago. I'm not sure this was the first one, but I only own three now. 

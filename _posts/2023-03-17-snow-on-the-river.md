@@ -2,7 +2,8 @@
 author: bsoist
 layout: nft
 categories:
-  - nfts
+  - nft-favs
+  - nft-photos
 hidden: true
 ---
 {% include nftimage.html 
