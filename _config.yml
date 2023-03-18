@@ -32,5 +32,3 @@ exclude:
     - LICENSE
     - LICENSE.md
     - README.md
-
-remote_theme: fongandrew/hydeout
