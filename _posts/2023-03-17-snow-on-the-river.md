@@ -6,6 +6,8 @@ categories:
   - nft-comp
 hidden: true
 ---
+This was the first picture I created using <a href="https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F">Midjourney</a>
+
 {% include nftimage.html 
 
 url="https://i.seadn.io/gcs/files/d5910b906e0aac64c347b6838014f83c.png?auto=format&w=1000" 
