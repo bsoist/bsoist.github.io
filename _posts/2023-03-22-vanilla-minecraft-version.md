@@ -6,12 +6,10 @@ categories:
   - nft-mc
 hidden: true
 ---
-{% if page.id %}
-<div>ID</div>
-{% endif %}
-{% if page.collection %}
-<div>COLLECTION</div>
-{% endif %}
+  <div>
+{% page.id %}
+{% page.collection %}
+  </div>
 
 {% include nftimage.html 
 
