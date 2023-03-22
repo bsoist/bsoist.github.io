@@ -3,6 +3,7 @@ author: bsoist
 layout: nft
 categories:
   - nft-vanilla
+  - nft-mc
 hidden: true
 ---
 {% include nftimage.html 

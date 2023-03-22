@@ -2,14 +2,7 @@
 author: bsoist
 layout: nft
 categories:
-  - nft-circles
-  - nft-closeup
-  - nft-comp
   - nft-mc
-  - nft-photos
-  - nft-vanilla
-  - nft-favs
-  - nft-kitties
 hidden: true
 ---
 {% include nftimage.html 
