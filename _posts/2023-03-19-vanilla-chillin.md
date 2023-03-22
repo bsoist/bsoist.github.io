@@ -6,6 +6,7 @@ categories:
   - nft-favs
 hidden: true
 ---
+{% include vanilla.html %}
 The world's best dog!
 
 {% include nftimage.html 
