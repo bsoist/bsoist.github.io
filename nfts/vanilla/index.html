@@ -9,7 +9,9 @@ title: Home
     <h2 class="post-title">NFTs - Vanilla</h2>
     <a href="https://opensea.io/collection/vanilla-v2" target="_blank">See this collection on OpenSea</a>
   </div>
-  <div>{% include vanilla.html %}</div>
+{% if page.id %}
+<div>{% include vanilla.html %}</div>
+{% endif %}
   {% for post in site.categories['nft-vanilla'] %}
   <div class="post">
     <h2 class="post-title">
