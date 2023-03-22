@@ -7,8 +7,8 @@ categories:
 hidden: true
 ---
   <div>
-{% page.id %}
-{% page.collection %}
+{{ page.id }}
+{{ page.collection }}
   </div>
 
 {% include nftimage.html 
