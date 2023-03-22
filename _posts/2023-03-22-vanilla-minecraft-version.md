@@ -5,12 +5,8 @@ categories:
   - nft-vanilla
   - nft-mc
 hidden: true
+excerpt_separator: <!-- more -->
 ---
-  <div>
-{{ page.id }}
-{{ page.collection }}
-  </div>
-
 {% include nftimage.html 
 
 url="https://i.seadn.io/gae/QFVXqVJAVwCC8xh9XVKpt4IUqGLYzkmBVuRxhA8nlxLPV3SB8JSa1x6CFzBZe1Z3wekCmpmfPQqjdR1haV3x_1mJVNDpNCYCcH10Zr0?auto=format&w=1000"
@@ -21,3 +17,5 @@ lazy_url="https://lazy.com/ethereum/0x0d3b8253e644a397fc3da823bf65b8dc88673eef/0
 
 %}
 
+<!-- more -->
+{% include vanilla.html %}
