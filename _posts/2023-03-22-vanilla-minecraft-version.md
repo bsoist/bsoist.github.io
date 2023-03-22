@@ -6,7 +6,10 @@ categories:
   - nft-mc
 hidden: true
 ---
-{% include vanilla.html %}
+{% if page.is_post? %}
+<div>{% include vanilla.html %}</div>
+{% endif %}
+
 {% include nftimage.html 
 
 url="https://i.seadn.io/gae/QFVXqVJAVwCC8xh9XVKpt4IUqGLYzkmBVuRxhA8nlxLPV3SB8JSa1x6CFzBZe1Z3wekCmpmfPQqjdR1haV3x_1mJVNDpNCYCcH10Zr0?auto=format&w=1000"
