@@ -7,7 +7,10 @@ categories:
 hidden: true
 ---
 {% if page.id %}
-<div>{% include vanilla.html %}</div>
+<div>ID</div>
+{% endif %}
+{% if page.collection %}
+<div>COLLECTION</div>
 {% endif %}
 
 {% include nftimage.html 
