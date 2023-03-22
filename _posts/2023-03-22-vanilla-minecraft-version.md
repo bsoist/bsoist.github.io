@@ -6,7 +6,7 @@ categories:
   - nft-mc
 hidden: true
 ---
-{% if page.is_post? %}
+{% if page.id %}
 <div>{% include vanilla.html %}</div>
 {% endif %}
 
