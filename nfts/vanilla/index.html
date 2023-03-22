@@ -12,6 +12,9 @@ title: Home
   <div>
 {{ page.id }}
 {{ page.collection }}
+{% if page.collection %}
+COLLECTION
+{% endif %}
   </div>
   {% for post in site.categories['nft-vanilla'] %}
   <div class="post">
