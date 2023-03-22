@@ -1,0 +1,24 @@
+---
+author: bsoist
+layout: nft
+categories:
+  - nft-circles
+  - nft-closeup
+  - nft-comp
+  - nft-mc
+  - nft-photos
+  - nft-vanilla
+  - nft-favs
+  - nft-kitties
+hidden: true
+---
+{% include nftimage.html 
+
+url="https://i.seadn.io/gae/JYvgzROCM01A8WOkJVgqpit4ypeId7FaLLMqhK3_MHIMavQ0kKXdVhSvnYO5SbmmSXEOdDSPkc4-bgWZnMXRiARiufBvaItDY9epdRQ?w=500&auto=format"
+
+description="Baby Piglin - August 2020"
+
+lazy_url="https://lazy.com/ethereum/0x0d3b8253e644a397fc3da823bf65b8dc88673eef/0x495f947276749ce646f68ac8c248420045cb7b5e/5985210497355107417265215381210579199842884272282595265964883308855865376769"
+
+%}
+
