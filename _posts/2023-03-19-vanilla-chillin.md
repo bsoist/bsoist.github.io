@@ -5,8 +5,8 @@ categories:
   - nft-vanilla
   - nft-favs
 hidden: true
+excerpt_separator: <!-- more -->
 ---
-{% include vanilla.html %}
 The world's best dog!
 
 {% include nftimage.html 
@@ -19,3 +19,5 @@ lazy_url="https://lazy.com/ethereum/0x0d3b8253e644a397fc3da823bf65b8dc88673eef/0
 
 %}
 
+<!-- more -->
+<div>{% include vanilla.html %}</div>

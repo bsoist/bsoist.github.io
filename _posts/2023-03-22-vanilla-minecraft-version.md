@@ -18,4 +18,4 @@ lazy_url="https://lazy.com/ethereum/0x0d3b8253e644a397fc3da823bf65b8dc88673eef/0
 %}
 
 <!-- more -->
-{% include vanilla.html %}
+<div>{% include vanilla.html %}</div>
