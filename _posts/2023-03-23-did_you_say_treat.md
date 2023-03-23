@@ -6,6 +6,7 @@ categories:
   - nft-favs
 hidden: true
 excerpt_separator: <!--more-->
+title: Did You Say Treat?
 ---
 {% include nftimage.html 
 url="https://i.seadn.io/gcs/files/d73fa4477b90f6a73f1e6dc414c075e8.jpg?auto=format&w=1000"

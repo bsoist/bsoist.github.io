@@ -6,6 +6,7 @@ categories:
   - nft-favs
 hidden: true
 excerpt_separator: <!--more-->
+title: Best Pup Ever
 ---
 {% include nftimage.html 
 url="https://i.seadn.io/gcs/files/921f0aabdbf3b87faa8312d37779e6b2.jpg?auto=format&w=1000"

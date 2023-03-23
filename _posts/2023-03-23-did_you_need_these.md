@@ -6,6 +6,7 @@ categories:
   - nft-favs
 hidden: true
 excerpt_separator: <!--more-->
+title: Did You Need These?
 ---
 {% include nftimage.html 
 
