@@ -15,11 +15,9 @@ title: Home
   <div class="post">
     <h2 class="post-title">
       <a href="{{ post.url }}">
-{% capture posttitle %}
   {% for word in words %}
     {{ word | capitalize }}
   {% endfor %}
-{% endcapture %}
       </a>
     </h2>
     <div class="postmetadata">  
