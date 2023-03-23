@@ -4,11 +4,6 @@ title: Home
 ---
 {% assign words = post.title | split: '_' %}
 
-{% capture posttitle %}
-  {% for word in words %}
-    {{ word | capitalize }}
-  {% endfor %}
-{% endcapture %}
 
 <div class="posts">
   <div style="margin-bottom:1em">
@@ -20,7 +15,11 @@ title: Home
   <div class="post">
     <h2 class="post-title">
       <a href="{{ post.url }}">
-        {{ posttitle }}
+{% capture posttitle %}
+  {% for word in words %}
+    {{ word | capitalize }}
+  {% endfor %}
+{% endcapture %}
       </a>
     </h2>
     <div class="postmetadata">  
