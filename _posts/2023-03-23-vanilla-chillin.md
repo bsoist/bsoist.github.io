@@ -3,7 +3,6 @@ author: bsoist
 layout: nft
 categories:
   - nft-vanilla
-  - nft-favs
 hidden: true
 excerpt_separator: <!--more-->
 ---
