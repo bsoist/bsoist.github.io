@@ -12,7 +12,7 @@ title: Home
   {% for post in site.categories['nft-vanilla'] %}
   <div class="post">
     <h2 class="post-title">
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | split: '-' | join }}">
         {{ post.title }}
       </a>
     </h2>
