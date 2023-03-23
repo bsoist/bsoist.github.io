@@ -6,7 +6,7 @@ categories:
   - nft-favs
 hidden: true
 excerpt_separator: <!--more-->
-title:The Great and Powerful
+title: The Great and Powerful
 ---
 {% include nftimage.html 
 url="https://i.seadn.io/gcs/files/09ccf838c13b41d9695a85fa3ef48067.jpg?auto=format&w=1000"
